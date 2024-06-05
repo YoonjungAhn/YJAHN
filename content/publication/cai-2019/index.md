@@ -1,0 +1,82 @@
+---
+title: "Estimating Economic Impact of Heat on China's Labor Productivity: New Evidence
+  from a CGE Model"
+authors:
+- Wenjia Cai
+- Mengzhen Zhao
+- Yidan Chen
+- Can Wang
+- Jason Lee
+- Cheryl Peters
+- Joanne Kim
+- Chaojie Song
+- Calvin Ge
+- Paul Demers
+date: '2019-01-01'
+publishDate: '2024-06-05T20:56:23.211335Z'
+publication_types:
+- article-journal
+publication: '*Occupational and Environmental Medicine*'
+doi: 10.1136/OEM-2019-EPI.185
+abstract: "Results WBGT exceeded threshold limit values for moderate/ heavy work for
+  73% outdoor workers (28.9°C±2.4°C) and 67% indoor workers (28.8°C±3.5°C). Heat stress
+  and heat-strain indicators were significantly associated (p=0.0001) and outdoor
+  workers had 2.2 times greater risk of heat-strain during hot seasons (95% CI: 1.695-2.937).
+  Compared to indoor workers, the outdoor workers ran a higher risk of self-reported
+  health decrements (OR: 6.4; 95% CI: 3.884-10.350; p=0.0001), dehydration (OR: 3.0;
+  95% CI: 2.352-3.999) and productivity losses (OR: 8.0; 95% CI: 4.911-13.382). In
+  select occupations, while indoor workers exposed to chronic high-heat had a higher
+  percentage of kidney stones (9%), the outdoor workers with long years of heat exposures
+  had the higher risk of reduced kidney function (14%) due to repeated dehydration,
+  volume depletion, and Acute Kidney Injury. Conclusion We discuss implications for
+  workers' health and productivity as climate modeling shows seriously increasing
+  outdoor and indoor heat problems without suitable control measures for cooling.
+  Strong protective labor policies and research are imperative to avoid serious health
+  impacts and to maintain productivity. High heat exposure and heat-related health
+  impacts is a well-known occupational health hazard. Though recent studies have quantified
+  high heat impacts on labor productivity in occupational group, little is known about
+  the scale of economic impacts of labor productivity losses, resulting in inadequate
+  policy response. Besides, sectors that suffer most from heat, such as agriculture,
+  service and construction, have extensive interdependent relationship with other
+  sectors in the economy. Therefore, it is also important to include these indirect
+  impacts, to avoid the underestimation of the economy-wide impacts. Computable general
+  equilibrium (CGE) model can capture direct and indirect economic impact of heat
+  on labor productivity and do the comprehensive analysis. In this study, we used
+  WBGT to estimate future labor productivity changes. Meanwhile we employed a China
+  dynamic CGE model (CHEER) with 2012 as base year in the paper to investigate the
+  economic impacts of heat on labor productivity and to find out the specific sectors'
+  losses and the whole-economy losses in China. Taking temperature projections (daily
+  maximum temperature, daily minimum temperature , and daily average temperature)
+  under RCP scenario, population projections (demographic age structure and employment
+  structure) under SSP scenario in China as input and dividing China's economic sector
+  into 22 sectors in our model, we analyzed 22 sectors' economic impacts in the long
+  term. Based on these scenarios, our study quantifies the full scope of economic
+  impact of heat on labor productivity and analyze the changes of GDP, specific sectors
+  output and industrial structure in the future. Our study could contribute to the
+  understanding of social cost of carbon in China. A range of measures for different
+  economic sectors were also suggested to reduce future economic loss from heat in
+  China. Future research needs were discussed at the end of the paper. The negative
+  effects of heat stress on work tolerance are well known. In order to optimise exercise
+  tolerance in the heat, various physiological strategies can be employed to alter
+  heat strain such as optimising work-rest cycles, maximising aerobic fitness, heat
+  acclimatisation, pre-exercise cooling and fluid ingestion. In order to optimise
+  workers' health and productivity in the heat, there is an urgent need for collaborative
+  efforts across various disciplines. A holistic heat management programme requires
+  accurate quantification of the impact due to heat stress before formulating and
+  evaluating the eventual heat mitigation strategies. The International Commission
+  on Occupational Health Scientific Committee on Thermal Factors can serve as an effective
+  platform for dedicated scientists to network and for active research and analysis
+  specific to protection of working people from excessive heat and cold exposures
+  in current and future work environments, including analysis of climate change impact
+  and mitigation analysis. This platform will enable members of Scientific Committee
+  of Thermal Factors to become co-authors on reports in major scientific journals,
+  to collaborate across country boundaries, to get recognition for their own research
+  work, and to be part of future funded global activities. Background Radon is a well-known
+  cause of lung cancer. Our goal was to estimate the prevalence and level of occupational
+  exposure to radon, and to estimate the current lung cancer burden caused by radon
+  exposure in Canadian workplaces. Methods Highly exposed (i.e. underground) workers
+  were assigned exposure proportions at the national level using Abstracts"
+links:
+- name: URL
+  url: http://oem.bmj.com/
+---

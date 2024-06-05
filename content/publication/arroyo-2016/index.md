@@ -1,0 +1,55 @@
+---
+title: Short term effect of air pollution, noise and heat waves on preterm births
+  in Madrid (Spain)
+authors:
+- Virginia Arroyo
+- Julio Díaz
+- Cristina Ortiz
+- Rocío Carmona
+- Marc Sáez
+- Cristina Linares
+date: '2016-02-01'
+publishDate: '2024-06-05T20:56:26.378699Z'
+publication_types:
+- article-journal
+publication: '*Environmental Research*'
+doi: 10.1016/J.ENVRES.2015.11.034
+abstract: 'BACKGROUND Preterm birth (PTB) refers to delivery before 37 weeks of gestation
+  and represents the leading cause of early-life mortality and morbidity in developed
+  countries. PTB can lead to serious infant health outcomes. The etiology of PTB remains
+  uncertain, but epidemiologic studies have consistently shown elevated risks with
+  different environmental variables as traffic-related air pollution (TRAP). The aim
+  of the study was to evaluate with time series methodology the short-term effect
+  of air pollutants, noise levels and ambient temperature on the number of births
+  and preterm births occurred in Madrid City during the 2001–2009 period.   METHODS
+  A time-series analysis was performed to assess the short term impact of daily mean
+  concentrations (µg/m3) of PM2.5 and PM10, O3 and NO2. Measurements of Acoustic Pollution
+  in dB(A) analyzed were: Leqd, equivalent diurnal noise level and Leqn, equivalent
+  nocturnal noise level. Maximum and Minimum daily temperature (°C), mean Humidity
+  in the air (%) and Atmospheric Pressure (HPa), were included too. Linear trends,
+  seasonality, as well as the autoregressive nature of the series itself were controlled.
+  We added as covariate the day of the week too. Autoregressive over-dispersed Poisson
+  regression models were performed and the environmental variables were included with
+  short-term lags (from 0 to 7 days) in reference to the date of birth. Firstly, simple
+  models for the total number of births and preterm births were done separately. In
+  a second stage, a model for total births adjusted for preterm births was performed.   RESULTS
+  A total of 298,705 births were analyzed. The results of the final models were expressed
+  in relative risks (RRs) for interquartile increase. We observed evidence of a short
+  term effect at Lag 0, for the following environmental variables analyzed, PM2.5
+  (RR: 1.020; 95% CI:(1.008 1.032)) and O3 (RR: 1.012; 95% CI:(1.002 1.022)) concentrations
+  and Leqd (RR: 1.139; 95% CI:( (1.124 1.154)) for the total number of births, and
+  besides these, heat temperatures at Lag 1 (RR: 1.055; 95% CI:( (1.018 1.092)) on
+  preterm births in Madrid City during the studied period. In the model adjusted for
+  preterm births, similar RR was obtained for the same environmental variables.   CONCLUSIONS
+  Especially PM2.5, diurnal noise levels and O3 have a short-term impact on total
+  births and heat temperatures on preterm births in Madrid City during the studied
+  period. Our results suggest that, given the widespread exposure of the population
+  to the environmental factors analyzed and the possible effects on long-term health
+  associated to low birth weight. There is a clear need to minimize this exposure
+  through the decrease of air pollution and noise levels and through the behavior
+  modification of the mothers.'
+links:
+- name: URL
+  url: 
+    https://www.sciencedirect.com/science/article/abs/pii/S0013935115301626?via%3Dihub
+---

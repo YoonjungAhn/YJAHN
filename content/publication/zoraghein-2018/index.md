@@ -1,0 +1,39 @@
+---
+title: Enhancing areal interpolation frameworks through dasymetric refinement to create
+  consistent population estimates across censuses
+authors:
+- Hamidreza Zoraghein
+- Stefan Leyk
+date: '2018-01-01'
+publishDate: '2024-06-05T20:56:27.455676Z'
+publication_types:
+- article-journal
+doi: 10.1080/13658816.2018.1472267
+abstract: To assess micro-scale population dynamics effectively, demographic variables
+  should be available over temporally consistent small area units. However, fine-resolution
+  census boundaries often change between survey years. This research advances areal
+  interpolation methods with dasymetric refinement to create accurate consistent population
+  estimates in 1990 and 2000 (source zones) within tract boundaries of the 2010 census
+  (target zones) for five demographically distinct counties in the US. Three levels
+  of dasymetric refinement of source and target zones are evaluated. First, residential
+  parcels are used as a binary ancillary variable prior to regular areal interpolation
+  methods. Second, Expectation Maximization (EM) and its data-extended version leverage
+  housing types of residential parcels as a related ancillary variable. Finally, a
+  third refinement strategy to mitigate the overestimation effect of large residential
+  parcels in rural areas uses road buffers and developed land cover classes. Results
+  suggest the effectiveness of all three levels of dasymetric refinement in reducing
+  estimation errors. They provide a first insight into the potential accuracy improvement
+  achievable in varying geographic and demographic settings but also through the combination
+  of different refinement strategies in parts of a study area. Such improved consistent
+  population estimates are the basis for advanced spatio-temporal demographic research.
+  ARTICLE HISTORY
+tags:
+- Areal interpolation
+- census data
+- dasymetric modeling
+- population estimation
+- spatial analysis
+links:
+- name: URL
+  url: https://www.tandfonline.com/action/journalInformation?journalCode=tgis20
+---

@@ -1,0 +1,52 @@
+---
+title: 'Urban modification of thunderstorms: An observational storm climatology and
+  model case study for the Indianapolis urban region'
+authors:
+- Dev Niyogi
+- Patrick Pyle
+- Ming Lei
+- S. Pal Arya
+- Chandra M. Kishtawal
+- Marshall Shepherd
+- Fei Chen
+- Brian Wolfe
+date: '2011-01-01'
+publishDate: '2024-06-05T20:56:25.023111Z'
+publication_types:
+- article-journal
+publication: '*Journal of Applied Meteorology and Climatology*'
+doi: 10.1175/2010JAMC1836.1
+abstract: A radar-based climatology of 91 unique summertime (May 2000-August 2009)
+  thunderstorm cases was examined over the Indianapolis, Indiana, urban area. The
+  study hypothesis is that urban regions alter the intensity and composition/structure
+  of approaching thunderstorms because of land surface heterogeneity. Storm characteristics
+  were studied over the Indianapolis region and four peripheral rural counties approximately
+  120 km away from the urban center. Using radar imagery, the time of event, changes
+  in storm structure (splitting, initiation, intensification, and dissipation), synoptic
+  setting, orientation, and motion were studied. It was found thatmore than 60%of
+  storms changed structure over the Indianapolis area as compared with only 25%over
+  the rural regions. Furthermore, daytime convection was most likely to be affected,
+  with 71% of storms changing structure as compared with only 42%at night. Analysis
+  of radar imagery indicated that storms split closer to the upwind urban region and
+  merge again downwind. Thus, a larger portion of small storms (50-200 km2) and large
+  storms (>1500 km2) were found downwind of the urban region, whereas midsized storms
+  (200-1500 km) dominated the upwind region. A case study of a typical storm on 13
+  June 2005 was examined using available observations and the fifth-generation Pennsylvania
+  State University-NCARMesoscale Model (MM5), version 3.7.2. Two simulations were
+  performed with and without the urban land use/Indianapolis region in the fourth
+  domain (1.33-km resolution). The storm of interest could not be simulated without
+  the urban area. Results indicate that removing the Indianapolis urban region caused
+  distinct differences in the regional convergence and convection as well as in simulated
+  base reflectivity, surface energy balance (through sensible heat flux, latent heat
+  flux, and virtual potential temperature changes), and boundary layer structure.
+  Study results indicate that the urban area has a strong climatological influence
+  on regional thunderstorms. © 2011 American Meteorological Society.
+tags:
+- Atmosphere-land interaction
+- Convection
+- Heat islands
+- Mesoscale processes
+- Precipitation
+- Thunderstorms
+- Urban meteorology
+---

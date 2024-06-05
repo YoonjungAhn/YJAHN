@@ -1,0 +1,49 @@
+---
+title: Comparison of Methods for Estimating Wet-Bulb Globe Temperature Index From
+  Standard Meteorological Measurements
+authors:
+- Tejash Patel
+- Stephen P Mullen
+- William R Santee
+date: '2013-01-01'
+publishDate: '2024-06-05T20:56:23.132381Z'
+publication_types:
+- article-journal
+publication: '*MILITARY MEDICINE*'
+doi: 10.7205/MILMED-D-13-00117
+abstract: "Environmental heat illness and injuries are a serious concern for the Army
+  and Marines. Currently, the Wet-Bulb Globe Temperature (WBGT) index is used to evaluate
+  heat injury risk. The index is a weighted average of dry-bulb temperature (T db),
+  black globe temperature (T bg), and natural wet-bulb temperature (T nwb). The WBGT
+  index would be more widely used if it could be determined using standard weather
+  instruments. This study compares models developed by Liljegren at Argonne National
+  Laboratory and by Matthew at the U.S. Army Institute of Environmental Medicine that
+  calculate WBGT using standard meteorological measurements. Both models use air temperature
+  (T a), relative humidity, wind speed, and global solar radiation (R G) to calculate
+  T nwb and T bg. The WBGT and meteorological data used for model validation were
+  collected at Griffin, Georgia and Yuma Proving Ground (YPG), Arizona. Liljegren
+  (YPG: R 2 = 0.709, p < 0.01; Griffin: R 2 = 0.854, p < 0.01) showed closer agreement
+  between calculated and actual WBGT than Matthew (YPG: R 2 = 0.630, p < 0.01; Griffin:
+  R 2 = 0.677, p < 0.01). Compared to actual WBGT heat categorization, the Matthew
+  model tended to underpredict compared to Liljegren's classification. Results indicate
+  Liljegren is an acceptable alternative to direct WBGT measurement, but verification
+  under other environmental conditions is needed. INTRODUCTION Heat exhaustion and
+  heat stroke are serious concerns for military organizations. In the U.S. military
+  in 2011, a total of 2,652 cases of heat exhaustion, an incident rate of 1.82 per
+  1,000 person-years, were reported. 1 Preventing casualties is a command responsibility
+  during mission planning and execution in warm and hot environments or during hard
+  work in cooler weather. Heat indices that provide estimates of injury risk because
+  of physical activity and heat exposure are commonly used to assess and reduce the
+  risk of heat causalities. 2-5 At present, the U.S. military uses the Wet-Bulb Globe
+  Temperature (WBGT) heat stress index to guide work/rest and hydration practices
+  and reduce the risk of heat illness and injury. 2 However, accurate and timely WBGT
+  information needed to make informed decisions is often not readily available because
+  of the cost and overhead of WBGT sensor systems, including recalibration of electronic
+  monitors and the need to regularly replenish the wet-bulb thermometer's H 2 O reservoir.
+  Fortunately, mathematical models have been developed that estimate WBGT from standard
+  weather measurements, i.e., air temperature (T a), air velocity, radiant load (e.g.,
+  direct, diffuse, or reflected solar radiation), and humidity."
+links:
+- name: URL
+  url: https://academic.oup.com/milmed/article-abstract/178/8/926/4259709
+---

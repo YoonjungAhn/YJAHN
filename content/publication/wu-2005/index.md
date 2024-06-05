@@ -1,0 +1,21 @@
+---
+title: 'Population estimation methods in GIS and remote sensing: A review'
+authors:
+- Shuo Sheng Wu
+- Xiaomin Qiu
+- Le Wang
+date: '2005-01-01'
+publishDate: '2024-06-05T20:56:27.927911Z'
+publication_types:
+- manuscript
+publication: '*GIScience and Remote Sensing*'
+doi: 10.2747/1548-1603.42.1.80
+abstract: 'This paper reviews existing population estimation methods in the GIS and
+  remote sensing literatures. The methods can be grouped into two categories: areal
+  interpolation methods and statistical modeling methods. Areal interpolation methods
+  can be further separated into two categories depending on whether ancillary information
+  is used. Statistical modeling methods can be further grouped into five categories
+  based on the relationship between populations and urban areas, land uses, dwelling
+  units, image pixel characteristics, or other physical or socioeconomic characteristics.
+  Copyright © 2005 by V. H. Winston & Son, Inc. All rights reserved.'
+---

@@ -1,0 +1,39 @@
+---
+title: Trends in thermal discomfort indices over western coastal cities of India
+authors:
+- Manasi S. Desai
+- Amit G. Dhorde
+date: '2018-01-01'
+publishDate: '2024-06-05T20:56:22.752464Z'
+publication_types:
+- article-journal
+publication: '*Theoretical and Applied Climatology*'
+doi: 10.1007/s00704-017-2042-8
+abstract: The present research aimed at analyzing temporal trends in thermal discomfort
+  indices for a period of 46 years from 1969 to 2014 over western coastal region of
+  India for seven urban centers during the months of pre-monsoon and monsoon seasons.
+  Direct thermal discomfort indices employed for this purpose were thermo-hygrometric
+  index (THI) and heat index (HI). Statistical techniques applied for obtaining temporal
+  trends were linear regression model and Mann-Kendall (MK) rank test. Statistical
+  significance of the obtained trends was evaluated at 95% confidence level. Sequential
+  MK (SQ-MK) test was used for change point detection. To investigate actual incidences
+  of thermal discomfort, daily index values were averaged for standard meteorological
+  weeks (SMWs) over the study period and decadal percentage of thermal discomfort
+  during SMWs was estimated. Trend analysis of selected meteorological parameters
+  such as dry bulb temperature (DBT), wet bulb temperature (WBT), relative humidity
+  (RH), and wind speed (WS) were investigated, which might be responsible for variation
+  in thermal discomfort over the period. The results obtained depicted significant
+  increase in thermal discomfort over the cities located on the southern part of west
+  coast, while significant increase was observed during monsoon season months compared
+  to pre-monsoon season. Decadal variation in percentage of SMWs falling in various
+  discomfort categories was studied. At majority of the stations, moderate and high-risk
+  SMWs have increased over the last two decades. The results of change point detection
+  for THI and HI denoted significant increase at most of the stations after 1990s.
+  The study validates increase in thermal discomfort vulnerability, particularly at
+  thriving urban centers of western coastal region of India.
+tags:
+- Heat index (HI)
+- Thermal discomfort
+- Thermo-hygrometric index (THI)
+- Western coastal India
+---

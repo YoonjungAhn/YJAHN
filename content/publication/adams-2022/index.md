@@ -1,0 +1,29 @@
+---
+title: Internet searches and heat-related emergency department visits in the United
+  States
+authors:
+- Quinn H. Adams
+- Yuantong Sun
+- Shengzhi Sun
+- Gregory A. Wellenius
+date: '2022-12-01'
+publishDate: '2024-06-05T20:56:27.948143Z'
+publication_types:
+- article-journal
+publication: '*Scientific Reports*'
+doi: 10.1038/s41598-022-13168-3
+abstract: Emerging research suggests that internet search patterns may provide timely,
+  actionable insights into adverse health impacts from, and behavioral responses to,
+  days of extreme heat, but few studies have evaluated this hypothesis, and none have
+  done so across the United States. We used two-stage distributed lag nonlinear models
+  to quantify the interrelationships between daily maximum ambient temperature, internet
+  search activity as measured by Google Trends, and heat-related emergency department
+  (ED) visits among adults with commercial health insurance in 30 US metropolitan
+  areas during the warm seasons (May to September) from 2016 to 2019. Maximum daily
+  temperature was positively associated with internet searches relevant to heat, and
+  searches were in turn positively associated with heat-related ED visits. Moreover,
+  models combining internet search activity and temperature had better predictive
+  ability for heat-related ED visits compared to models with temperature alone. These
+  results suggest that internet search patterns may be useful as a leading indicator
+  of heat-related illness or stress.
+---

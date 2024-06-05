@@ -1,0 +1,42 @@
+---
+title: Association between walking speed and age in healthy, free-living individuals
+  using mobile accelerometry-a cross-sectional study
+authors:
+- Michaela Schimpl
+- Carmel Moore
+- Christian Lederer
+- Anneke Neuhaus
+- Jennifer Sambrook
+- John Danesh
+- Willem Ouwehand
+- Martin Daumer
+date: '2011-01-01'
+publishDate: '2024-06-05T20:56:25.875489Z'
+publication_types:
+- article-journal
+publication: '*PLoS ONE*'
+doi: 10.1371/journal.pone.0023299
+abstract: "Context: Walking speed is a fundamental parameter of human motion and is
+  increasingly considered as an important indicator of individuals' health status.
+  Objective: To evaluate the relationship of gait parameters, and demographic and
+  physical characteristics in healthy men and women. Design, Setting, and Participants:
+  Recruitment of a subsample (n = 358) of male and female blood donors taking part
+  in the Cambridge CardioResource study. Collection of demographic data, measurement
+  of physical characteristics (height, weight and blood pressure) and assessment of
+  7-day, free-living activity parameters using accelerometry and a novel algorithm
+  to measure walking speed. Participants were a median (interquartile range[IQR])
+  age of 49 (16) years; 45% women; and had a median (IQR) BMI of 26 (5.4). Main Outcome
+  Measure: Walking speed. Results: In this study, the hypothesis that walking speed
+  declines with age was generated using an initial 'open' dataset. This was subsequently
+  validated in a separate 'closed' dataset that showed a decrease of walking speed
+  of -0.0037 m/s per year. This is equivalent to a difference of 1.2 minutes, when
+  walking a distance of 1 km aged 20 compared to 60 years. Associations between walking
+  speed and other participant characteristics (i.e. gender, BMI and blood pressure)
+  were non-significant. BMI was negatively correlated with the number of walking and
+  running steps and longest non-stop distance. Conclusion: This is the first study
+  using accelerometry which shows an association between walking speed and age in
+  free-living, healthy individuals. Absolute values of gait speed are comparable to
+  published normal ranges in clinical settings. This study highlights the potential
+  use of mobile accelerometry to assess gait parameters which may be indicative of
+  future health outcomes in healthy individuals. © 2011 Schimpl et al."
+---

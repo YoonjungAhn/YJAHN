@@ -1,0 +1,36 @@
+---
+title: How Individuals Process NWS Weather Warning Messages on Their Cell Phones
+authors:
+- Mark A. Casteel
+- Joe R. Downing
+date: '2013-07-01'
+publishDate: '2024-06-05T20:56:25.578745Z'
+publication_types:
+- article-journal
+publication: '*Weather, Climate, and Society*'
+doi: 10.1175/WCAS-D-12-00031.1
+abstract: <p>U.S. government officials are focusing their attention on how to deliver
+  timely and effective warning information to the public, especially given the devastating
+  weather-related events that have occurred in recent years. With the increase of
+  cell phones (and in particular, web-capable smartphones), weather warnings sent
+  through various cellular technologies represent one way for officials to quickly
+  notify an increasingly mobile public. Cellular technology innovations also make
+  it possible for officials to broadcast information-rich media like graphics to cell
+  phones. Whether warning messages must include such “rich” media to be effective
+  remains an open question. The current study investigates the effectiveness of National
+  Weather Service (NWS) warning messages sent either in plain text or in text that
+  includes a radar image of the storm. The research protocol was modeled after the
+  interactive National Weather Service (iNWS) messaging service currently available
+  to NWS core partners. In the study, participants read full-text NWS warnings of
+  tornadoes or flash floods that either did or did not include a radar image of the
+  storm. The researchers timed participants' ability to decide if a critical town
+  was in the warning area, and then probed their understanding of the message content.
+  Results show that participants' decision times to the town question did not differ
+  between the graphic and no-graphic conditions. None of the other message content
+  measures differed as a function of message condition. The results have potential
+  implications for the federal government's new Wireless Emergency Alert (WEA) system,
+  which, as yet, is limited to text-only warnings.</p>
+links:
+- name: URL
+  url: https://journals.ametsoc.org/doi/10.1175/WCAS-D-12-00031.1
+---

@@ -1,0 +1,39 @@
+---
+title: Impact of the 2011 heat wave on mortality and emergency department visits in
+  Houston, Texas -No section-
+authors:
+- Kai Zhang
+- Tsun Hsuan Chen
+- Charles E. Begley
+date: '2015-01-01'
+publishDate: '2024-06-05T20:56:28.229860Z'
+publication_types:
+- article-journal
+publication: '*Environmental Health: A Global Access Science Source*'
+doi: 10.1186/1476-069X-14-11
+abstract: 'Background: Heat waves have been linked to increased risk of mortality
+  and morbidity, and are projected to increase in frequency and intensity in a changing
+  climate. Houston and other areas in Texas experienced an exceptional heat wave in
+  the summer of 2011 producing the hottest August on record. This study aims to assess
+  the health-related impact of this heat wave. Methods: Distributed lag models were
+  used to estimate associations between the 2011 heat wave and all-cause mortality
+  and emergency department (ED) visits from May 1 through September 30 for the five-year
+  period 2007-2011. The 2011 heat wave is defined as a continuous period from August
+  2 through 30, 2011 according to the heat advisories issued by the local National
+  Weather Service office, and is included in the models as a dummy variable. We compared
+  the estimated excess risk among the models with and without adjustment of continuous
+  temperature and ozone. Results: The 2011 heat wave in Houston was associated with
+  a 3.6% excess risk in ED visits (95% CI: 0.6%, 6.6%) and 0.6% increase in mortality
+  risk (95% CI: -5.5%, 7.1%). The elderly over 65 years of age were at the greatest
+  risk in ED visits. These patterns are consistent across different heat-wave definitions,
+  and results are similar when adjusting for continuous temperature and ozone. Conclusions:
+  The 2011 heat wave in Houston had a substantial impact on ED visits and no significant
+  impact on mortality. Our findings provide insights into local heat-wave and health
+  preparations and interventions.'
+tags:
+- Emergency department visits
+- Heat wave
+- Mortality
+- Ozone
+- Temperature
+---

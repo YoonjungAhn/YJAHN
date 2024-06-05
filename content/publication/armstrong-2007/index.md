@@ -1,0 +1,39 @@
+---
+title: Exertional heat illness during training and competition
+authors:
+- Lawrence E. Armstrong
+- Douglas J. Casa
+- Mindy Millard-Stafford
+- Daniel S. Moran
+- Scott W. Pyne
+- William O. Roberts
+date: '2007-01-01'
+publishDate: '2024-06-05T20:56:26.110931Z'
+publication_types:
+- article-journal
+publication: '*Medicine and Science in Sports and Exercise*'
+doi: 10.1249/MSS.0b013e31802fa199
+abstract: Exertional heat illness can affect athletes during high-intensity or longduration
+  exercise and result in withdrawal from activity or collapse during or soon after
+  activity. These maladies include exercise associated muscle cramping, heat exhaustion,
+  or exertional heatstroke. While certain individuals are more prone to collapse from
+  exhaustion in the heat (i.e., not acclimatized, using certain medications, dehydrated,
+  or recently ill), exertional heatstroke (EHS) can affect seemingly healthy athletes
+  even when the environment is relatively cool. EHS is defined as a rectal temperature
+  greater than 40-C accompanied by symptoms or signs of organ system failure, most
+  frequently central nervous system dysfunction. Early recognition and rapid cooling
+  can reduce both the morbidity and mortality associated with EHS. The clinical changes
+  associated with EHS can be subtle and easy to miss if coaches, medical personnel,
+  and athletes do not maintain a high level of awareness and monitor at-risk athletes
+  closely. Fatigue and exhaustion during exercise occur more rapidly as heat stress
+  increases and are the most common causes of withdrawal from activity in hot conditions.
+  When athletes collapse from exhaustion in hot conditions, the term heat exhaustion
+  is often applied. In some cases, rectal temperature is the only discernable difference
+  between severe heat exhaustion and EHS in on-site evaluations. Heat exhaustion will
+  generally resolve with symptomatic care and oral fluid support. Exercise associated
+  muscle cramping can occur with exhaustive work in any temperature range, but appears
+  to be more prevalent in hot and humid conditions. Muscle cramping usually responds
+  to rest and replacement of fluid and salt (sodium). Prevention strategies are essential
+  to reducing the incidence of EHS, heat exhaustion, and exercise associated muscle
+  cramping. ©2007The American College of Sports Medicine.
+---

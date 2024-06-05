@@ -1,0 +1,46 @@
+---
+title: 'Physical characteristics of the indoor environment that affect health and
+  wellbeing in healthcare facilities: a review'
+authors:
+- Heidi Salonen
+- Marjaana Lahtinen
+- Sanna Lappalainen
+- Nina Nevala
+- Luke D. Knibbs
+- Lidia Morawska
+- Kari Reijula
+date: '2013-01-01'
+publishDate: '2024-06-05T20:56:28.294430Z'
+publication_types:
+- article-journal
+publication: '*Intelligent Buildings International*'
+doi: 10.1080/17508975.2013.764838
+abstract: 'Understanding the physical characteristics of the indoor environment that
+  affect human health and wellbeing is the key requirement underpinning the beneficial
+  design of a healthcare facility (HCF). We reviewed and summarized physical factors
+  of the indoor environment reported to affect human health and wellbeing in HCFs.
+  Altogether, 214 publications were selected for this review. According to the literature,
+  there is strong scientific evidence to show that following indoor environmental
+  factors have beneficial effects for all user groups when appropriately designed
+  or implemented: the acoustic environment, ventilation and air conditioning systems,
+  the thermal environment, the visual environment (e.g. lighting, and views of nature),
+  ergonomic conditions and furniture. In contrast, the effect of special layouts and
+  room type and floor coverings may be beneficial for one group and detrimental for
+  another. Some of the physical factors may, in themselves, directly promote or hinder
+  health and wellbeing, but the factors can also have numerous indirect impacts by
+  influencing the behaviour, actions and interactions of patients, their families
+  and the staff members. The findings of this research enable a good understanding
+  of the different physical factors of the indoor environment on health and wellbeing
+  and provide a practical resource for those responsible for the design and operation
+  of the facilities as well as researchers investigating these factors. However, more
+  studies are needed in order to inform the design of optimally beneficial indoor
+  environments in HCFs for all user groups. © 2013 Copyright Taylor and Francis Group,
+  LLC.'
+tags:
+- health
+- healthcare facility
+- patient
+- physical environment
+- staff
+- wellbeing
+---

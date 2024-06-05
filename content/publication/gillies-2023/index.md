@@ -1,0 +1,122 @@
+---
+title: rasterio Documentation Release 1.4dev
+authors:
+- Sean Gillies
+- Adam J. Stewart
+- Alan D. Snow
+- Aldo Culquicondor
+- Alessandro Amici
+- Alex Shepherd
+- Alexander Ivanov
+- ' Alfred-Mountfield'
+- Amit Kapadia
+- Andrea Giardini
+- Andrew Annex
+- Andrew Catellier
+- Andrew Nisbet
+- Ariel Zerahia
+- Arno Gobbin
+- ' AsgerPetersen'
+- Bas Couwenberg
+- Ben Lewis
+- Bill Morris
+- Brendan Ward
+- Caleb Robinson
+- Charlie Loyd
+- Chris Holden
+- Chris Holdgraf
+- Christoph Rieke
+- Colin Talbert
+- Damien Ayers
+- Dan "Ducky" Little
+- Dan Baston
+- Daniel J. H
+- Darren Weber
+- David Hoese
+- Denis Rykov
+- Dr Martin Black
+- Elliott Sales de Andrade
+- Erik Seglem
+- Etienne B. Racine
+- Even Rouault
+- Ewout ter Hoeven
+- Felix Divo
+- Filipe Fernandes
+- ' Florian'
+- Frédéric Bonifas
+- Giacomo Vianello
+- Gregory Raevski
+- Guillaume Lostis
+- Guy Doulberg
+- Howard Butler
+- Ian Schneider
+- Idan Miara
+- Ismail Sunni
+- Jacques Tardie
+- James Hiebert
+- James McBride
+- James Seppi
+- Jeffrey Gerard
+- Jennifer Reiber Kyle
+- Jeremy Hooke
+- Jesse Crocker
+- Johan Van de Wauw
+- Jonas Sølvsteen
+- Joris Van den Bossche
+- Joshua Arnott
+- João Santos
+- Juan Luis Cano Rodríguez
+- Keith Jenkins
+- Kelsey Jordahl
+- Kevin Wurster
+- Kirill Kouzoubov
+- Koshy Thomas
+- Kyle Barron
+- Leah Wasser
+- Loïc Dutrieux
+- ' Lukasz'
+- Mark Boer
+- Martijn Visser
+- Martin Kaesberger
+- Martin Raspaud
+- Matt Savoie
+- Matthew Perry
+- Maxim Dubinin
+- Mike Taves
+- Nat Wilson
+- Nick Grue
+- Nico Mandery
+- Nikolai Janakiev
+- Norman Barker
+- Olivier Cloux
+- Pablo Sanfilippo
+- Patrick Young
+- Pratik Yadav
+- RK Aranas
+- Raaj Tilak Sarma
+- ' RichardScottOZ'
+- Robert Sare
+- Robin Wilson
+- Ryan Grout
+- Sam Murphy
+- Samuel Kogler
+- Sean Gillies
+- Seth Fitzsimmons
+- Seth Miller
+- Steven Pestana
+- Tim Gates
+- Tomáš Hrnčiar
+- Trevor R. H. Clarke
+- Tyler Erickson
+- Vincent Sarago
+- Vincent Schut
+- Yann-Sebastien Tremblay-Johnston
+- Yuvi Panda
+date: '2023-01-01'
+publishDate: '2024-06-05T20:56:29.050110Z'
+publication_types:
+- article-journal
+links:
+- name: URL
+  url: https://rasterio.readthedocs.io/_/downloads/en/latest/pdf/ https://github.com/rasterio/rasterio
+---

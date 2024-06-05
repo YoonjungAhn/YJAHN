@@ -1,0 +1,35 @@
+---
+title: 'Defining Cultural Competence: A Practical Framework for Addressing Racial/Ethnic
+  Disparities in Health and Health Care'
+authors:
+- Joseph R Betancourt
+- Alexander R Green
+- J Emilio Carrillo
+- Owusu Ananeh-Firempong Ii
+date: '2003-01-01'
+publishDate: '2024-06-05T20:56:27.044263Z'
+publication_types:
+- manuscript
+publication: '*Feature Article Public Health Reports*'
+abstract: SYNOPSIS Objectives. Racial/ethnic disparities in health in the U.S. have
+  been well described. The field of \"cultural competence\" has emerged as one strategy
+  to address these disparities. Based on a review of the relevant literature, the
+  authors develop a definition of cultural competence, identify key components for
+  intervention, and describe a practical framework for implementation of measures
+  to address racial/ethnic disparities in health and health care. Methods. The authors
+  conducted a literature review of academic, foundation, and government publications
+  focusing on sociocultural barriers to care, the level of the health care system
+  at which a given barrier occurs, and cultural competence efforts that address these
+  barriers. Results. Sociocultural barriers to care were identified at the organizational
+  (leadership/workforce), structural (processes of care), and clinical (provider-patient
+  encounter) levels. A framework of cultural competence interventions-including minority
+  recruitment into the health professions, development of interpreter services and
+  language-appropriate health educational materials, and provider education on cross-cultural
+  issues-emerged to categorize strategies to address racial/ethnic disparities in
+  health and health care. Conclusions. Demographic changes anticipated over the next
+  decade magnify the importance of addressing racial/ethnic disparities in health
+  and health care. A framework of organizational, structural, and clinical cultural
+  competence interventions can facilitate the elimination of these disparities and
+  improve care for all Americans.
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1497553/pdf/12815076.pdf
+---

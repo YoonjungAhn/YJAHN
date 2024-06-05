@@ -1,0 +1,34 @@
+---
+title: Hybrid areal interpolation of census counts from 2000 blocks to 2010 geographies
+authors:
+- Jonathan P. Schroeder
+date: '2017-03-01'
+publishDate: '2024-06-05T20:56:27.697994Z'
+publication_types:
+- article-journal
+publication: '*Computers, Environment and Urban Systems*'
+doi: 10.1016/j.compenvurbsys.2016.10.001
+abstract: "To measure population changes in areas where census unit boundaries do
+  not align across time, a common approach is to interpolate data from one census's
+  units to another's. This article presents a broad assessment of areal interpolation
+  models for estimating counts of 2000 characteristics in 2010 census units throughout
+  the United States. We interpolate from 2000 census block data using 4 types of ancillary
+  data to guide interpolation: 2010 block densities, imperviousness data, road buffers,
+  and water body polygons. We test 8 binary dasymetric (BD) models and 8 target-density
+  weighting (TDW) models, each using a unique combination of the 4 ancillary data
+  types, and derive 2 hybrid models that blend the best-performing BD and TDW models.
+  The most accurate model is a hybrid that generally gives high weight to TDW (allocating
+  2000 data in proportion to 2010 densities) but gives increasing weight to a BD model
+  (allocating data uniformly within developed land near roads) in proportion to the
+  estimated 2000–2010 rate of change within each block. Although for most 2010 census
+  units, this hybrid model's estimates differ little from the simplest model's estimates,
+  there are still many areas where the estimates differ considerably. Estimates from
+  the final model, along with lower and upper bounds for each estimate, are publicly
+  available for over 1000 population and housing characteristics at 10 geographic
+  levels via the National Historical Geographic Information System (NHGIS – http://nhgis.org)."
+tags:
+- Areal interpolation
+- Census geography
+- Population estimation
+- Spatio-temporal analysis
+---

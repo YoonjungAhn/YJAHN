@@ -1,0 +1,34 @@
+---
+title: The investigation of green roof and white roof cooling potential on single
+  storey residential building in the Malaysian climate
+authors:
+- Asmat Ismail
+- Muna Hanim Abdul Samad
+- Abdul Malek Abdul Rahman
+date: '2011-01-01'
+publishDate: '2024-06-05T20:56:24.586744Z'
+publication_types:
+- article-journal
+publication: '*World Academy of Science, Engineering and Technology*'
+doi: 10.5281/zenodo.1330600
+abstract: The phenomenon of global warming or climate change has led to many environmental
+  issues including higher atmospheric temperatures, intense precipitation, increased
+  greenhouse gaseous emissions and increased indoor discomfort. Studies have shown
+  that bringing nature to the roof such as constructing green roof and implementing
+  high-reflective roof may give positive impact in mitigating the effects of global
+  warming and in increasing thermal comfort sensation inside buildings. However, no
+  study has been conducted to compare both types of passive roof treatments in Malaysia
+  in order to increase thermal comfort in buildings. Therefore, this study is conducted
+  to investigate the effect of green roof and white painted roof as passive roof treatment
+  in improving indoor comfort of Malaysian homes. This study uses an experimental
+  approach in which the measurements of temperatures are conducted on the case study
+  building. The measurements of outdoor and indoor environments were conducted on
+  the flat roof with two different types of roof treatment that are green roof and
+  white roof. The measurement of existing black bare roof was also conducted to act
+  as a control for this study.
+tags:
+- Global warming
+- Green roof
+- Indoor temperature reduction
+- White painted roof
+---

@@ -1,0 +1,48 @@
+---
+title: 'Reduction of personal PM2.5 exposure via indoor air filtration systems in
+  Detroit: an intervention study'
+authors:
+- Melissa M. Maestas
+- Robert D. Brook
+- Rosemary A. Ziemba
+- Fengyao Li
+- Ryan C. Crane
+- Zachary M. Klaver
+- Robert L. Bard
+- Catherine A. Spino
+- Sara D. Adar
+- Masako Morishita
+date: '2018-11-01'
+publishDate: '2024-06-05T20:56:29.957876Z'
+publication_types:
+- article-journal
+publication: '*Journal of Exposure Science & Environmental Epidemiology 2018 29:4*'
+doi: 10.1038/s41370-018-0085-2
+abstract: 'The adverse health effects of fine particulate matter (PM &lt; 2.5 μm in
+  diameter [PM2.5]) air pollution are well-documented. There is a growing body of
+  evidence that high-efficiency particulate arrestance (HEPA) filtration can reduce
+  indoor PM2.5 concentrations and deliver some health benefits via the reduction of
+  exposure to PM. However, few studies have tested the ability of portable air filtration
+  systems to lower overall personal-level PM2.5 exposures. The Reducing Air Pollution
+  in Detroit Intervention Study (RAPIDS) was designed to evaluate cardiovascular health
+  benefits and personal PM2.5 exposure reductions via indoor portable air filtration
+  systems among senior citizens in Detroit, Michigan. We evaluated the utility of
+  two commercially available high-efficiency (HE: true-HEPA) and low-efficiency (LE:
+  HEPA-type) indoor air filtration to reduce indoor PM2.5 concentrations and personal
+  PM2.5 exposures for 40 participants in a double-blinded randomized crossover intervention.
+  Each participant was subjected to three intervention scenarios: HE, LE, or no filter
+  (control) of three consecutive days each, during which personal, indoor, and outdoor
+  PM2.5 concentrations were measured daily. For mean indoor PM2.5 concentrations,
+  we observed 60 and 52% reductions using HE and LE filters, respectively, relative
+  to no filtration. Personal PM2.5 exposures were reduced by 53 and 31% using HE and
+  LE filters, respectively, when compared with the control scenario. To our knowledge,
+  this is the first indoor air filtration intervention study to examine the effectiveness
+  of both HE and LE filters in reducing personal PM2.5 exposures.'
+tags:
+- Epidemiology
+- Medicine/Public Health
+- general
+links:
+- name: URL
+  url: https://www.nature.com/articles/s41370-018-0085-2
+---

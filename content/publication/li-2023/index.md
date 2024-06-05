@@ -1,0 +1,34 @@
+---
+title: Hyper-local temperature prediction using detailed urban climate informatics
+authors:
+- Peiyuan Li
+- Ashish Sharma
+date: '2023-01-01'
+publishDate: '2024-06-05T20:56:29.242645Z'
+publication_types:
+- article-journal
+doi: 10.22541/essoar.168121520.07415257/v1
+abstract: Modeling urban microclimate accurately is challenging due to the high surface
+  heterogeneity of urban land cover and the vertical structure of street morphology.
+  Recent years have witnessed significant efforts in numerical modeling and data collection
+  of the urban environment. Nonetheless, it is difficult for the physical-based models
+  to fully utilize the high-resolution data under the constraints of computing resources.
+  The advancement in machine learning techniques offers the computational strength
+  to handle the massive volume of data. In this study, we proposed a machine learning
+  approach to estimate point-scale street-level air temperature from the urban-resolving
+  mesoscale climate model and a suite of hyper-resolution urban informatics, including
+  three-dimensional urban morphology, parcel-level land use inventory, and a dense
+  weather observation network. We implemented this approach in the City of Chicago
+  as a case study. The proposed approach vastly improves the resolution of temperature
+  predictions in cities, which will help the city with walkability, drivability, and
+  heat-related behavioral studies. Moreover, we tested the model's reliability on
+  out-of-sample locations to investigate the application potentials to the other areas.
+  This study also aims to gain insights into next-gen urban climate modeling and guide
+  city observation efforts to build the strength for the holistic understanding of
+  urban microclimate dynamics. Abstract 10 Modeling urban microclimate accurately
+  is challenging due to the high surface heterogeneity of 11
+links:
+- name: URL
+  url: 
+    https://authorea.com/users/595676/articles/633487-hyper-local-temperature-prediction-using-detailed-urban-climate-informaticsHostedfile960004_0_supp_10854735_rshrd8.docxavailableathttps://authorea.com/users/595676/articles/
+---

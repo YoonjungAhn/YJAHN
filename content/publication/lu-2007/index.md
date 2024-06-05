@@ -1,0 +1,43 @@
+---
+title: Identifying and Modeling Spatial Patterns of Heat-Related Illness in New York
+  City
+authors:
+- Jingsong MS Lu
+- Kristina Metzger
+- Alejandro Cajigal MPH
+- Kevin MS Konty
+- Thomas Matte
+date: '2007-01-01'
+publishDate: '2024-06-05T20:56:25.631413Z'
+publication_types:
+- article-journal
+publication: '*Advances in Disease Surveillance*'
+abstract: OBJECTIVE This paper describes the spatial pattern of New York City (NYC)
+  heat-related emergency medical services (EMS) ambulance dispatches and emergency
+  department visits (ED) and explores how this information can be used in planning
+  for and response to heat-related health events. BACKGROUND During heat waves the
+  New York City Department of Health and the Office of Emergency Management utilize
+  the Heat Emergency Plan that includes responses such as the opening of cooling centers
+  and targeted messaging to vulnerable populations. In 2006, New York City experienced
+  a severe 10-day heat wave during which 46 people died of heat stroke. However, the
+  number of people who died of other causes due to the heat and the overall burden
+  of heat-related illness was not known. Subsequently, a systematic retrospective
+  analysis was conducted to determine how vital statistics and syndromic surveillance
+  data might best be used in planning for future heat events. Temporal analyses were
+  improved by the inclusion of meteorological variables in a model of expected visits
+  allowing for the identification of heat waves with particularly severe health response.
+  The analyses also suggested that severe heat waves might be identified early. It
+  was hypothesized that spatial signals may identify areas of the city that have persistent
+  increases in illness during these events. METHODS Daily EMS ambulance dispatch call
+  data are transmitted electronically from the NYC Fire Department to DOHMH and include
+  all medical 911 calls coded into 52 broad call-types. ED data come from 48 of 62
+  NYC hospitals covering 90% of total ED visits and including chief complaints. We
+  use data from May to September, 1999-2006 in this study. Daily temperature data
+  were obtained from the National Weather Services. We defined heat waves as any period
+  that has maximum daily temperature >= 90 °F for three days or more. The Heat Call
+  Odds were calculated use heat/total calls rate on heat wave days divided by the
+  rate on the non-heat wave days. Spatial analysis is performed using SatScan with
+  all non-heat wave days as baseline control and all heat wave days as cases. We developed
+  two models using Poisson regression (one controlling for temporal trends only, the
+  other controlling for temporal trends and meteorologic factors).
+---

@@ -1,0 +1,40 @@
+---
+title: A numerical study of interactions between surface forcing and sea breeze circulations
+  and their effects on stagnation in the greater Houston area
+authors:
+- Fei Chen
+- Shiguang Miao
+- Mukul Tewari
+- Jian Wen Bao
+- Hiroyuki Kusaka
+date: '2011-01-01'
+publishDate: '2024-06-05T20:56:25.224603Z'
+publication_types:
+- article-journal
+publication: '*Journal of Geophysical Research Atmospheres*'
+doi: 10.1029/2010JD015533
+abstract: High-resolution simulations from the Advanced Research Weather Research
+  and Forecasting (ARW-WRF) model, coupled to an urban canopy model (UCM), are used
+  to investigate impacts of soil moisture, sea surface temperature (SST), and city
+  of Houston itself on the development of a stagnant wind event in the Houston-Galveston
+  (HG) area on 30 August 2000. Surface and wind profiler observations are used to
+  evaluate the performance of WRF-UCM. The model captures the observed nocturnal urban-heat-island
+  intensity, diurnal rotation of surface winds, and the timing and vertical extent
+  of sea breeze and its reversal in the boundary layer remarkably well. Using hourly
+  SST slightly improves the WRF simulation of offshore wind and temperature. Model
+  sensitivity tests demonstrate a delicate balance between the strength of sea breeze
+  and prevailing offshore weak flow in determining the duration of the afternoon-evening
+  stagnation in HG. When the morning offshore flow is weak (3-5 m s<sup>-1</sup>),
+  variations (1-3C) in surface temperature caused by environmental conditions substantially
+  modify the wind fields over HG. The existence of the city itself seems to favor
+  stagnation. Extremely dry soils increase daytime surface temperature by about 2C,
+  produced more vigorous boundary layer and faster moving sea breeze, favoring stagnation
+  during late afternoon. The simulation with dry soils produces a 3 h shorter duration
+  stagnation in the afternoon and 4 h longer duration in the evening, which may lead
+  to more severe nighttime air pollution. Hourly variations of SST in shallow water
+  in the Galveston Bay substantially affect the low-level wind speed in HG. Copyright
+  2011 by the American Geophysical Union.
+tags:
+- http://dx.doi.org/10.1029/2010JD015533
+- doi:10.102
+---

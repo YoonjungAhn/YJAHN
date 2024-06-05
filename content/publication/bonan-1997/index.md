@@ -1,0 +1,35 @@
+---
+title: Effects of land use on the climate of the United States
+authors:
+- Gordon B. Bonan
+date: '1997-01-01'
+publishDate: '2024-06-05T20:56:25.038339Z'
+publication_types:
+- article-journal
+publication: '*Climatic Change*'
+doi: 10.1023/A:1005305708775
+abstract: 'Land use practices have replaced much of the natural needleleaf evergreen,
+  broadleaf deciduous, and mixed forests of the Eastern United States with crops.
+  To a lesser extent, the natural grasslands in the Central United States have also
+  been replaced with crops. Simulations with a land surface process model coupled
+  to an atmospheric general circulation model show that the climate of the United
+  States with modern vegetation is significantly different from that with natural
+  vegetation. Three important climate signals caused by modern vegetation are: (1)
+  1 °C cooling over the Eastern United States and 1 °C warming over the Western United
+  States in spring; (2) summer cooling of up to 2°C over a wide region of the Central
+  United States; and (3) moistening of the near-surface atmosphere by 0.5 to 1.5 g
+  kg-1 over much of the United States in spring and summer. Although individual months
+  show large, statistically significant differences in precipitation due to land-use
+  practices, these differences average out over the course of the 3-month seasons.
+  These changes in surface temperature and moisture extend well into the atmosphere,
+  up to 500 mb, and affect the boundary layer and atmospheric circulation. The altered
+  climate is due to reduced surface roughness, reduced leaf and stem area index, reduced
+  stomatal resistance, and increased surface albedo with modern vegetation compared
+  to natural vegetation. The climate change caused by land use practices is comparable
+  to other well known anthropogenic climate forcings. For example, it would take 100
+  to 175 years at the current, observed rate of summer warming over the United States
+  to offset the cooling from deforestation. The summer sulfate aerosol forcing completely
+  offsets the greenhouse forcing over the Eastern United States. Similarly, the climatic
+  effect of North American deforestation, with extensive summer cooling, further offsets
+  the greenhouse forcing.'
+---

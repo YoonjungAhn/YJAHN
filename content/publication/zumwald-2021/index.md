@@ -1,0 +1,36 @@
+---
+title: Mapping urban temperature using crowd-sensing data and machine learning
+authors:
+- Marius Zumwald
+- Benedikt Knüsel
+- David N. Bresch
+- Reto Knutti
+date: '2021-01-01'
+publishDate: '2024-06-05T20:56:29.648929Z'
+publication_types:
+- article-journal
+publication: '*Urban Climate*'
+doi: 10.1016/j.uclim.2020.100739
+abstract: Understanding the patterns of urban temperature a high spatial and temporal
+  resolution is of large importance for urban heat adaptation and mitigation. Machine
+  learning offers promising tools for high-resolution modeling of urban heat, but
+  it requires large amounts of data. Measurements from official weather stations are
+  too sparse but could be complemented by crowd-sensed measurements from citizen weather
+  stations (CWS). Here we present an approach to model urban temperature using the
+  quantile regression forest algorithm and CWS, open government and remote sensing
+  data. The analysis is based on data from 691 sensors in the city of Zurich (Switzerland)
+  during a heat wave using data from for 25-30th June 2019. We trained the model using
+  hourly data from for 25-29th June (n = 71,837) and evaluate the model using data
+  from June 30th (n = 14,105). Based on the model, spatiotemporal temperature maps
+  of 10 × 10 m resolution were produced. We demonstrate that our approach can accurately
+  map urban heat at high spatial and temporal resolution without additional measurement
+  infrastructure. We furthermore critically discuss and spatially map estimated prediction
+  and extrapolation uncertainty. Our approach is able to inform highly localized urban
+  policy and decision-making.
+tags:
+- Crowd-sensing
+- Low-cost sensors
+- Machine learning
+- Random forest
+- Urban heat
+---

@@ -1,0 +1,29 @@
+---
+title: Redistribution population data across a regular spatial grid according to buildings
+  characteristics
+authors:
+- Beata Calka
+- Elzbieta Bielecka
+- Katarzyna Zdunkiewicz
+date: '2016-12-01'
+publishDate: '2024-06-05T20:56:27.748448Z'
+publication_types:
+- article-journal
+publication: '*Geodesy and Cartography*'
+doi: 10.1515/geocart-2016-0011
+abstract: Population data are generally provided by state census organisations at
+  the predefined census enumeration units. However, these datasets very are often
+  required at userdefined spatial units that differ from the census output levels.
+  A number of population estimation techniques have been developed to address these
+  problems. This article is one of those attempts aimed at improving county level
+  population estimates by using spatial disaggregation models with support of buildings
+  characteristic, derived from national topographic database, and average area of
+  a flat. The experimental gridded population surface was created for Opatów county,
+  sparsely populated rural region located in Central Poland. The method relies on
+  geolocation of population counts in buildings, taking into account the building
+  volume and structural building type and then aggregation the people total in 1 km
+  quadrilateral grid. The overall quality of population distribution surface expressed
+  by the mean of RMSE equals 9 persons, and the MAE equals 0.01. We also discovered
+  that nearly 20% of total county area is unpopulated and 80% of people lived on 33%
+  of the county territory.
+---

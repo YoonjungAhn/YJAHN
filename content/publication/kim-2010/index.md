@@ -1,0 +1,32 @@
+---
+title: 'Pycnophylactic interpolation revisited: Integration with the dasymetric-mapping
+  method'
+authors:
+- Hwahwan Kim
+- Xiaobai YAO
+date: '2010-01-01'
+publishDate: '2024-06-05T20:56:27.819750Z'
+publication_types:
+- article-journal
+publication: '*International Journal of Remote Sensing*'
+doi: 10.1080/01431161.2010.496805
+abstract: Dasymetric-mapping and pycnophylactic-interpolation methods have solid theoretical
+  foundations and empirical supports in population-estimation research. Each of the
+  methods has its own strengths, but also suffers obvious shortcomings. Dasymetric
+  mapping makes good use of ancillary information to infer most likely population
+  distribution, whereas it suffers from the unfounded assumption of uniform distribution
+  of population among all eligible locations. Pycnophylactic interpolation warrants
+  a smooth population surface in the study area without any presumption of uniform
+  distribution. However, the method does not draw on information about real population
+  distribution, so that its estimation accuracy cannot benefit from such useful information.
+  In this paper, we develop a hybrid approach that takes advantage of the strengths
+  and remedies the flaws of both methods. The hybrid method is tested with a case
+  study. To evaluate the performance of the proposed hybrid method, this study compares
+  its estimation accuracy with those of other popular methods including areal-weighting
+  interpolation, binary dasymetric mapping and the pycnophylactic-interpolation method.
+  The comparison results prove that the proposed hybrid method significantly outperforms
+  the other methods. In addition, the study conducts a sensitivity analysis to examine
+  the effect of search-radius size, which is the key parameter of the hybrid method,
+  on estimation accuracy. The analysis result shows that the hybrid method can be
+  further improved with appropriate choice of search radius. © 2010 Taylor & Francis.
+---

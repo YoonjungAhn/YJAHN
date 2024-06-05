@@ -1,0 +1,36 @@
+---
+title: A case-only study of vulnerability to heat wave–related mortality in New York
+  City (2000–2011)
+authors:
+- Jaime Madrigano
+- Kazuhiko Ito
+- Sarah Johnson
+- Patrick L. Kinney
+- Thomas Matte
+date: '2015-07-01'
+publishDate: '2024-06-05T20:56:30.167895Z'
+publication_types:
+- article-journal
+publication: '*Environmental Health Perspectives*'
+doi: 10.1289/ehp.1408178
+abstract: 'Background: As a result of climate change, the frequency of extreme temperature
+  events is expected to increase, and such events are associated with increased morbidity
+  and mortality. Vulnerability patterns, and corresponding adaptation strategies,
+  are most usefully conceptualized at a local level. Methods: We used a case-only
+  analysis to examine subject and neighborhood characteristics that modified the association
+  between heat waves and mortality. All deaths of New York City residents from 2000
+  through 2011 were included in this analysis. Meteorological data were obtained from
+  the National Climatic Data Center. Modifying characteristics were obtained from
+  the death record and geographic data sets. results: A total of 234,042 adult deaths
+  occurred during the warm season of our study period. Compared with other warm-season
+  days, deaths during heat waves were more likely to occur in black (non-Hispanic)
+  individuals than other race/ethnicities [odds ratio (OR) = 1.08; 95% CI: 1.03, 1.12],
+  more likely to occur at home than in institutions and hospital settings (OR = 1.11;
+  95% CI: 1.06, 1.16), and more likely among those living in census tracts that received
+  greater public assistance (OR = 1.05; 95% CI: 1.01, 1.09). Finally, deaths during
+  heat waves were more likely among residents in areas of the city with higher relative
+  daytime summer surface temperature and less likely among residents living in areas
+  with more green space. conclusion: Mortality during heat waves varies widely within
+  a city. Understanding which individuals and neighborhoods are most vulnerable can
+  help guide local preparedness efforts.'
+---

@@ -1,0 +1,62 @@
+---
+title: Breaking new ground in mapping human settlements from space – The Global Urban
+  Footprint
+authors:
+- Thomas Esch
+- Wieke Heldens
+- Andreas Hirner
+- Manfred Keil
+- Mattia Marconcini
+- Achim Roth
+- Julian Zeidler
+- Stefan Dech
+- Emanuele Strano
+date: '2017-01-01'
+publishDate: '2024-06-05T20:56:29.075014Z'
+publication_types:
+- article-journal
+publication: '*ISPRS Journal of Photogrammetry and Remote Sensing*'
+doi: 10.1016/j.isprsjprs.2017.10.012
+abstract: Today, approximately 7.2 billion people inhabit the Earth and by 2050 this
+  number will have risen to around nine billion, of which about 70% will be living
+  in cities. The population growth and the related global urbanization pose one of
+  the major challenges to a sustainable future. Hence, it is essential to understand
+  drivers, dynamics, and impacts of the human settlements development. A key component
+  in this context is the availability of an up-to-date and spatially consistent map
+  of the location and distribution of human settlements. It is here that the Global
+  Urban Footprint (GUF) raster map can make a valuable contribution. The new global
+  GUF binary settlement mask shows a so far unprecedented spatial resolution of 0.4″
+  (∼12m) that provides – for the first time – a complete picture of the entirety of
+  urban and rural settlements. The GUF has been derived by means of a fully automated
+  processing framework – the Urban Footprint Processor (UFP) – that was used to analyze
+  a global coverage of more than 180,000 TanDEM-X and TerraSAR-X radar images with
+  3 m ground resolution collected in 2011–2012. The UFP consists of five main technical
+  modules for data management, feature extraction, unsupervised classification, mosaicking
+  and post-editing. Various quality assessment studies to determine the absolute GUF
+  accuracy based on ground truth data on the one hand and the relative accuracies
+  compared to established settlements maps on the other hand, clearly indicate the
+  added value of the new global GUF layer, in particular with respect to the representation
+  of rural settlement patterns. The Kappa coefficient of agreement compared to absolute
+  ground truth data, for instance, shows GUF accuracies which are frequently twice
+  as high as those of established low resolution maps. Generally, the GUF layer achieves
+  an overall absolute accuracy of about 85%, with observed minima around 65% and maxima
+  around 98%. The GUF will be provided open and free for any scientific use in the
+  full resolution and for any non-profit (but also non-scientific) use in a generalized
+  version of 2.8″ (∼84m). Therewith, the new GUF layer can be expected to break new
+  ground with respect to the analysis of global urbanization and peri-urbanization
+  patterns, population estimation, vulnerability assessment, or the modeling of diseases
+  and phenomena of global change in general.
+tags:
+- Automation
+- Global mapping
+- Human settlements
+- Image analysis
+- Processing
+- TanDEM-X
+- TerraSAR-X
+- Texture
+- Urbanization
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.isprsjprs.2017.10.012
+---

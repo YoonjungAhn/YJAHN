@@ -1,0 +1,39 @@
+---
+title: 'Uncertainty in geospatial health: challenges and opportunities ahead'
+authors:
+- Eric M. Delmelle
+- Michael R. Desjardins
+- Paul Jung
+- Claudio Owusu
+- Yu Lan
+- Alexander Hohl
+- Coline Dony
+date: '2022-01-01'
+publishDate: '2024-06-05T20:56:27.413625Z'
+publication_types:
+- article-journal
+publication: '*Annals of Epidemiology*'
+doi: 10.1016/J.ANNEPIDEM.2021.10.002
+abstract: PURPOSE Uncertainty is not always well captured, understood, or modeled
+  properly, and can bias the robustness of complex relationships, such as the association
+  between the environment and public health through exposure, estimates of geographic
+  accessibility and cluster detection, to name a few.   METHODS We review current
+  challenges and future opportunities as geospatial data and analyses are applied
+  to the field of public health. We are particularly interested in the sources of
+  uncertainty in geospatial data and how this uncertainty may propagate in spatial
+  analysis.   RESULTS We present opportunities to reduce the magnitude and impact
+  of uncertainty. Specifically, we focus on (1) the use of multiple reference data
+  sources to reduce geocoding errors, (2) the validity of online geocoders and how
+  confidentiality (e.g., HIPAA) may be breached, (3) use of multiple reference data
+  sources to reduce geocoding errors, (4) the impact of geoimputation techniques on
+  travel estimates, (5) residential mobility and how it affects accessibility metrics
+  and clustering, and (6) modeling errors in the American Community Survey. Our paper
+  discusses how to communicate spatial and spatiotemporal uncertainty, and high-performance
+  computing to conduct large amounts of simulations to ultimately increase statistical
+  robustness for studies in public health.   CONCLUSIONS Our paper contributes to
+  recent efforts to fill in knowledge gaps at the intersection of spatial uncertainty
+  and public health.
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1047279721003124
+---

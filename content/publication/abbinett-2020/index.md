@@ -1,0 +1,45 @@
+---
+title: 'Heat Response Plans : Summary of Evidence and Strategies for Collaboration
+  and Implementation'
+authors:
+- Jessica Abbinett
+- Paul J Schramm
+- Stasia Widerynski
+- Shubhayu Saha
+- Suzanne Beavers
+- Margaret Eaglin
+- Uei Lei
+- Seema G Nayak
+- Matthew Roach
+- Matt Wolff
+- Kathryn C Conlon
+- Lauren Thie
+date: '2020-01-01'
+publishDate: '2024-06-05T20:56:25.653374Z'
+publication_types:
+- manuscript
+abstract: Extreme heat is a major public health concern in the United States. Temperatures
+  are increasing across the country, with more frequent and severe heat waves in many
+  regions. This trend is projected to continue. Exposure to heat may increase the
+  risk of illness particularly among sensitive groups such as people who do not have
+  access to air conditioning, older adults, young children, people working outdoors,
+  athletes, the socially isolated, people with existing chronic conditions, and some
+  communities of color. Health departments, their partners, and other government agencies
+  have undertaken a variety of strategies to protect the public from high temperatures.
+  One potential strategy is a heat response plan - a coordinated plan that describes
+  and organizes activities to prevent heat-related morbidity and mortality in a community.
+  Health departments at all levels (state, local, Tribal, and territorial) and their
+  partners can develop and implement a response to protect their community and vulnerable
+  populations. There is evidence that heat response plans can protect health, but
+  mixed evidence on the effectiveness of individual components of a heat response
+  plan and the degree of overall health protection. This document is intended to give
+  a summary of extreme heat, the health burden of heat exposure, the impacts of climate
+  change, and components and effectiveness of heat response plans with a focus on
+  relevant peer-reviewed literature and existing heat response plans. Resources and
+  examples of successful implementation and potential collaborative efforts are included.
+  Introduction
+links:
+- name: URL
+  url: 
+    https://www.researchgate.net/publication/339658474_Heat_Response_Plans_Summary_of_Evidence_and_Strategies_for_Collaboration_and_Implementation_Climate_and_Health_Technical_Report_Series_Climate_and_Health_Program_Centers_for_Disease_Control_and_Preven
+---
