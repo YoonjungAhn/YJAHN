@@ -57,7 +57,7 @@ education:
   - area: PhD Geography
     institution: Florida State University
     date_start: 2018-08-20
-    date_end: 2022-04-31
+    date_end: 2022-04-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
