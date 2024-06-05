@@ -1,0 +1,26 @@
+---
+title: Aggregation and the estimated effects of economic conditions on health
+authors:
+- Jason M. Lindo
+date: '2015-03-01'
+publishDate: '2024-06-05T21:10:27.875347Z'
+publication_types:
+- article-journal
+publication: '*Journal of Health Economics*'
+doi: 10.1016/J.JHEALECO.2014.11.009
+abstract: This paper considers the relationship between economic conditions and health
+  with a focus on different approaches to geographic aggregation. After reviewing
+  the tradeoffs associated with more- and less-disaggregated analyses, I update earlier
+  state-level analyses of mortality and infant health and then consider how the estimated
+  effects vary when the analysis is conducted at differing levels of geographic aggregation.
+  This analysis reveals that the results are sensitive to the level of geographic
+  aggregation with more-disaggregated analyses-particularly county-level analyses-routinely
+  producing estimates that are smaller in magnitude. Further analyses suggest this
+  is due to spillover effects of economic conditions on health outcomes across counties.
+tags:
+- Aggregation
+- Health
+- Infant health
+- Mortality
+- Recessions
+---

@@ -1,0 +1,25 @@
+---
+title: AR6 Working Group I
+authors:
+- ' IPCC'
+date: '2021-01-01'
+publishDate: '2024-06-05T21:10:24.091444Z'
+publication_types:
+- article-journal
+publication: '*Ipcc*'
+abstract: Anthropogenic impacts on widespread global soil moisture (SM) drying in
+  the root zone layer during 1948–2005 were evaluated based on the Global Land Data
+  Assimilation System version 2 (GLDAS-2) and global climate models from the Coupled
+  Model Intercomparison Project Phase 5 using trend analysis and optimal fingerprint
+  methods. Both methods show agreement that natural forcing alone cannot drive significant
+  SM drying. There is a high probability (≥90%) that the anthropogenic climate change
+  signal is detectable in global SM drying. Specifically, anthropogenic greenhouse
+  gas forcing can lead to global SM drying by 2.1 × 10−3 m3/m3, which is comparable
+  to the drying trend seen in Global Land Data Assimilation System version 2 (2.4
+  × 10−3 m3/m3) over the past 58 years. Global SM drying is expected to continue in
+  the future, given continuous greenhouse gas emissions.
+tags:
+- attribution
+- human activities
+- soil moisture
+---

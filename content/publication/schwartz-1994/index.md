@@ -1,0 +1,22 @@
+---
+title: 'The fallacy of the ecological fallacy: The potential misuse of a concept and
+  the consequences'
+authors:
+- S. Schwartz
+date: '1994-01-01'
+publishDate: '2024-06-05T21:10:21.764470Z'
+publication_types:
+- article-journal
+publication: '*American Journal of Public Health*'
+doi: 10.2105/AJPH.84.5.819
+abstract: Ecological studies have been evaluated in epidemiological contexts in terms
+  of the 'ecological fallacy.' Although the empirical evidence for a lack of comparability
+  between correlations derived from ecological- and individual-level analyses is compelling,
+  the conceptual meaning of the ecological fallacy remains problematic. This paper
+  argues that issues in cross-level inference can be usefully conceptualized as validity
+  problems, problems not peculiar to ecological-level analyses. Such an approach increases
+  the recognition of both potential inference problems in individual- level studies
+  and the unique contributions of ecological variables. This, in turn, expands the
+  terrain for the location of causes for disease and interventions to improve the
+  public's health.
+---

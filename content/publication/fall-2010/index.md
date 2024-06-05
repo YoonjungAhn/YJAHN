@@ -1,0 +1,48 @@
+---
+title: 'Impacts of land use land cover on temperature trends over the continental
+  United States: Assessment using the North American Regional Reanalysis'
+authors:
+- Souleymane Fall
+- Dev Niyogi
+- Alexander Gluhovsky
+- Roger A. Pielke
+- Eugenia Kalnay
+- Gilbert Rochon
+date: '2010-01-01'
+publishDate: '2024-06-05T21:10:22.747437Z'
+publication_types:
+- article-journal
+publication: '*International Journal of Climatology*'
+doi: 10.1002/joc.1996
+abstract: We investigate the sensitivity of surface temperature trends to land use
+  land cover change (LULC) over the conterminous United States (CONUS) using the observation
+  minus reanalysis (OMR) approach. We estimated the OMR trends for the 1979-2003 period
+  from the US Historical Climate Network (USHCN), and the NCEP-NCAR North American
+  Regional Reanalysis (NARR). We used a new mean square differences (MSDs)-based assessment
+  for the comparisons between temperature anomalies from observations and interpolated
+  reanalysis data. Trends of monthly mean temperature anomalies show a strong agreement,
+  especially between adjusted USHCN and NARR (r = 0.9 on average) and demonstrate
+  that NARR captures the climate variability at different time scales. OMR trend results
+  suggest that, unlike findings from studies based on the global reanalysis (NCEP/NCAR
+  reanalysis), NARR often has a larger warming trend than adjusted observations (on
+  average, 0.28 and 0.27 °C/decade respectively).OMR trends were found to be sensitive
+  to land cover types. We analysed decadal OMR trends as a function of land types
+  using the Advanced Very High Resolution Radiometer (AVHRR) and new National Land
+  Cover Database (NLCD) 1992-2001 Retrofit Land Cover Change. The magnitude of OMR
+  trends obtained from the NLDC is larger than the one derived from the 'static' AVHRR.
+  Moreover, land use conversion often results in more warming than cooling.Overall,
+  our results confirm the robustness of the OMR method for detecting non-climatic
+  changes at the station level, evaluating the impacts of adjustments performed on
+  raw observations, and most importantly, providing a quantitative estimate of additional
+  warming trends associated with LULC changes at local and regional scales. As most
+  of the warming trends that we identify can be explained on the basis of LULC changes,
+  we suggest that in addition to considering the greenhouse gases-driven radiative
+  forcings, multi-decadal and longer climate models simulations must further include
+  LULC changes. Copyright © 2009 Royal Meteorological Society.
+tags:
+- Land use land cover change
+- Observed minus reanalysis approach
+- Reanalysis
+- Temperature trends
+- US historical climate network
+---

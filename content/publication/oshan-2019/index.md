@@ -1,0 +1,42 @@
+---
+title: 'MGWR: A python implementation of multiscale geographically weighted regression
+  for investigating process spatial heterogeneity and scale'
+authors:
+- Taylor M. Oshan
+- Ziqi Li
+- Wei Kang
+- Levi J. Wolf
+- A. Stewart Fotheringham
+date: '2019-01-01'
+publishDate: '2024-06-05T21:10:23.074855Z'
+publication_types:
+- article-journal
+publication: '*ISPRS International Journal of Geo-Information*'
+doi: 10.3390/ijgi8060269
+abstract: Geographically weighted regression (GWR) is a spatial statistical technique
+  that recognizes that traditional ‘global’ regression models may be limited when
+  spatial processes vary with spatial context. GWR captures process spatial heterogeneity
+  by allowing effects to vary over space. To do this, GWR calibrates an ensemble of
+  local linear models at any number of locations using ‘borrowed’ nearby data. This
+  provides a surface of location-specific parameter estimates for each relationship
+  in the model that is allowed to vary spatially, as well as a single bandwidth parameter
+  that provides intuition about the geographic scale of the processes. A recent extension
+  to this framework allows each relationship to vary according to a distinct spatial
+  scale parameter, and is therefore known as multiscale (M)GWR. This paper introduces
+  mgwr, a Python-based implementation of MGWR that explicitly focuses on the multiscale
+  analysis of spatial heterogeneity. It provides novel functionality for inference
+  and exploratory analysis of local spatial processes, new diagnostics unique to multi-scale
+  local models, and drastic improvements to efficiency in estimation routines. We
+  provide two case studies using mgwr, in addition to reviewing core concepts of local
+  models. We present this in a literate programming style, providing an overview of
+  the primary software functionality and demonstrations of suggested usage alongside
+  the discussion of primary concepts and demonstration of the improvements made in
+  mgwr.
+tags:
+- Gwr
+- Heterogeneity
+- Mgwr
+- Multiscale
+- Scale
+- Spatial statistics
+---

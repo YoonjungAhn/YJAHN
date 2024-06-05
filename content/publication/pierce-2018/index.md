@@ -1,0 +1,40 @@
+---
+title: Improperly-zoned, spatially-marginalized, and poorly-served? An analysis of
+  mobile home parks in Los Angeles County
+authors:
+- Gregory Pierce
+- C. J. Gabbe
+- Silvia R. Gonzalez
+date: '2018-07-01'
+publishDate: '2024-06-05T21:10:27.478261Z'
+publication_types:
+- article-journal
+publication: '*Land Use Policy*'
+doi: 10.1016/J.LANDUSEPOL.2018.05.001
+abstract: More than 6% of Americans live in mobile homes, and yet there has been limited
+  scholarly attention to mobile home location or quality of life compared to conditions
+  in other housing types. There has not been a single comprehensive study to date
+  that assesses where mobile home parks (MHPs) are located within metropolitan areas,
+  that explores why some neighborhoods have a greater concentration of MHPs than others,
+  or examines what environmental or basic service conditions are like in those neighborhoods.
+  In California, more than 1 million residents live in mobile homes, with the vast
+  majority (75%) of these living in MHPs rather than standalone units. We answer two
+  questions in this study. First, are MHPs in “worse” neighborhoods in terms of socioeconomic
+  status, zoning, local land uses, accessibility to jobs, and environmental quality?
+  Second, which neighborhood factors are most strongly correlated with MHP locations
+  and concentrations? We answer these questions using data for all mobile home parks
+  in Los Angeles County, California. We find that MHPs are more likely to be located
+  in lower density neighborhoods and at the urban fringe. More than 41% of MHPs are
+  in areas zoned for commercial or industrial purposes rather than residential uses.
+  Not surprisingly then, we find that MHPs are located in areas with more environmental
+  hazards. A multivariate analysis of neighborhood factors confirms our hypotheses.
+  Moreover, we find that MHPs’ access to public services is worse than the average
+  neighborhood in the county. We recommend that policymakers engage in targeted efforts
+  to address disparities in service access and mitigate environmental hazards.
+tags:
+- Affordable housing
+- Mobile home parks
+- Residential location
+- Urban marginalization
+- Zoning
+---

@@ -1,0 +1,50 @@
+---
+title: VALIDATION OF THE ASTER GLOBAL DIGITAL ELEVATION MODEL  VERSION 3 OVER THE
+  CONTERMINOUS UNITED STATES
+authors:
+- D. Gesch
+- M. Oimoen
+- J. Danielson
+- D. Meyer
+date: '2016-06-01'
+publishDate: '2024-06-05T21:10:27.716766Z'
+publication_types:
+- article-journal
+publication: '*The International Archives of the Photogrammetry, Remote Sensing and
+  Spatial Information Sciences*'
+doi: 10.5194/ISPRS-ARCHIVES-XLI-B4-143-2016
+abstract: <p><strong class=\"journal-contentHeaderColor\">Abstract.</strong> The ASTER
+  Global Digital Elevation Model Version 3 (GDEM v3) was evaluated over the conterminous
+  United States in a manner similar to the validation conducted for the original GDEM
+  Version 1 (v1) in 2009 and GDEM Version 2 (v2) in 2011. The absolute vertical accuracy
+  of GDEM v3 was calculated by comparison with more than 23,000 independent reference
+  geodetic ground control points from the U.S. National Geodetic Survey. The root
+  mean square error (RMSE) measured for GDEM v3 is 8.52 meters. This compares with
+  the RMSE of 8.68 meters for GDEM v2. Another important descriptor of vertical accuracy
+  is the mean error, or bias, which indicates if a DEM has an overall vertical offset
+  from true ground level. The GDEM v3 mean error of &minus;1.20 meters reflects an
+  overall negative bias in GDEM v3. The absolute vertical accuracy assessment results,
+  both mean error and RMSE, were segmented by land cover type to provide insight into
+  how GDEM v3 performs in various land surface conditions. While the RMSE varies little
+  across cover types (6.92 to 9.25 meters), the mean error (bias) does appear to be
+  affected by land cover type, ranging from &minus;2.99 to +4.16 meters across 14
+  land cover classes. These results indicate that in areas where built or natural
+  aboveground features are present, GDEM v3 is measuring elevations above the ground
+  level, a condition noted in assessments of previous GDEM versions (v1 and v2) and
+  an expected condition given the type of stereo-optical image data collected by ASTER.
+  GDEM v3 was also evaluated by differencing with the Shuttle Radar Topography Mission
+  (SRTM) dataset. In many forested areas, GDEM v3 has elevations that are higher in
+  the canopy than SRTM. The overall validation effort also included an evaluation
+  of the GDEM v3 water mask. In general, the number of distinct water polygons in
+  GDEM v3 is much lower than the number in a reference land cover dataset, but the
+  total areas compare much more closely.</p>
+tags:
+- Accuracy
+- Comparison
+- DEM/DTM
+- Geodesy
+- Global-Environmental-Databases
+- Land Cover
+- Mapping
+- Satellite
+---

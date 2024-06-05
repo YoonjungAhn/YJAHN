@@ -1,0 +1,79 @@
+---
+title: 'Population ageing and deaths attributable to ambient PM2·5 pollution: a global
+  analysis of economic cost'
+authors:
+- Hao Yin
+- Michael Brauer
+- Junfeng (Jim) Zhang
+- Wenjia Cai
+- Ståle Navrud
+- Richard Burnett
+- Courtney Howard
+- Zhu Deng
+- Daniel M. Kammen
+- Hans Joachim Schellnhuber
+- Kai Chen
+- Haidong Kan
+- Zhan Ming Chen
+- Bin Chen
+- Ning Zhang
+- Zhifu Mi
+- D'Maris M. Coffman
+- Aaron J. Cohen
+- Dabo Guan
+- Qiang Zhang
+- Peng Gong
+- Zhu Liu
+date: '2021-06-01'
+publishDate: '2024-06-05T21:10:25.870131Z'
+publication_types:
+- article-journal
+publication: '*The Lancet Planetary Health*'
+doi: 10.1016/S2542-5196(21)00131-5
+abstract: "Background: The health impacts of ambient air pollution impose large costs
+  on society. Although all people are exposed to air pollution, the older population
+  (ie, those aged ≥60 years) tends to be disproportionally affected. As a result,
+  there is growing concern about the health impacts of air pollution as many countries
+  undergo rapid population ageing. We investigated the spatial and temporal variation
+  in the economic cost of deaths attributable to ambient air pollution and its interaction
+  with population ageing from 2000 to 2016 at global and regional levels. Methods:
+  In this global analysis, we developed an age-adjusted measure of the value of a
+  statistical life-year (VSLY) to estimate the economic cost of deaths attributable
+  to ambient PM2·5 pollution using Global Burden of Diseases, Injuries, and Risk Factors
+  Study 2017 data and country-level socioeconomic information. First, we estimated
+  the global age-specific and cause-specific mortality and years of life lost (YLLs)
+  attributable to PM2·5 pollution using the global exposure mortality model and global
+  estimates of exposure at 0·1° × 0·1° (about 11 km × 11 km at the equator) resolution.
+  Second, for each year between 2000 and 2016, we translated the YLLs within each
+  age group into a health-related cost using a country-specific, age-adjusted measure
+  of VSLY. Third, we decomposed the major driving factors that contributed to the
+  temporal change in health costs related to PM2·5. Finally, we did a sensitivity
+  test to analyse the variability of the estimated health costs to four alternative
+  valuation measures. We identified the uncertainty intervals (UIs) from 1000 draws
+  of the parameters and concentration–response functions by age, cause, country, and
+  year. All economic values are reported in 2011 purchasing power parity-adjusted
+  US dollars. All simulations were done with R, version 3.6.0. Findings: Globally,
+  in 2016, PM2·5 was estimated to have caused 8·42 million (95% UI 6·50–10·52) attributable
+  deaths, which was associated with 163·68 million (116·03–219·44) YLLs. In 2016,
+  the global economic cost of deaths attributable to ambient PM2·5 pollution for the
+  older population was US$2·40 trillion (1·89–2·93) accounting for 59% (59–60) of
+  the cost for the total population ($4·09 trillion [3·19–5·05]). The economic cost
+  per capita for the older population was $2739 (2160–3345) in 2016, which was 10
+  times that of the younger population (ie, those aged <60 years). By assessing the
+  factors that contributed to economic costs, we found that increases in these factors
+  changed the total economic cost by 77% for gross domestic product (GDP) per capita,
+  21% for population ageing, 16% for population growth, −41% for age-specific mortality,
+  and −0·4% for PM2·5 exposure. Interpretation: The economic cost of ambient PM2·5
+  borne by the older population almost doubled between 2000 and 2016, driven primarily
+  by GDP growth, population ageing, and population growth. Compared with younger people,
+  air pollution leads to disproportionately higher health costs among older people,
+  even after accounting for their relatively shorter life expectancy and increased
+  disability. As the world's population is ageing, the disproportionate health cost
+  attributable to ambient PM2·5 pollution potentially widens the health inequities
+  for older people. Countries with severe air pollution and rapid ageing rates need
+  to take immediate actions to improve air quality. In addition, strategies aimed
+  at enhancing health-care services, especially targeting the older population, could
+  be beneficial for reducing the health costs of ambient air pollution. Funding: National
+  Natural Science Foundation of China, China Postdoctoral Science Foundation, and
+  Qiushi Foundation."
+---

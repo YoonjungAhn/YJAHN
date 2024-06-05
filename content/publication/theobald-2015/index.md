@@ -1,0 +1,42 @@
+---
+title: Ecologically-Relevant Maps of Landforms and Physiographic Diversity for Climate
+  Adaptation Planning
+authors:
+- David M. Theobald
+- Dylan Harrison-Atlas
+- William B. Monahan
+- Christine M. Albano
+date: '2015-12-01'
+publishDate: '2024-06-05T21:10:23.808976Z'
+publication_types:
+- article-journal
+publication: '*PLOS ONE*'
+doi: 10.1371/journal.pone.0143619
+abstract: Key to understanding the implications of climate and land use change on
+  biodiversity and natural resources is to incorporate the physiographic platform
+  on which changes in ecological systems unfold. Here, we advance a detailed classification
+  and high-resolution map of physiography, built by combining landforms and lithology
+  (soil parent material) at multiple spatial scales. We used only relatively static
+  abiotic variables (i.e., excluded climatic and biotic factors) to prevent confounding
+  current ecological patterns and processes with enduring landscape features, and
+  to make the physiographic classification more interpretable for climate adaptation
+  planning. We generated novel spatial databases for 15 landform and 269 physiographic
+  types across the conterminous United States of America. We examined their potential
+  use by natural resource managers by placing them within a contemporary climate change
+  adaptation framework, and found our physiographic databases could play key roles
+  in four of seven general adaptation strategies. We also calculated correlations
+  with common empirical measures of biodiversity to examine the degree to which the
+  physiographic setting explains various aspects of current biodiversity patterns.
+  Additionally, we evaluated the relationship between landform diversity and measures
+  of climate change to explore how changes may unfold across a geophysical template.
+  We found landform types are particularly sensitive to spatial scale, and so we recommend
+  using high-resolution datasets when possible, as well as generating metrics using
+  multiple neighborhood sizes to both minimize and characterize potential unknown
+  biases. We illustrate how our work can inform current strategies for climate change
+  adaptation. The analytical framework and classification of landforms and parent
+  material are easily extendable to other geographies and may be used to promote climate
+  change adaptation in other settings.
+links:
+- name: URL
+  url: https://dx.plos.org/10.1371/journal.pone.0143619
+---

@@ -1,0 +1,41 @@
+---
+title: Heat-coping strategies and bedroom thermal satisfaction in New York City
+authors:
+- W. Victoria Lee
+- Jeffrey Shaman
+date: '2017-01-01'
+publishDate: '2024-06-05T21:10:23.952701Z'
+publication_types:
+- article-journal
+publication: '*Science of The Total Environment*'
+doi: 10.1016/J.SCITOTENV.2016.07.006
+abstract: There has been little research into the thermal condition of the sleeping
+  environment. Even less well documented and understood is how the sleeping thermal
+  environment is affected by occupant behaviors such as the use of air-conditioning
+  (AC) and electric fans, or window operations. In this paper we present results from
+  a questionnaire survey administered to assess summertime bedroom thermal satisfaction
+  and heat-coping strategies among New York City (NYC) residents. Specifically, we
+  investigated current AC usage in bedrooms and examined alternate cooling strategies,
+  cooling appliance usage patterns, and the motivations that drove these patterns
+  during the 2015 summer. Among survey respondents (n=706), AC was the preferred heat-coping
+  strategy, and for 30% of respondents was the only strategy used. Electric fan use
+  and window opening were deemed ineffective for cooling by many respondents. Indeed,
+  less than a quarter of all respondents ever opened windows to alleviate heat in
+  their bedrooms. In general, people utilized strategies that modify the environment
+  more than the individual person. Unsurprisingly, the frequency and overall use of
+  AC were significantly associated with greater bedroom thermal satisfaction; however,
+  setting AC to a lower temperature provided no additional benefit. In contrast, more
+  frequent use of electric fans was associated with lower thermal satisfaction. In
+  addition, 14.7% of all respondents did not have AC in their sleeping environment
+  and 5.8% were without any AC at home. Despite the high penetration of AC ownership,
+  usage cost was still a major concern for most. This work contributes to a better
+  understanding of bedtime heat-coping strategies, cooling appliance usage patterns,
+  and associated thermal satisfaction in NYC. The findings of this study suggest resident
+  AC usage patterns may not be optimized for thermal satisfaction. Potential alternative
+  cooling approaches could be explored to better balance maximizing thermal comfort
+  while reducing energy consumption and environmental impact.
+links:
+- name: URL
+  url: 
+    https://www.sciencedirect.com/science/article/pii/S0048969716314498?casa_token=SSYiR0DssnsAAAAA:HBETeZqxkwvgQoJQREtboFv-HFso9n8erVarRrv7WVwVUK81bJLtsTui9aMYTLP5n6n9KWC24g
+---

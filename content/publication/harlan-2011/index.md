@@ -1,0 +1,23 @@
+---
+title: 'Climate change and health in cities: Impacts of heat and air pollution and
+  potential co-benefits from mitigation and adaptation'
+authors:
+- Sharon L. Harlan
+- Darren M. Ruddell
+date: '2011-05-01'
+publishDate: '2024-06-05T21:10:26.115824Z'
+publication_types:
+- manuscript
+publication: '*Current Opinion in Environmental Sustainability*'
+doi: 10.1016/j.cosust.2011.01.001
+abstract: Excess morbidity and mortality related to extremely hot weather and poor
+  air quality are found in cities worldwide. This is a major public health concern
+  for cities now and looking toward the future because the interactions of global
+  climate change, urban heat islands, and air pollution are predicted to place increasing
+  health burdens on cities. The proposed mitigation and adaptation strategies in cities'
+  climate risk management plans may produce health co-benefits by reducing emissions
+  and cooling temperatures through changes in the built environment. There are challenges,
+  however, to implementing the plans and the most widely documented beneficial policy
+  to date is the adoption of heat warning and air quality alert systems to trigger
+  emergency responses. © 2011 Elsevier B.V.
+---

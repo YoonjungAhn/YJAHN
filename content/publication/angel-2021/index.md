@@ -1,0 +1,47 @@
+---
+title: 'Anatomy of density: measurable factors that constitute urban density'
+authors:
+- Shlomo Angel
+- Patrick Lamson-Hall
+- Zeltia Gonzalez Blanco
+date: '2021-01-01'
+publishDate: '2024-06-05T21:10:26.303226Z'
+publication_types:
+- article-journal
+publication: '*Buildings and Cities*'
+doi: 10.5334/bc.91
+abstract: 'Serious concerns about global warming have been translated into urgent
+  calls for increasing urban densities, as higher densities are associated with lower
+  carbon emissions from both vehicles and buildings. However, attempts at effective
+  densification have generally failed and urban densities continue to decline in cities
+  across the world. Calls for densification without making room for it have resulted
+  in serious housing supply bottlenecks in many cities and have rendered their housing
+  unaffordable. If affordable densification is to be successful, it is necessary to
+  understand the factors that constitute urban density. A novel way is presented for
+  factoring the average density of cities into constituent factors— three or seven
+  factors—that when multiplied together reconstitute urban density. This factoring
+  methodology is presented together with the preliminary measurement of these factors
+  in 10 cities in 10 world regions. This approach allows, for the first time, a clear
+  understanding of how different cities acquire their density: Hong Kong gets its
+  density from building height; Kinshasa from crowding; and Dhaka and Bogotá from
+  residential coverage. This anatomy of density offers a new outline for a comprehensive
+  strategy for city densification: one that addresses each and every one of the factors
+  that constitute urban density. PRACTICE RELEVANCE Urban density is usually defined
+  as the ratio of the total population of a city and its total area. This is the most
+  appropriate single metric for measuring progress in densification in cities and
+  is now a central objective of the global climate change agenda. However, this metric
+  is rather crude and often hides more than it reveals. The anatomy of density offers
+  a new, simple method for factoring urban density into its constituent factors that
+  when multiplied together reconstitute urban density. This approach offers city leaders
+  and urban planners a new way to consider and develop comprehensive policy options
+  and strategies for city densification that addresses each and every one of the factors
+  that constitute urban density and the tradeoffs between them.'
+tags:
+- affordability
+- cities
+- densification
+- housing
+- urban density
+- urban planning
+- urban policy
+---

@@ -1,0 +1,47 @@
+---
+title: 'Stress and the city: Housing stressors are associated with respiratory health
+  among low socioeconomic status Chicago children'
+authors:
+- Kelly Quinn
+- Jay S. Kaufman
+- Arjumand Siddiqi
+- Karin B. Yeatts
+date: '2010-07-01'
+publishDate: '2024-06-05T21:10:27.326357Z'
+publication_types:
+- article-journal
+publication: '*Journal of Urban Health*'
+doi: 10.1007/s11524-010-9465-1
+abstract: "Asthma disproportionately affects non-whites in urban areas and those of
+  low socioeconomic status, yet asthma's social patterning is not well-explained by
+  known risk factors. We hypothesized that disadvantaged urban populations experience
+  acute and chronic housing stressors which produce psychological stress and impact
+  health through biological and behavioral pathways. We examined eight outcomes: six
+  child respiratory outcomes as well as parent and child general health, using data
+  from 682 low-income, Chicago parents of diagnosed and undiagnosed asthmatic children.
+  We created a continuous exposure, representing material, social and emotional dimensions
+  of housing stressors, weighted by their parent-reported difficulty. We compared
+  the 75th to the 25th quartile of exposure in adjusted binomial and negative binomial
+  regression models. Higher risks and rates of poor health were associated with higher
+  housing stressors for six of eight outcomes. The risk difference (RD) for poor/fair
+  general health was larger for children [RD = 6.28 (95% CI 1.22, 11.35)] than for
+  parents [RD=3.88 (95% CI -1.87, 9.63)]. The incidence rate difference (IRD) for
+  exercise intolerance was nearly one extra day per 2 weeks for the higher exposure
+  group [IRD=0.88 (95% CI 0.41, 1.35)]; nearly one-third extra day per 2 weeks for
+  waking at night [IRD = 0.32 (95% CI 0.01, 0.63)]; and nearly one-third extra day
+  per 6 months for unplanned medical visits [IRD=0.30 (95% CI 0.059, 0.54)]. Results
+  contribute to the conceptualization of urban stress as a \\\"social pollutant\\\"\
+  \ and to the hypothesized role of stress in health disparities. Interventions to
+  improve asthma outcomes must address individuals' reactions to stress while we seek
+  structural solutions to residential stressors and health inequities. © 2010 The
+  New York Academy of Medicine."
+tags:
+- Asthma
+- Chronic disease
+- Environmental health
+- Health disparities
+- Inner-city health
+- Low socioeconomic status and health
+- Psychological stress
+- Stressors
+---

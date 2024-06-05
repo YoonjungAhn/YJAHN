@@ -1,0 +1,44 @@
+---
+title: 'Mapping human vulnerability to extreme heat: A critical assessment of heat
+  vulnerability indices created using principal components analysis'
+authors:
+- Kathryn C. Conlon
+- Evan Mallen
+- Carina J. Gronlund
+- Veronica J. Berrocal
+- Larissa Larsen
+- Marie S. O’neill
+date: '2020-01-01'
+publishDate: '2024-06-05T21:10:23.631998Z'
+publication_types:
+- article-journal
+publication: '*Environmental Health Perspectives*'
+doi: 10.1289/EHP4030
+abstract: 'BACKGROUND: Extreme heat poses current and future risks to human health.
+  Heat vulnerability indices (HVIs), commonly developed using principal components
+  analysis (PCA), are mapped to identify populations vulnerable to extreme heat. Few
+  studies critically assess implications of analytic choices made when employing this
+  methodology for fine-scale vulnerability mapping. OBJECTIVE: We investigated sensitivity
+  of HVIs created by applying PCA to input variables and whether training input variables
+  on heat–health data produced HVIs with similar spatial vulnerability patterns for
+  Detroit, Michigan, USA. METHODS: We acquired 2010 Census tract and block group level
+  data, land cover data, daily ambient apparent temperature, and all-cause mortality
+  during May–September, 2000–2009. We used PCA to construct HVIs using: a) “unsupervised”—PCA
+  applied to variables selected a priori as risk factors for heat-related health outcomes;
+  b) “supervised”—PCA applied only to variables significantly correlated with proportion
+  of all-cause mortality occurring on extreme heat days (i.e., days with 2-d mean
+  apparent temperature above month-specific 95th percentiles). RESULTS: Unsupervised
+  and supervised HVIs yielded differing spatial vulnerability patterns, depending
+  on selected land cover input variables. Supervised PCA explained 62% of variance
+  in the input variables and was applied on half the variables used in the unsupervised
+  method. Census tract–level supervised HVI values were positively associated with
+  increased proportion of mortality occurring on extreme heat days; supervised PCA
+  could not be applied to block group data. Unsupervised HVI values were not associated
+  with extreme heat mortality for either tracts or block groups. DISCUSSION: HVIs
+  calculated using PCA are sensitive to input data and scale. Supervised HVIs may
+  provide marginally more specific indicators of heat vulnerability than unsupervised
+  HVIs. PCA-derived HVIs address correlation among vulnerability indicators, although
+  the resulting output requires careful contextual interpretation beyond generating
+  epidemiological research questions. Methods with reliably stable outputs should
+  be leveraged for prioritizing heat interventions. https://doi.org/10.1289/EHP4030.'
+---

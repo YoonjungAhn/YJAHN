@@ -1,0 +1,39 @@
+---
+title: Spatial and racial covid-19 disparities in U.S. nursing homes
+authors:
+- Sandy Wong
+- C. S. Ponder
+- Bertram Melix
+date: '2023-05-01'
+publishDate: '2024-06-05T21:10:27.101182Z'
+publication_types:
+- article-journal
+publication: '*Social Science & Medicine*'
+doi: 10.1016/J.SOCSCIMED.2023.115894
+abstract: In many parts of the world nursing home residents have experienced a disproportionate
+  risk of exposure to COVID-19 and have died at much higher rates than other groups.
+  There is a critical need to identify the factors driving COVID-19 risk in nursing
+  homes to better understand and address the conditions contributing to their vulnerability
+  during public health crises. This study investigates the characteristics associated
+  with COVID-19 cases and deaths among residents in U.S. nursing homes from 2020 to
+  2021, with a focus on geospatial and racial inequalities. Using data from the Centers
+  for Medicare and Medicaid Services and LTCFocus, this paper uses zero-inflated negative
+  binomial regression models, Kruskal-Wallis tests, and Local Moran's I to generate
+  statistical and geospatial results. Our analysis reveals that majority Hispanic
+  facilities have alarmingly high COVID-19 cases and deaths, suggesting that these
+  facilities have the greatest need for policy improvements in staffing and financing
+  to reduce racial inequalities in nursing home care. At the same time we also detect
+  COVID-19 hot spots in rural areas with predominately White residents, indicating
+  a need to rethink public messaging strategies in these areas. The top states with
+  COVID-19 hot spots are Kentucky, Pennsylvania, Illinois, and Oklahoma. This research
+  provides new insights into the socio-spatial contexts and inequities that contribute
+  to the vulnerability of nursing home residents during a pandemic.
+tags:
+- COVID-19
+- LTC
+- Long-term care
+- Nursing Homes
+- Racial disparities
+- Racial inequality
+- Spatial analysis
+---

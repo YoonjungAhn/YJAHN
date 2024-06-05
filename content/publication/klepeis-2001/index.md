@@ -1,0 +1,54 @@
+---
+title: 'The National Human Activity Pattern Survey (NHAPS): a resource for assessing
+  exposure to environmental pollutants'
+authors:
+- Neil E. Klepeis
+- William C. Nelso
+- Wayne R. Ott
+- John P. Robinson
+- Andy M. Tsang
+- Paul Switzer
+- Joseph V. Behar
+- Stephen C. Hern
+- William H. Engelmann.
+date: '2001-07-01'
+publishDate: '2024-06-05T21:10:24.163518Z'
+publication_types:
+- article-journal
+publication: '*Journal of Exposure Science & Environmental Epidemiology*'
+doi: 10.1038/sj.jea.7500165
+abstract: Because human activities impact the timing, location, and degree of pollutant
+  exposure, they play a key role in explaining exposure variation. This fact has motivated
+  the collection of activity pattern data for their specific use in exposure assessments.
+  The largest of these recent efforts is the National Human Activity Pattern Survey
+  (NHAPS), a 2-year probability-based telephone survey ( n=9386) of exposure-related
+  human activities in the United States (U.S.) sponsored by the U.S. Environmental
+  Protection Agency (EPA). The primary purpose of NHAPS was to provide comprehensive
+  and current exposure information over broad geographical and temporal scales, particularly
+  for use in probabilistic population exposure models. NHAPS was conducted on a virtually
+  daily basis from late September 1992 through September 1994 by the University of
+  Maryland's Survey Research Center using a computer-assisted telephone interview
+  instrument (CATI) to collect 24-h retrospective diaries and answers to a number
+  of personal and exposure-related questions from each respondent. The resulting diary
+  records contain beginning and ending times for each distinct combination of location
+  and activity occurring on the diary day (i.e., each microenvironment). Between 340
+  and 1713 respondents of all ages were interviewed in each of the 10 EPA regions
+  across the 48 contiguous states. Interviews were completed in 63% of the households
+  contacted. NHAPS respondents reported spending an average of 87% of their time in
+  enclosed buildings and about 6% of their time in enclosed vehicles. These proportions
+  are fairly constant across the various regions of the U.S. and Canada and for the
+  California population between the late 1980s, when the California Air Resources
+  Board (CARB) sponsored a state-wide activity pattern study, and the mid-1990s, when
+  NHAPS was conducted. However, the number of people exposed to environmental tobacco
+  smoke (ETS) in California seems to have decreased over the same time period, where
+  exposure is determined by the reported time spent with a smoker. In both California
+  and the entire nation, the most time spent exposed to ETS was reported to take place
+  in residential locations.
+tags:
+- Epidemiology
+- Medicine/Public Health
+- general
+links:
+- name: URL
+  url: http://www.nature.com/articles/7500165
+---

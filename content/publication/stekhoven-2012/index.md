@@ -1,0 +1,35 @@
+---
+title: Missforest-Non-parametric missing value imputation for mixed-type data
+authors:
+- Daniel J. Stekhoven
+- Peter Bühlmann
+date: '2012-01-01'
+publishDate: '2024-06-05T21:10:24.914050Z'
+publication_types:
+- article-journal
+publication: '*Bioinformatics*'
+doi: 10.1093/bioinformatics/btr597
+abstract: 'Motivation: Modern data acquisition based on high-throughput technology
+  is often facing the problem of missing data. Algorithms commonly used in the analysis
+  of such large-scale data often depend on a complete set. Missing value imputation
+  offers a solution to this problem. However, the majority of available imputation
+  methods are restricted to one type of variable only: continuous or categorical.
+  For mixed-type data, the different types are usually handled separately. Therefore,
+  these methods ignore possible relations between variable types. We propose a non-parametric
+  method which can cope with different types of variables simultaneously.Results:
+  We compare several state of the art methods for the imputation of missing values.
+  We propose and evaluate an iterative imputation method (missForest) based on a random
+  forest. By averaging over many unpruned classification or regression trees, random
+  forest intrinsically constitutes a multiple imputation scheme. Using the built-in
+  out-of-bag error estimates of random forest, we are able to estimate the imputation
+  error without the need of a test set. Evaluation is performed on multiple datasets
+  coming from a diverse selection of biological fields with artificially introduced
+  missing values ranging from 10% to 30%. We show that missForest can successfully
+  handle missing values, particularly in datasets including different types of variables.
+  In our comparative study, missForest outperforms other methods of imputation especially
+  in data settings where complex interactions and non-linear relations are suspected.
+  The out-of-bag imputation error estimates of missForest prove to be adequate in
+  all settings. Additionally, missForest exhibits attractive computational efficiency
+  and can cope with high-dimensional data. © The Author 2011. Published by Oxford
+  University Press. All rights reserved.'
+---

@@ -1,0 +1,43 @@
+---
+title: Developing an applied extreme heat vulnerability index utilizing socioeconomic
+  and environmental data
+authors:
+- Daniel P. Johnson
+- Austin Stanforth
+- Vijay Lulla
+- George Luber
+date: '2012-01-01'
+publishDate: '2024-06-05T21:10:22.864371Z'
+publication_types:
+- article-journal
+publication: '*Applied Geography*'
+doi: 10.1016/j.apgeog.2012.04.006
+abstract: Extreme heat is a leading cause of weather-related fatalities worldwide.
+  Emphasis is currently being placed on the development of spatially specific vulnerability
+  models, which are useful for decision support during extreme heat events (EHE).
+  Research results concerning such spatially-explicit models lead efforts in preparation
+  and mitigation of heat-related vulnerability and potential adaptation. The presented
+  research analyzes the 1995 Chicago EHE in the context of a socio-environmental hazards
+  approach, and fosters the development of an extreme heat vulnerability index (EHVI).
+  The EHVI is a fused dataset consisting of census data and remotely sensed variables,
+  which are examined in relation to geocoded mortality data. The presented analysis
+  combines 25 well-known indicators of extreme heat-health risk into an applied index
+  utilizing a principal components analysis. The developed EHVI presented a trend
+  of higher rates of death in the highest risk zones to lower rates in lower zones
+  of risk. The model explains nearly 80% of the total variance in the heat-health
+  vulnerability variables utilized. This index could be utilized by city officials
+  to assist in the mitigation of extreme heat events and is a further evolution of
+  previously developed efforts. Our findings indicate extreme heat vulnerability models
+  should likely be developed on a local level for a specific location, taking into
+  account local variations in social and environmental vulnerability. © 2012.
+tags:
+- Disaster mitigation
+- Disaster preparation
+- Extreme heat
+- Heat-health vulnerability
+- Social vulnerability
+- Urban heat island
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.apgeog.2012.04.006
+---

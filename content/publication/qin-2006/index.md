@@ -1,0 +1,43 @@
+---
+title: The concentrations and sources of PM2.5 in metropolitan New York City
+authors:
+- Youjun Qin
+- Eugene Kim
+- Philip K. Hopke
+date: '2006-01-01'
+publishDate: '2024-06-05T21:10:27.485659Z'
+publication_types:
+- article-journal
+publication: '*Atmospheric Environment*'
+doi: 10.1016/J.ATMOSENV.2006.02.025
+abstract: The concentration time series of chemical species measured in PM2.5 samples
+  from four speciation trend network (STN) sites in the New York City metropolitan
+  area and a upwind background site were explored. PM2.5 concentrations and chemical
+  compositions measured in metropolitan area of New York City are uniform. About 69-82%
+  of PM2.5 mass derives from transport. The most important constituents of the PM2.5
+  were SO42 -, NH4 and NO3- and account 54-67% of PM2.5 mass. More than 93% of SO42
+  - and about 54-65% of NO3- are likely to have been transported into the NYC area
+  based on the concentrations observed at the background site. Backward air parcel
+  trajectories indicate that coal-fired power plants in the border area among West
+  Virginia, Ohio and Pennsylvania are related to typical high PM2.5 events having
+  peak secondary pollutant concentrations in New York City. Positive matrix factorization
+  (PMF) was applied to identify the PM2.5 sources and estimate the source contributions.
+  Sources common to all five sites included secondary sulfate, secondary nitrate,
+  soil and aged sea salt. Oil combustion was identified at four of the sites. At the
+  Elizabeth site, the oil combustion source appears to show an influence from ship
+  emissions. Motor vehicles were apportioned into two sources (gasoline and diesel)
+  at three site and three sources at the Elizabeth site, probably because of its proximity
+  to a major interstate highway. At the Queens College site, only a combined motor
+  vehicle factor could be resolved. The source profiles, source contributions and
+  seasonal or weekday variations derived by PMF are compared to source inventories
+  for the area. It appears that there were more vehicle exhausts and less dust and
+  wood smoke than are indicated by the source inventories. © 2006 Elsevier Ltd. All
+  rights reserved.
+tags:
+- Composition
+- Emission inventory
+- PM2.5
+- PMF
+- Positive matrix factorization
+- Source apportionment
+---

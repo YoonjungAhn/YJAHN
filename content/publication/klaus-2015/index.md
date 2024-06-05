@@ -1,0 +1,53 @@
+---
+title: Use of attribute association error probability estimates to evaluate quality
+  of medical record geocodes
+authors:
+- Christian A Klaus
+- Luis E Carrasco
+- Daniel W Goldberg
+- Kevin A Henry
+- Recinda L Sherman
+date: '2015-01-01'
+publishDate: '2024-06-05T21:10:25.128095Z'
+publication_types:
+- article-journal
+publication: '*International Journal of Health Geographics*'
+doi: 10.1186/s12942-015-0019-3
+abstract: 'Background: The utility of patient attributes associated with the spatiotemporal
+  analysis of medical records lies not just in their values but also the strength
+  of association between them. Estimating the extent to which a hierarchy of conditional
+  probability exists between patient attribute associations such as patient identifying
+  fields, patient and date of diagnosis, and patient and address at diagnosis is fundamental
+  to estimating the strength of association between patient and geocode, and patient
+  and enumeration area. We propose a hierarchy for the attribute associations within
+  medical records that enable spatiotemporal relationships. We also present a set
+  of metrics that store attribute association error probability (AAEP), to estimate
+  error probability for all attribute associations upon which certainty in a patient
+  geocode depends. Methods: A series of experiments were undertaken to understand
+  how error estimation could be operationalized within health data and what levels
+  of AAEP in real data reveal themselves using these methods. Specifically, the goals
+  of this evaluation were to (1) assess if the concept of our error assessment techniques
+  could be implemented by a population-based cancer registry; (2) apply the techniques
+  to real data from a large health data agency and characterize the observed levels
+  of AAEP; and (3) demonstrate how detected AAEP might impact spatiotemporal health
+  research. Results: We present an evaluation of AAEP metrics generated for cancer
+  cases in a North Carolina county. We show examples of how we estimated AAEP for
+  selected attribute associations and circumstances. We demonstrate the distribution
+  of AAEP in our case sample across attribute associations, and demonstrate ways in
+  which disease registry specific operations influence the prevalence of AAEP estimates
+  for specific attribute associations. Conclusions: The effort to detect and store
+  estimates of AAEP is worthwhile because of the increase in confidence fostered by
+  the attribute association level approach to the assessment of uncertainty in patient
+  geocodes, relative to existing geocoding related uncertainty metrics.'
+tags:
+- Attribute association
+- Attribute association error probability
+- Attribute association hierarchy
+- Biostatistics
+- Geocoding
+- Health informatics
+- Probability
+- Record linkage
+url_pdf: 
+  https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-015-0019-3.pdf
+---

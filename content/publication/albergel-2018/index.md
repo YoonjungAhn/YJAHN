@@ -1,0 +1,50 @@
+---
+title: 'LDAS-Monde sequential assimilation of satellite derived observations applied
+  to the contiguous US: An ERA-5 driven reanalysis of the land surface variables'
+authors:
+- Clement Albergel
+- Simon Munier
+- Aymeric Bocher
+- Bertrand Bonan
+- Yongjun Zheng
+- Clara Draper
+- Delphine J. Leroux
+- Jean Christophe Calvet
+date: '2018-01-01'
+publishDate: '2024-06-05T21:10:22.583136Z'
+publication_types:
+- article-journal
+publication: '*Remote Sensing*'
+doi: 10.3390/rs10101627
+abstract: Land data assimilation system (LDAS)-Monde, an offline land data assimilation
+  system with global capacity, is applied over the CONtiguous US (CONUS) domain to
+  enhance monitoring accuracy for water and energy states and fluxes. LDAS-Monde ingests
+  satellite-derived surface soil moisture (SSM) and leaf area index (LAI) estimates
+  to constrain the interactions between soil, biosphere, and atmosphere (ISBA) land
+  surface model (LSM) coupled with the CNRM (Centre National de Recherches Météorologiques)
+  version of the total runoff integrating pathways (CTRIP) continental hydrological
+  system (ISBA-CTRIP). LDAS-Monde is forced by the ERA-5 atmospheric reanalysis from
+  the European Center for Medium Range Weather Forecast (ECMWF) from 2010 to 2016
+  leading to a seven-year, quarter degree spatial resolution offline reanalysis of
+  land surface variables (LSVs) over CONUS. The impact of assimilating LAI and SSM
+  into LDAS-Monde is assessed over North America, by comparison to satellite-driven
+  model estimates of land evapotranspiration from the Global Land Evaporation Amsterdam
+  Model (GLEAM) project, and upscaled ground-based observations of gross primary productivity
+  from the FLUXCOM project. Taking advantage of the relatively dense data networks
+  over CONUS, we have also evaluated the impact of the assimilation against in situ
+  measurements of soil moisture from the USCRN (US Climate Reference Network), together
+  with river discharges from the United States Geological Survey (USGS) and the Global
+  Runoff Data Centre (GRDC). Those data sets highlight the added value of assimilating
+  satellite derived observations compared with an open-loop simulation (i.e., no assimilation).
+  It is shown that LDAS-Monde has the ability not only to monitor land surface variables
+  but also to forecast them, by providing improved initial conditions, which impacts
+  persist through time. LDAS-Monde reanalysis also has the potential to be used to
+  monitor extreme events like agricultural drought. Finally, limitations related to
+  LDAS-Monde and current satellite-derived observations are exposed as well as several
+  insights on how to use alternative datasets to analyze soil moisture and vegetation
+  state.
+tags:
+- Data assimilation
+- Land surface modeling
+- Remote sensing
+---

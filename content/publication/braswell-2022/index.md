@@ -1,0 +1,32 @@
+---
+title: 'Creeping disaster along the U.S. coastline: Understanding exposure to sea
+  level rise and hurricanes through historical development'
+authors:
+- Anna E. Braswell
+- Stefan Leyk
+- Dylan S. Connor
+- Johannes H. Uhl
+date: '2022-08-01'
+publishDate: '2024-06-05T21:10:26.289497Z'
+publication_types:
+- article-journal
+publication: '*PLoS ONE*'
+doi: 10.1371/journal.pone.0269741
+abstract: Current estimates of U.S. property at risk of coastal hazards and sea level
+  rise (SLR) are staggering-evaluated at over a trillion U.S. dollars. Despite being
+  enormous in the aggregate, potential losses due to SLR depend on mitigation, adaptation,
+  and exposure and are highly uneven in their distribution across coastal cities.
+  We provide the first analysis of how changes in exposure (how and when) have unfolded
+  over more than a century of coastal urban development in the United States. We do
+  so by leveraging new historical settlement layers from the Historical Settlement
+  Data Compilation for the U.S. (HISDAC-US) to examine building patterns within and
+  between the SLR zones of the conterminous United States since the early twentieth
+  century. Our analysis reveals that SLR zones developed faster and continue to have
+  higher structure density than non-coastal, urban, and inland areas. These patterns
+  are particularly prominent in locations affected by hurricanes. However, density
+  levels in historically less-developed coastal areas are now quickly converging on
+  early settled SLR zones, many of which have reached building saturation. These \"saturation
+  effects\"suggest that adaptation polices targeting existing buildings and developed
+  areas are likely to grow in importance relative to the protection of previously
+  undeveloped land.
+---

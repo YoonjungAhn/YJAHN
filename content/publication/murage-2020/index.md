@@ -1,0 +1,41 @@
+---
+title: What individual and neighbourhood-level factors increase the risk of heat-related
+  mortality? A case-crossover study of over 185,000 deaths in London using high-resolution
+  climate datasets
+authors:
+- Peninah Murage
+- Sari Kovats
+- Christophe Sarran
+- Jonathon Taylor
+- Rachel McInnes
+- Shakoor Hajat
+date: '2020-01-01'
+publishDate: '2024-06-05T21:10:25.692672Z'
+publication_types:
+- article-journal
+publication: '*Environment International*'
+doi: 10.1016/j.envint.2019.105292
+abstract: 'Objective: Management of the natural and built environments can help reduce
+  the health impacts of climate change. This is particularly relevant in large cities
+  where urban heat island makes cities warmer than the surrounding areas. We investigate
+  how urban vegetation, housing characteristics and socio-economic factors modify
+  the association between heat exposure and mortality in a large urban area. Methods:
+  We linked 185,397 death records from the Greater London area during May-Sept 2007–2016
+  to a high resolution daily temperature dataset. We then applied conditional logistic
+  regression within a case-crossover design to estimate the odds of death from heat
+  exposure by individual (age, sex) and local area factors: land-use type, natural
+  environment (vegetation index, tree cover, domestic garden), built environment (indoor
+  temperature, housing type, lone occupancy) and socio-economic factors (deprivation,
+  English language, level of employment and prevalence of ill-health). Results: Temperatures
+  were higher in neighbourhoods with lower levels of urban vegetation and with higher
+  levels of income deprivation, social-rented housing, and non-native English speakers.
+  Heat-related mortality increased with temperature increase (Odds Ratio (OR), 95%
+  CI = 1.039, 1.036–1.043 per 1 °C temperature increase). Vegetation cover showed
+  the greatest modification effect, for example the odds of heat-related mortality
+  in quartiles with the highest and lowest tree cover were OR, 95%CI 1.033, 1.026–1.039
+  and 1.043, 1.037–1.050 respectively. None of the socio-economic variables were a
+  significant modifier of heat-related mortality. Conclusions: We demonstrate that
+  urban vegetation can modify the mortality risk associated with heat exposure. These
+  findings make an important contribution towards informing city-level climate change
+  adaptation and mitigation policies.'
+---

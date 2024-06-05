@@ -1,0 +1,26 @@
+---
+title: Local Indicators of Spatial Association—LISA
+authors:
+- Luc Anselin
+date: '1995-01-01'
+publishDate: '2024-06-05T21:10:22.198379Z'
+publication_types:
+- article-journal
+publication: '*Geographical Analysis*'
+doi: 10.1111/j.1538-4632.1995.tb00338.x
+abstract: The capabilities for visualization, rapid data retrieval, and manipulation
+  in geographic information systems (GIS) have created the need for new techniques
+  of exploratory data analysis that focus on the “spatial” aspects of the data. The
+  identification of local patterns of spatial association is an important concern
+  in this respect. In this paper, I outline a new general class of local indicators
+  of spatial association (LISA) and show how they allow for the decomposition of global
+  indicators, such as Moran's I, into the contribution of each observation. The LISA
+  statistics serve two purposes. On one hand, they may be interpreted as indicators
+  of local pockets of nonstationarity, or hot spots, similar to the Gi and G*i statistics
+  of Getis and Ord (1992). On the other hand, they may be used to assess the influence
+  of individual locations on the magnitude of the global statistic and to identify
+  “outliers,” as in Anselin's Moran scatterplot (1993a). An initial evaluation of
+  the properties of a LISA statistic is carried out for the local Moran, which is
+  applied in a study of the spatial pattern of conflict for African countries and
+  in a number of Monte Carlo simulations. 1995 The Ohio State University
+---

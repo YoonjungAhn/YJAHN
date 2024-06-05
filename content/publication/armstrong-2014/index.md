@@ -1,0 +1,45 @@
+---
+title: 'Conditional Poisson models: A flexible alternative to conditional logistic
+  case cross-over analysis'
+authors:
+- Ben G. Armstrong
+- Antonio Gasparrini
+- Aurelio Tobias
+date: '2014-01-01'
+publishDate: '2024-06-05T21:10:21.862681Z'
+publication_types:
+- article-journal
+publication: '*BMC Medical Research Methodology*'
+doi: 10.1186/1471-2288-14-122
+abstract: 'Background: The time stratified case cross-over approach is a popular alternative
+  to conventional time series regression for analysing associations between time series
+  of environmental exposures (air pollution, weather) and counts of health outcomes.
+  These are almost always analyzed using conditional logistic regression on data expanded
+  to case-control (case crossover) format, but this has some limitations. In particular
+  adjusting for overdispersion and auto-correlation in the counts is not possible.
+  It has been established that a Poisson model for counts with stratum indicators
+  gives identical estimates to those from conditional logistic regression and does
+  not have these limitations, but it is little used, probably because of the overheads
+  in estimating many stratum parameters. Methods: The conditional Poisson model avoids
+  estimating stratum parameters by conditioning on the total event count in each stratum,
+  thus simplifying the computing and increasing the number of strata for which fitting
+  is feasible compared with the standard unconditional Poisson model. Unlike the conditional
+  logistic model, the conditional Poisson model does not require expanding the data,
+  and can adjust for overdispersion and auto-correlation. It is available in Stata,
+  R, and other packages. Results: By applying to some real data and using simulations,
+  we demonstrate that conditional Poisson models were simpler to code and shorter
+  to run than are conditional logistic analyses and can be fitted to larger data sets
+  than possible with standard Poisson models. Allowing for overdispersion or autocorrelation
+  was possible with the conditional Poisson model but when not required this model
+  gave identical estimates to those from conditional logistic regression. Conclusions:
+  Conditional Poisson regression models provide an alternative to case crossover analysis
+  of stratified time series data with some advantages. The conditional Poisson model
+  can also be used in other contexts in which primary control for confounding is by
+  fine stratification.'
+tags:
+- Conditional distributions
+- Environment
+- Poisson regression
+- Statistics
+- Time series regression
+---

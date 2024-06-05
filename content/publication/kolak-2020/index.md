@@ -1,0 +1,66 @@
+---
+title: Quantification of Neighborhood-Level Social Determinants of Health in the Continental
+  United States
+authors:
+- Marynia Kolak
+- Jay Bhatt
+- Yoon Hong Park
+- Norma A. Padrón
+- Ayrin Molefe
+date: '2020-01-01'
+publishDate: '2024-06-05T21:10:27.309934Z'
+publication_types:
+- article-journal
+publication: '*JAMA Network Open*'
+doi: 10.1001/JAMANETWORKOPEN.2019.19928
+abstract: 'Importance: An association between social and neighborhood characteristics
+  and health outcomes has been reported but remains poorly understood owing to complex
+  multidimensional factors that vary across geographic space. Objectives: To quantify
+  social determinants of health (SDOH) as multiple dimensions across the continental
+  United States (the 48 contiguous states and the District of Columbia) at a small-area
+  resolution and to examine the association of SDOH with premature mortality within
+  Chicago, Illinois. Design, Setting, and Participants: In this cross-sectional study,
+  census tracts from the US Census Bureau from 2014 were used to develop multidimensional
+  SDOH indices and a regional typology of the continental United States at a small-area
+  level (n = 71901 census tracts with approximately 312 million persons) using dimension
+  reduction and clustering machine learning techniques (unsupervised algorithms used
+  to reduce dimensions of multivariate data). The SDOH indices were used to estimate
+  age-adjusted mortality rates in Chicago (n = 789 census tracts with approximately
+  7.5 million persons) with a spatial regression for the same period, while controlling
+  for violent crime. Main Outcomes and Measures: Fifteen variables, measured as a
+  5-year mean, were selected to characterize SDOH as small-area variations for demographic
+  characteristics of vulnerable groups, economic status, social and neighborhood characteristics,
+  and housing and transportation availability at the census-tract level. This SDOH
+  data matrix was reduced to 4 indices reflecting advantage, isolation, opportunity,
+  and mixed immigrant cohesion and accessibility, which were then clustered into 7
+  distinct multidimensional neighborhood typologies. The association between SDOH
+  indices and premature mortality (defined as death before age 75 years) in Chicago
+  was measured by years of potential life lost and aggregated to a 5-year mean. Data
+  analyses were conducted between July 1, 2018, and August 30, 2019. Results: Among
+  the 71901 census tracts examined across the continental United States, a median
+  (interquartile range) of 27.2% (47.1%) of residents had minority status, 12.1% (7.5%)
+  had disabilities, 22.9% (7.6%) were 18 years and younger, and 13.6% (8.1%) were
+  65 years and older. Among the 789 census tracts examined in Chicago, a median (interquartile
+  range) of 80.4% (56.3%) of residents had minority status, 10.2% (8.2%) had disabilities,
+  23.2% (10.9%) were 18 years and younger, and 9.5% (7.1%) were 65 years and older.
+  Four SDOH indices accounted for 71% of the variance across all census tracts in
+  the continental United States in 2014. The SDOH neighborhood typology of extreme
+  poverty, which is of greatest concern to health care practitioners and policy advocates,
+  comprised only 9.6% of all census tracts across the continental United States but
+  characterized small areas of known public health crises. An association was observed
+  between all SDOH indices and age-adjusted premature mortality rates in Chicago (R2
+  = 0.63; P <.001), even after accounting for violent crime and spatial structures.
+  Conclusions and Relevance: The modeling of SDOH as multivariate indices rather than
+  as a singular deprivation index may better capture the complexity and spatial heterogeneity
+  underlying SDOH. During a time of increased attention to SDOH, this analysis may
+  provide actionable information for key stakeholders with respect to the focus of
+  interventions.'
+tags:
+- Data and Software
+- YPLL Data Definition
+- and Regional Typologies
+- eMethods Spatial Scale
+links:
+- name: URL
+  url: /pmc/articles/PMC6991288/ /pmc/articles/PMC6991288/?report=abstract https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991288/
+---

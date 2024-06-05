@@ -1,0 +1,43 @@
+---
+title: 'UV index forecasting under the influence of desert dust: Evaluation against
+  surface and satellite-retrieved data'
+authors:
+- 2Dillan Raymond
+- Muammer Koc
+- Amir Abdallah
+- Luis Martin-Pomares
+- Rima Isaifan
+- Christos Fountoukis
+date: '2020-01-01'
+publishDate: '2024-06-05T21:10:22.998932Z'
+publication_types:
+- article-journal
+publication: '*Atmosphere*'
+doi: 10.3390/ATMOS11010096
+abstract: Human exposure to healthy doses of UV radiation is required for vitamin
+  D synthesis, but exposure to excessive UV irradiance leads to several harmful impacts
+  ranging from premature wrinkles to dangerous skin cancer. However, for countries
+  located in the global dust belt, accurate estimation of the UV irradiance is challenging
+  due to a strong impact of desert dust on incoming solar radiation. In this work,
+  a UV Index forecasting capability is presented, specifically developed for dust-rich
+  environments, that combines the use of ground-based measurements of broadband irradiances
+  UVA (320-400 nm) and UVB (280-315 nm), NASA OMI Aura satellite-retrieved data and
+  the meteorology-chemistry mesoscale model WRF-Chem. The forecasting ability of the
+  model is evaluated for clear sky days as well as during the influence of dust storms
+  in Doha, Qatar. The contribution of UV radiation to the total incoming global horizontal
+  irradiance (GHI) ranges between 5% and 7% for UVA and 0.1% and 0.22% for UVB. The
+  UVI forecasting performance of the model is quite encouraging with an absolute average
+  error of less than 6% and a correlation coefficient of 0.93. In agreement with observations,
+  the model predicts that the UV Index at local noontime can drop from 10-11 on clear
+  sky days to approximately 6-7 during typical dusty conditions in the Arabian Peninsula-an
+  effect similar to the presence of extensive cloud cover.
+tags:
+- Aerosol
+- Arabian desert
+- Mineral dust
+- OMI aura
+- Solar radiation
+- UVA
+- UVB
+- WRF-Chem
+---

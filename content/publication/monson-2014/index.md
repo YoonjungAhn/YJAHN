@@ -1,0 +1,45 @@
+---
+title: Terrestrial biosphere-atmosphere fluxes
+authors:
+- R. K. Monson
+- Dennis D. Baldocchi
+date: '2014-01-01'
+publishDate: '2024-06-05T21:10:23.754895Z'
+publication_types:
+- book
+abstract: "\\\"Fluxes of trace gases, water and energy - the 'breathing of the biosphere'
+  - are controlled by a large number of interacting physical, chemical, biological
+  and ecological processes. In this interdisciplinary book, the authors provide the
+  tools to understand and quantitatively analyse fluxes of energy, organic compounds
+  such as terpenes, and trace gases including carbon dioxide, water vapour and methane.
+  It first introduces the fundamental principles affecting the supply and demand for
+  trace gas exchange at the leaf and soil scales: thermodynamics, diffusion, turbulence,
+  and physiology. It then builds on these principles to model the exchange of water,
+  carbon dioxide, terpenes, and stable isotopes at the ecosystem scale. Detailed mathematical
+  derivations of commonly-used relations in biosphere-atmosphere interactions are
+  provided for reference in Appendices. An accessible introduction for graduate students,
+  and a key resource for researchers in related fields such as atmospheric science,
+  hydrology, meteorology, climate science, biogeochemistry, and ecosystem ecology\\\
+  \"-- \\\"Fluxes of trace gases, water and energy between the terrestrial biosphere
+  and the atmosphere govern the state and fate of these two coupled systems. This
+  'breathing of the biosphere' is controlled by a large number of interacting physical,
+  chemical, biological and ecological processes. In this integrated and interdisciplinary
+  book, the authors provide the tools to understand and quantitatively analyse fluxes
+  of energy, trace gases such as carbon dioxide, water vapour, methane, and organic
+  compounds, such as terpenes\\\"-- Preface -- 1. The general nature of biosphere-atmosphere
+  fluxes -- 2. Thermodynamics, work and energy -- 3. Chemical reactions, enzyme catalysts
+  and stable isotopes -- 4. Control over metabolic fluxes -- 5. Modeling the metabolic
+  CO₂ flux -- 6. Diffusion and continuity -- 7. Boundary layer and stomatal control
+  over leaf fluxes -- 8. Leaf structure and function -- 9. Water transport within
+  the soil-plant-atmosphere continuum -- 10. Leaf and canomy energy budgets -- 11.
+  Canopy structure and radiative transfer -- 12. Vertical structure and mixing of
+  the atmosphere -- 13. Wind and turbulence -- 14. Observations of turbulent fluxes
+  -- 15. Modeling of fluxes at the canopy and landscape scales -- 16. Soil fluxes
+  of CO₂, CH₄ and NOx -- 17. Fluxes of biogenic volatile compounds between plants
+  and the atmosphere -- 18. Stable isotope variants as tracers for studying biosphere-atmosphere
+  exchange."
+links:
+- name: URL
+  url: 
+    https://books.google.co.kr/books?hl=en&lr=&id=nXLgAgAAQBAJ&oi=fnd&pg=PR11&dq=+Monson,+R.,+%26+Baldocchi,+2014&ots=lgZ7t-MvgN&sig=zndD0A7uakTFeF_hrF4UAwRMIdw#v=onepage&q&f=false
+---

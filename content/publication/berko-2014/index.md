@@ -1,0 +1,40 @@
+---
+title: National Health Statistics Reports
+authors:
+- Jeffrey Berko
+- Deborah D Ingram
+- Shubhayu Saha
+date: '2014-01-01'
+publishDate: '2024-06-05T21:10:20.673165Z'
+publication_types:
+- manuscript
+abstract: Objectives-This report examines heat-related mortality, cold-related mortality,
+  and other weather-related mortality during 2006-2010 among subgroups of U.S. residents.
+  Methods-Weather-related death rates for demographic and area-based subgroups were
+  computed using death certificate information. Adjusted odds ratios for weather-related
+  deaths among subgroups were estimated using logistic regression. Results and Conclusions-During
+  2006-2010, about 2,000 U.S. residents died each year from weather-related causes
+  of death. About 31% of these deaths were attributed to exposure to excessive natural
+  heat, heat stroke, sun stroke, or all; 63% were attributed to exposure to excessive
+  natural cold, hypothermia, or both; and the remaining 6% were attributed to floods,
+  storms, or lightning. Weather-related death rates varied by age, race and ethnicity,
+  sex, and characteristics of decedent's county of residence (median income, region,
+  and urbanization level). Adjustment for region and urbanization decreased the risk
+  of heat-related mortality among Hispanic persons and increased the risk of cold-related
+  mortality among non-Hispanic black persons, compared with non-Hispanic white persons.
+  Adjustment also increased the risk of heat-related mortality and attenuated the
+  risk of cold-related mortality for counties in the lower three income quartiles.
+  The differentials in weather-related mortality observed among demographic subgroups
+  during 2006-2010 in the United States were consistent with those observed in previous
+  national studies. This study demonstrated that a better understanding of subpopulations
+  at risk from weather-related mortality can be obtained by considering area-based
+  variables (county median household income, region, and urbanization level) when
+  examining weather-related mortality patterns.
+tags:
+- National Center for Health Statistics
+- National Vital Statistics System
+- mortality
+- vulnerable subpopulations
+- weather-related mortality
+url_pdf: https://www.cdc.gov/nchs/data/nhsr/nhsr076.pdf
+---

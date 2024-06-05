@@ -1,0 +1,40 @@
+---
+title: Using Nighttime Satellite Imagery as a Proxy Measure of Human Well-Being
+authors:
+- Tilottama Ghosh
+- Sharolyn J. Anderson
+- Christopher D. Elvidge
+- Paul C. Sutton
+date: '2013-11-01'
+publishDate: '2024-06-05T21:10:27.895992Z'
+publication_types:
+- article-journal
+publication: '*Sustainability 2013, Vol. 5, Pages 4988-5019*'
+doi: 10.3390/SU5124988
+abstract: Improving human well-being is increasingly recognized as essential for movement
+  toward a sustainable and desirable future. Estimates of different aspects of human
+  well-being, such as Gross Domestic Product, or percentage of population with access
+  to electric power, or measuring the distribution of income in society are often
+  fraught with problems. There are few standardized methods of data collection; in
+  addition, the required data is not obtained in a reliable manner and on a repetitive
+  basis in many parts of the world. Consequently, inter-comparability of the data
+  that does exist becomes problematic. Data derived from nighttime satellite imagery
+  has helped develop various globally consistent proxy measures of human well-being
+  at the gridded, sub-national, and national level. We review several ways in which
+  nighttime satellite imagery has been used to measure the human well-being within
+  nations.
+tags:
+- Gross Domestic Product
+- LandScan population data
+- Night Light Development Index (NLDI)
+- being
+- electrification rates
+- human ecological footprint
+- human well
+- informal economy
+- nighttime lights imagery
+- poverty rates
+links:
+- name: URL
+  url: https://www.mdpi.com/2071-1050/5/12/4988/htm https://www.mdpi.com/2071-1050/5/12/4988
+---

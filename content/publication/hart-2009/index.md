@@ -1,0 +1,40 @@
+---
+title: Quantifying the influence of land-use and surface characteristics on spatial
+  variability in the urban heat island
+authors:
+- Melissa A. Hart
+- David J. Sailor
+date: '2009-05-01'
+publishDate: '2024-06-05T21:10:27.739974Z'
+publication_types:
+- article-journal
+publication: '*Theoretical and Applied Climatology*'
+doi: 10.1007/S00704-008-0017-5/FIGURES/7
+abstract: The urban thermal environment varies not only from its rural surroundings
+  but also within the urban area due to intra-urban differences in land-use and surface
+  characteristics. Understanding the causes of this intra-urban variability is a first
+  step in improving urban planning and development. Toward this end, a method for
+  quantifying causes of spatial variability in the urban heat island has been developed.
+  This paper presents the method as applied to a specific test case of Portland, Oregon.
+  Vehicle temperature traverses were used to determine spatial differences in summertime
+  ∼2 m air temperature across the metropolitan area in the afternoon. A tree-structured
+  regression model was used to quantify the land-use and surface characteristics that
+  have the greatest influence on daytime UHI intensity. The most important urban characteristic
+  separating warmer from cooler regions of the Portland metropolitan area was canopy
+  cover. Roadway area density was also an important determinant of local UHI magnitudes.
+  Specifically, the air above major arterial roads was found to be warmer on weekdays
+  than weekends, possibly due to increased anthropogenic activity from the vehicle
+  sector on weekdays. In general, warmer regions of the city were associated with
+  industrial and commercial land-use. The downtown core, whilst warmer than the rural
+  surroundings, was not the warmest part of the Portland metropolitan area. This is
+  thought to be due in large part to local shading effects in the urban canyons. ©
+  Springer-Verlag 2008.
+tags:
+- Atmospheric Protection/Air Quality Control/Air Pollution
+- Atmospheric Sciences
+- Climatology
+- Waste Water Technology / Water Pollution Control / Water Management / Aquatic Pollution
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s00704-008-0017-5
+---

@@ -1,0 +1,36 @@
+---
+title: Verification of surface temperature forecasts from the National Digital Forecast
+  Database over the western United States
+authors:
+- David T. Myrick
+- John D. Horel
+date: '2006-01-01'
+publishDate: '2024-06-05T21:10:22.540468Z'
+publication_types:
+- article-journal
+publication: '*Weather and Forecasting*'
+doi: 10.1175/WAF946.1
+abstract: Experimental gridded forecasts of surface temperature issued by National
+  Weather Service offices in the western United States during the 2003/04 winter season
+  (18 November 2003-29 February 2004) are evaluated relative to surface observations
+  and gridded analyses. The 5-km horizontal resolution gridded forecasts issued at
+  0000 UTC for forecast lead times at 12-h intervals from 12 to 168 h were obtained
+  from the National Digital Forecast Database (NDFD). Forecast accuracy and skill
+  are determined relative to observations at over 3000 locations archived by MesoWest.
+  Forecast quality is also determined relative to Rapid Update Cycle (RUC) analyses
+  at 20-km resolution that are interpolated to the 5-km NDFD grid as well as objective
+  analyses obtained from the Advanced Regional Prediction System Data Assimilation
+  System that rely upon the MesoWest observations and RUC analyses. For the West as
+  a whole, the experimental temperature forecasts issued at 0000 UTC during the 2003/04
+  winter season exhibit skill at lead times of 12, 24, 36, and 48 h on the basis of
+  several verification approaches. Subgrid-scale temperature variations and observational
+  and analysis errors undoubtedly contribute some uncertainty regarding these results.
+  Even though the \"true\" values appropriate to evaluate the forecast values on the
+  NDFD grid are unknown, it is estimated that the root-mean-square errors of the NDFD
+  temperature forecasts are on the order of 3°C at lead times shorter than 48 h and
+  greater than 4°C at lead times longer than 120 h. However, such estimates are derived
+  from only a small fraction of the NDFD grid boxes. Incremental improvements in forecast
+  accuracy as a result of forecaster adjustments to the 0000 UTC temperature grids
+  from 144- to 24-h lead times are estimated to be on the order of 13%. © 2006 American
+  Meteorological Society.
+---

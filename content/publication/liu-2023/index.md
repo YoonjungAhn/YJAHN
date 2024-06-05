@@ -1,0 +1,40 @@
+---
+title: Impacts of disaster exposure on climate adaptation injustice across U.S. cities
+authors:
+- Tong Liu
+- Chao Fan
+date: '2023-02-01'
+publishDate: '2024-06-05T21:10:27.810860Z'
+publication_types:
+- article-journal
+publication: '*Sustainable Cities and Society*'
+doi: 10.1016/j.scs.2022.104371
+abstract: Climate disasters have become more frequent, more extreme, and more often
+  coincide in different places and among diverse residents. Characteristics of residents
+  like races are often associated with differing levels of vulnerability to climate
+  disasters. Developing adaptation strategies that provide just and equal protection
+  to diverse population groups has become an urgent concern. Here, we examine the
+  spatial and quantitative distribution of 3,466 adaptation actions reported over
+  the past five years among 983 U.S. urban counties with different racial groups and
+  socioeconomic statuses. Our findings reveal significant and growing disparities
+  in climate adaptation among U.S. urban counties with overrepresented White, Black
+  and Asian residents. We also find that the local level of disaster exposure plays
+  an unignorable role in deriving racial disparities in adaptation actions. Disaster
+  exposure, characterized by expected annual loss, has a stronger impact on adaptation
+  policymaking in urban counties with high proportions of Asian or Black residents,
+  compared to those with high proportions of White residents. With limited adaptation
+  resources, focusing heavily on areas with high exposure to disaster damages might
+  hinder adaptation actions to protect vulnerable individuals, households and communities
+  and thus exacerbates racial disparities in climate adaptation and causes adaptation
+  failure of racially minority groups. Our study provides novel empirical evidence
+  for researchers and decision-makers on the evaluation of justice in climate adaptation.
+  The co-present disparities between climate disaster exposure and adaptation actions
+  can serve as an indicator of the societal need for adaptation actions to be equally
+  developed and implemented.
+tags:
+- Climate adaptation
+- Disaster exposure
+- Disparity
+- Policymaking
+- Race
+---

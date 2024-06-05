@@ -1,0 +1,33 @@
+---
+title: Disappearing cities on US coasts
+authors:
+- Leonard O. Ohenhen
+- Manoochehr Shirzaei
+- Chandrakanta Ojha
+- Sonam F. Sherpa
+- Robert J. Nicholls
+date: '2024-03-01'
+publishDate: '2024-06-05T21:10:27.464313Z'
+publication_types:
+- article-journal
+publication: '*Nature*'
+doi: 10.1038/s41586-024-07038-3
+abstract: <p> The sea level along the US coastlines is projected to rise by 0.25–0.3 m
+  by 2050, increasing the probability of more destructive flooding and inundation
+  in major cities <sup>1–3</sup> . However, these impacts may be exacerbated by coastal
+  subsidence—the sinking of coastal land areas <sup>4</sup> —a factor that is often
+  underrepresented in coastal-management policies and long-term urban planning <sup>2,5</sup>
+  . In this study, we combine high-resolution vertical land motion (that is, raising
+  or lowering of land) and elevation datasets with projections of sea-level rise to
+  quantify the potential inundated areas in 32 major US coastal cities. Here we show
+  that, even when considering the current coastal-defence structures, further land
+  area of between 1,006 and 1,389 km <sup>2</sup> is threatened by relative sea-level
+  rise by 2050, posing a threat to a population of 55,000–273,000 people and 31,000–171,000
+  properties. Our analysis shows that not accounting for spatially variable land subsidence
+  within the cities may lead to inaccurate projections of expected exposure. These
+  potential consequences show the scale of the adaptation challenge, which is not
+  appreciated in most US coastal cities. </p>
+links:
+- name: URL
+  url: https://www.nature.com/articles/s41586-024-07038-3
+---

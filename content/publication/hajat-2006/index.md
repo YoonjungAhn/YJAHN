@@ -1,0 +1,43 @@
+---
+title: 'Impact of high temperatures on mortality: Is there an added heat wave effect?'
+authors:
+- Shakoor Hajat
+- Ben Armstrong
+- Michela Baccini
+- Annibale Biggeri
+- Luigi Bisanti
+- Antonio Russo
+- Anna Paldy
+- Bettina Menne
+- Tom Kosatsky
+date: '2006-01-01'
+publishDate: '2024-06-05T21:10:26.697104Z'
+publication_types:
+- article-journal
+publication: '*Epidemiology*'
+doi: 10.1097/01.ede.0000239688.70829.63
+abstract: 'BACKGROUND: Mortality during sustained periods of hot weather is generally
+  regarded as being in excess of what would be predicted from smooth temperature-mortality
+  gradients estimated using standard time-series regression models. However, the evidence
+  for an effect of continuous days of exceptional heat (\"heat wave effect\") is indirect.
+  In addition, because some interventions may be triggered only during forecasted
+  heat waves, it would be helpful to know what fraction of all heat-related deaths
+  falls during these specific periods and what fraction occurs throughout the remainder
+  of the summer. METHODS: Extended time-series data sets of daily mortality counts
+  in 3 major European cities (London, 28 years of data; Budapest, 31 years; Milan,
+  18 years) were examined in relation to hot weather using a generalized estimating
+  equations approach. We modeled temperature and specific heat wave terms using a
+  variety of specifications. RESULTS: With a linear effect of same-day temperature
+  above an identified threshold, an additional \"heat wave\" effect of 5.5% was observed
+  in London (95% confidence interval = 2.2 to 8.9), 9.3% in Budapest (5.8 to 13.0),
+  and 15.2% in Milan (5.7 to 22.5). Heat wave effects were reduced slightly when we
+  relaxed the linear assumption and these effects were reduced substantially when
+  temperature was modeled as an average value of lags 0 to 2 days. In London, fewer
+  than half of all heat-related deaths could be attributed to identified heat wave
+  periods. In Milan and Budapest, the fraction was less than one fifth. CONCLUSIONS:
+  Heat wave effects were apparent in simple time-series models but were reduced in
+  multilag nonlinear models and small when compared with the overall summertime mortality
+  burden of heat. Reduction of the overall heat burden requires preventive measures
+  in addition to those that target warnings and responses uniquely to heat waves.
+  © 2006 Lippincott Williams & Wilkins, Inc.'
+---

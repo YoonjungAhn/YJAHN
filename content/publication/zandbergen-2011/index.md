@@ -1,0 +1,38 @@
+---
+title: Dasymetric Mapping Using High Resolution Address Point Datasets
+authors:
+- Paul A. Zandbergen
+date: '2011-07-01'
+publishDate: '2024-06-05T21:10:25.500775Z'
+publication_types:
+- article-journal
+publication: '*Transactions in GIS*'
+doi: 10.1111/j.1467-9671.2011.01270.x
+abstract: Mismatching sets of boundaries present a persistent problem in spatial analysis
+  for many different applications. Dasymetric mapping techniques can be employed to
+  estimate population characteristics of small areas that do not correspond to census
+  enumeration boundaries. Several types of ancillary data have been used in dasymetric
+  mapping but performance is often limited by their relatively coarse resolution and
+  moderate correspondence to actual population counts. The current research examines
+  the performance of using high resolution ancillary data in the form of individual
+  address point datasets which represent the locations of all addressable units within
+  a jurisdiction. The performance of address points was compared with several other
+  techniques, including areal weighting, land cover, imperviousness, road density
+  and nighttime lights. Datasets from 16 counties in Ohio were used in the analysis,
+  reflecting a range of different population densities. For each technique the ancillary
+  data sources were employed to estimate census block group population counts using
+  census tracts as source zones, and the results were compared with the known block
+  group population counts. Results indicate that address points perform significantly
+  better compared with other types of ancillary data. The overall error for all block
+  groups (n = 683) using address points is 4.9% compared with 10.8% for imperviousness,
+  11.6% for land cover, 13.3% for road density, 18.6% for nighttime lights and 21.2%
+  for areal weighting. Using only residential address points rather than all types
+  of locations further reduces this error to 4.2%. Analysis of the spatial patterns
+  in the relative performance of the various techniques revealed that address points
+  perform particularly well in low density rural areas, which typically present challenges
+  for traditional dasymetric mapping techniques using land cover datasets. These results
+  provide very strong support for the use of address points for small area population
+  estimates. Current developments in the growing availability of address point datasets
+  and the implications for spatial demographic analyses are discussed. © 2011 Blackwell
+  Publishing Ltd.
+---

@@ -1,0 +1,39 @@
+---
+title: Development and application of a United States-wide correction for PM2.5 data
+  collected with the PurpleAir sensor
+authors:
+- Karoline K. Barkjohn
+- Brett Gantt
+- Andrea L. Clements
+date: '2021-06-01'
+publishDate: '2024-06-05T21:10:27.130010Z'
+publication_types:
+- article-journal
+publication: '*Atmospheric Measurement Techniques*'
+doi: 10.5194/AMT-14-4617-2021
+abstract: 'PurpleAir sensors, which measure particulate matter (PM), are widely used
+  by individuals, community groups, and other organizations including state and local
+  air monitoring agencies. PurpleAir sensors comprise a massive global network of
+  more than 10ĝ€¯000 sensors. Previous performance evaluations have typically studied
+  a limited number of PurpleAir sensors in small geographic areas or laboratory environments.
+  While useful for determining sensor behavior and data normalization for these geographic
+  areas, little work has been done to understand the broad applicability of these
+  results outside these regions and conditions. Here, PurpleAir sensors operated by
+  air quality monitoring agencies are evaluated in comparison to collocated ambient
+  air quality regulatory instruments. In total, almost 12ĝ€¯000 24ĝ€¯h averaged PM2.5
+  measurements from collocated PurpleAir sensors and Federal Reference Method (FRM)
+  or Federal Equivalent Method (FEM) PM2.5 measurements were collected across diverse
+  regions of the United States (US), including 16 states. Consistent with previous
+  evaluations, under typical ambient and smoke-impacted conditions, the raw data from
+  PurpleAir sensors overestimate PM2.5 concentrations by about 40ĝ€¯% in most parts
+  of the US. A simple linear regression reduces much of this bias across most US regions,
+  but adding a relative humidity term further reduces the bias and improves consistency
+  in the biases between different regions. More complex multiplicative models did
+  not substantially improve results when tested on an independent dataset. The final
+  PurpleAir correction reduces the root mean square error (RMSE) of the raw data from
+  8 to 3ĝ€¯μgĝ€¯m-3, with an average FRM or FEM concentration of 9ĝ€¯μgĝ€¯m-3. This
+  correction equation, along with proposed data cleaning criteria, has been applied
+  to PurpleAir PM2.5 measurements across the US on the AirNow Fire and Smoke Map (https://fire.airnow.gov/,
+  last access: 14 May 2021) and has the potential to be successfully used in other
+  air quality and public health applications.'
+---

@@ -1,0 +1,40 @@
+---
+title: Effectiveness of National Weather Service heat alerts in preventing mortality
+  in 20 US cities
+authors:
+- Kate R. Weinberger
+- Antonella Zanobetti
+- Joel Schwartz
+- Gregory A. Wellenius
+date: '2018-07-01'
+publishDate: '2024-06-05T21:10:21.228882Z'
+publication_types:
+- article-journal
+publication: '*Environment International*'
+doi: 10.1016/J.ENVINT.2018.03.028
+abstract: 'BACKGROUND Extreme heat is a well-documented public health threat. The
+  US National Weather Service (NWS) issues heat advisories and warnings (collectively,
+  “heat alerts”) in advance of forecast extreme heat events. The effectiveness of
+  these alerts in preventing deaths remains largely unknown.   OBJECTIVES To quantify
+  the change in mortality rates associated with heat alerts in 20 US cities between
+  2001 and 2006.   METHODS Because NWS heat alerts are issued based on forecast weather
+  and these forecasts are imperfect, in any given location there exists a set of days
+  of similar observed heat index in which heat alerts have been issued for some days
+  but not others. We used a case-crossover design and conditional logistic regression
+  to compare mortality rates on days with versus without heat alerts among such eligible
+  days, adjusting for maximum daily heat index and temporal factors. We combined city-specific
+  estimates into a summary measure using standard random-effects meta-analytic techniques.   RESULTS
+  Overall, NWS heat alerts were not associated with lower mortality rates (percent
+  change in rate: −0.5% [95% CI: -2.8, 1.9]). In Philadelphia, heat alerts were associated
+  with a 4.4% (95% CI: -8.3, −0.3) lower mortality rate or an estimated 45.1 (95%
+  empirical CI: 3.1, 84.1) deaths averted per year if this association is assumed
+  to be causal. No statistically significant beneficial association was observed in
+  other individual cities.   CONCLUSIONS Our results suggest that between 2001 and
+  2006, NWS heat alerts were not associated with lower mortality in most cities studied,
+  potentially missing a valuable opportunity to avert a substantial number of heat-related
+  deaths. These results highlight the need to better link alerts to effective communication
+  and intervention strategies to reduce heat-related mortality.'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0160412017320354
+---

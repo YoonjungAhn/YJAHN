@@ -1,0 +1,29 @@
+---
+title: Diurnal mountain wind systems. Springer Atmospheric Sciences
+authors:
+- Dino Zardi
+- C David Whiteman
+date: '2013-01-01'
+publishDate: '2024-06-05T21:10:22.691576Z'
+publication_types:
+- article-journal
+publication: '*Mountain Weather Research and Forecasting*'
+abstract: 'Office: +39 0461 28 2682 Cell phone: +39 347 4469 347 Fax: +39 0461 28
+  2672 1 Abstract Diurnal mountain wind systems are local thermally driven wind systems
+  that form over mountainous terrain and are produced by the buoyancy effects associated
+  with the diurnal cycle of heating and cooling of the lower atmospheric layers. This
+  chapter reviews the present scientific understanding of diurnal mountain wind systems,
+  focusing on research findings published since 1988. Slope flows are examined first,
+  as they provide a good introduction to the many factors affecting diurnal mountain
+  wind systems. The energy budgets governing slope flows; the effects of turbulence,
+  slope angle, ambient stability, background flows and slope inhomogeneities on slope
+  flows; and the methods used to simulate slope flows are examined. Then, valley winds
+  are reviewed in a similar manner and the diurnal phases of valley and slope winds
+  and their interactions are summarized. Recent research on large-scale mountain-plain
+  wind systems is reviewed, with an emphasis on the Rocky Mountains and the Alps.
+  Winds occurring in closed basins and over plateaus are then discussed, and analogies
+  between the two wind systems are outlined. This is followed by a discussion of forecasting
+  considerations for diurnal mountain wind systems. Finally, the chapter concludes
+  with a summary of open questions and productive areas for further research.'
+url_pdf: https://www.pmf.unizg.hr/_download/repository/Zardi-Whiteman_Chptr2%5B1%5D.pdf
+---

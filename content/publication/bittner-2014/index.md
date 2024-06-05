@@ -1,0 +1,36 @@
+---
+title: Are European countries prepared for the next big heat-wave?
+authors:
+- Martin Immanuel Bittner
+- Eva Franziska Matthies
+- Dafina Dalbokova
+- Bettina Menne
+date: '2014-08-01'
+publishDate: '2024-06-05T21:10:27.839314Z'
+publication_types:
+- article-journal
+publication: '*European Journal of Public Health*'
+doi: 10.1093/EURPUB/CKT121
+abstract: "Background: Heat-waves present severe dangers to populations' health. Due
+  to climate change, an increase in the frequency and intensity of heat-waves is to
+  be expected. Public health measures to prevent negative health effects have been
+  developed in several member states of the World Health Organization (WHO) European
+  Region over the past decade. Methods: This study presents the first comprehensive
+  assessment of the development of heat preparedness planning in WHO European Region
+  member states, using a unique methodology based on criteria developed and pre-tested
+  by the WHO. This indicator-based approach is based on eight core elements that are
+  crucial components of heat-health action plans. Results: Of 53 member states of
+  the WHO European Region, 51 countries were included in the evaluation. Results show
+  that 18 countries have developed heat-health action plans, whereas 33 others have
+  not. The plans developed so far vary in the degree of comprehensiveness with regard
+  to the core elements. Gaps in terms of plan coverage have predominantly been identified
+  in the areas of (intersectorial) long-term measures, surveillance and plan evaluation.
+  Conclusions: For better preparedness, it can be advocated for further improving,
+  developing and implementing heat-wave preparedness planning and response in European
+  countries. A focus should be placed on developing all elements and strong intersectorial
+  coordination and cooperation as well as the successful implementation of surveillance
+  and evaluation measures. © 2013 World Health Organisation."
+links:
+- name: URL
+  url: https://dx.doi.org/10.1093/eurpub/ckt121
+---

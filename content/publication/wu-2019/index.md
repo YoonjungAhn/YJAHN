@@ -1,0 +1,34 @@
+---
+title: Examining seasonal effect of urban heat island in a coastal city
+authors:
+- Xiangli Wu
+- Lin Zhang
+- Shuying Zang
+date: '2019-01-01'
+publishDate: '2024-06-05T21:10:22.984414Z'
+publication_types:
+- article-journal
+publication: '*PLoS ONE*'
+doi: 10.1371/journal.pone.0217850
+abstract: Urban heat islands (UHIs) have a significant and negative impact on the
+  urban ecological environment and on human health, and it is imperative to examine
+  factors that lead to UHIs. Although numerous studies have been conducted in this
+  field, little research has considered seasonal variations in UHIs in coastal cities.
+  Moreover, parametric statistical analyses, such as regression and correlation analyses,
+  have been typically applied to examine the influential factors. Such analyses are
+  flawed because they cannot uncover the complicated relationships between UHIs and
+  their factors. Taking Dalian, a coastal city in China, as an example, this paper
+  reveals the dynamic mechanism of the UHI effect for different seasons using the
+  cubist regression tree algorithm. Analyses suggest that the UHI effect only exists
+  in spring and summer, and no obvious UHIs can be found in autumn and winter. The
+  adjacency to the sea leads to moderate UHI effects in spring and summer and no UHI
+  or urban cooling island (UCI) effects in autumn and winter. The distance to the
+  coastline, however, does not play a role in the UHI effect. Furthermore, as one
+  of the most important factors, the vegetation coverage plays a significant role
+  in the UHI effect in spring and summer and significantly mediates the UHI in autumn
+  and winter. Comparatively, the elevation (e.g., digital elevation models (DEMs))
+  is consistently negatively associated with the land surface temperature in all seasons,
+  although a stronger relationship was found in spring and summer. In addition, the
+  surface slope is also a significant factor in spring and winter, and the population
+  density impacts the UHI distribution in summer as well.
+---
