@@ -1,13 +1,13 @@
 ---
 # Display name
-title: test
+title: Yoonjung
 
 # Name pronunciation (optional)
-name_pronunciation: test
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: test
-last_name: test
+first_name: Yoonjung
+last_name: Ahn
 
 # Status emoji
 status:
@@ -20,42 +20,44 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+organizations: University of Kansas
+  - name: Geography and Atmospheric Science
+    url: https://geog.ku.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yjahn@ku.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/lostgeographer_
+  - #icon: brands/instagram
+    #url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/YoonjungAhn?tab=repositories
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yoonjung-ahn-4ab53568/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.co.kr/citations?user=pj4OdpsAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0001-6960-8637
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Health and Medical Geography
+  - Spatial analysis, GIS
+  - Health ineqauity, environmental justice
+  - Built environment
+  - Climate change, extreme weather events
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Geography
+    institution: Florida State University
+    date_start: 2018-08-20
+    date_end: 2022-04-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
