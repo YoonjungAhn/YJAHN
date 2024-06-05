@@ -122,9 +122,9 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: GIS
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -134,7 +134,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Baking
         description: ''
         percent: 100
         icon: cat
@@ -144,12 +144,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
