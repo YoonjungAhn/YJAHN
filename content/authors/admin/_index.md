@@ -67,47 +67,48 @@ education:
     institution: Seoul National University
     date_start: 2013-08-01
     date_end: 2015-08-01
-    summary: |
-      GPA: 3.8/4.0
+    #summary: |
+      #GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #Courses included:
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Landscape architecture
     institution: Sanmyung University
     date_start: 2008-03-01
     date_end: 2013-07-31
-    summary: |
-      GPA: 3.4/4.0
+    #summary: |
+      #GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # Courses included:
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Post Doctoral Associate
+    company_name: Population Center, Institute of Behavioral Science University of Colorado Boulder 
+    company_url: 'https://ibs.colorado.edu/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-05-08
+    date_end: 2022-08-17
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Participated Projects:
+      - The Creeping Disaster along the Coast: Built Environment, Coastal Communities and Population Vulnerability to Sea Level Rise
+      - 2022 Data Infrastructure for Research on Historical Settlement and Population Growth in the US 
+
+  - position: Researcher
+    company_name: Korea Environment Institute
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-04-017
+    date_end: 2018-7-14
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Participated Projects:
+      - Developing heat warning systems with Artificial Neural Network (ANN)
+      - Relationship analysis of extreme heat and credit card transactions
+      - Evaluating Climate Change Adaptation Plans (CCAPs) in Korea; Director
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
