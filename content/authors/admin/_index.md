@@ -23,8 +23,8 @@ highlight_name: true
 role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
-organizations: University of Kansas
-  - name: Geography and Atmospheric Science
+organizations: 
+  - name: University of Kansas, Geography and Atmospheric Science
     url: https://geog.ku.edu/
 
 # Social network links
