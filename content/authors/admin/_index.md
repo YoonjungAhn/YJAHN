@@ -3,14 +3,14 @@
 title: Yoonjung
 
 # Name pronunciation (optional)
-name_pronunciation: test
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yoonjung
 last_name: Ahn
 
 # Status emoji
-status: test
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
