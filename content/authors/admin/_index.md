@@ -66,7 +66,7 @@ education:
   - area: MS Landscape architecture
     institution: Seoul National University
     date_start: 2013-08-01
-    date_end: 2015-08-01
+    date_end: 2015-07-01
     #summary: |
       #GPA: 3.8/4.0
 
@@ -91,24 +91,24 @@ work:
     company_url: 'https://ibs.colorado.edu/'
     company_logo: ''
     date_start: 2022-05-08
-    date_end: 2022-08-17
+    date_end: 2023-08-17
     summary: |2-
       Participated Projects:
       - The Creeping Disaster along the Coast: Built Environment, Coastal Communities and Population Vulnerability to Sea Level Rise
-      - 2022 Data Infrastructure for Research on Historical Settlement and Population Growth in the US 
+      - Data Infrastructure for Research on Historical Settlement and Population Growth in the US 
 
   - position: Researcher
     company_name: Korea Environment Institute
     company_url: ''
     company_logo: ''
-    date_start: 2015-04-017
-    date_end: 2018-7-14
+    date_start: 2015-04-17
+    date_end: 2018-07-02
     summary: |
       Participated Projects:
       - Developing heat warning systems with Artificial Neural Network (ANN)
       - Relationship analysis of extreme heat and credit card transactions
       - Evaluating Climate Change Adaptation Plans (CCAPs) in Korea; Director
-    
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
