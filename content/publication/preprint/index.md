@@ -11,7 +11,7 @@ publishDate: "2024-03-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Data descriptor"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: An Integrated Multi-Source Dataset for Measuring Settlement Evolution in the United States from 1810 to 2020
