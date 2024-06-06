@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Research-Intensive Course Mini-Grant, University of Kansas
+summary: Dr. Ahn plans to transform GEO 316, offered in Fall 2024 at KU, into a research-intensive course. What does this mean? Register for the course to find out more!
+date: 2024-06-05
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
