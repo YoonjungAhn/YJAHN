@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Yoonjung has been trained as a health and medical geographer and geospatial information scientist👩🏻‍💻. Her research focuses on the intersection of social determinants of health, health inequity, built environment, and extreme weather events engaging topics such as identifying spatial disparities of extreme heat, understanding spatial variability in gridded weather data, and generating trajectory of built environment data focusing on United States 🌏🏥🗺️🏙️
     design:
       columns: '1'
   - block: collection
