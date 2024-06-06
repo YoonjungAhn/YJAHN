@@ -23,7 +23,7 @@ abstract: Understanding changes in the built environment is vital for sustainabl
 summary: HISDAC-US provides detailed information on urban characteristics spanning 200 years (from 1810 to 2020). This includes data described in six different raster layers and six categories of land use (commercial, governmental, vacant, residential income, residential owned, and industrial).
 
 tags:
-- Large Language Models
+- Extreme Heat
 
 featured: true
 
