@@ -1,6 +1,6 @@
 ---
 title: "HISDAC-US: Historical Settlement Data Compilation for the United States"
-authors:
+authors: Yoonjung Ahn, Stefan Leyk, Johannes H. Uhl, Caitlin M.McShane
 - admin
 date: "2024-06-05T00:00:00Z"
 doi: " https://doi.org/10.7910/DVN/45B8IU"
