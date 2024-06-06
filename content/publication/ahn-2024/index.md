@@ -34,14 +34,10 @@ tags:
 links:
 - name: URL
   url: https://www.nature.com/articles/s41597-024-03081-x
-- name: PDF
-  url_pdf: http://arxiv.org/pdf/1512.04133v1
 - name: Code
   url_code: https://github.com/YoonjungAhn/HISTPLUS
 - name: Dataset
   url_dataset: https://dataverse.harvard.edu/dataverse/hisdac-usv2
-- name: Project
-  url_project: https://github.com/YoonjungAhn/HISTPLUS
  #url_poster: '#'
  #url_slides: ''
  #url_source: '#'
