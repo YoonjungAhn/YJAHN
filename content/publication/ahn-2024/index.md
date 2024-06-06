@@ -37,7 +37,7 @@ links:
 - name: PDF
   url_pdf: http://arxiv.org/pdf/1512.04133v1
 - name: Code
-  url_code: https://github.com/HugoBlox/hugo-blox-builder
+  url_code: https://github.com/YoonjungAhn/HISTPLUS
 - name: Dataset
   url_dataset: https://dataverse.harvard.edu/dataverse/hisdac-usv2
 - name: Project
