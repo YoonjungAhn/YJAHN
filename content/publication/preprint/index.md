@@ -1,7 +1,7 @@
 ---
 title: "HISDAC-US: Historical Settlement Data Compilation for the United States"
-authors: Yoonjung Ahn, Stefan Leyk, Johannes H. Uhl, Caitlin M.McShane
-- admin
+authors:
+- Yoonjung Ahn, Stefan Leyk, Johannes H. Uhl, Caitlin M.McShane
 date: "2024-06-05T00:00:00Z"
 doi: " https://doi.org/10.7910/DVN/45B8IU"
 
@@ -23,7 +23,7 @@ abstract: Understanding changes in the built environment is vital for sustainabl
 summary: HISDAC-US provides detailed information on urban characteristics spanning 200 years (from 1810 to 2020). This includes data described in six different raster layers and six categories of land use (commercial, governmental, vacant, residential income, residential owned, and industrial).
 
 tags:
-- Extreme Heat
+- Built Environments
 
 featured: true
 
