@@ -59,10 +59,10 @@ education:
     date_start: 2018-08-20
     date_end: 2022-04-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      #
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pj4OdpsAAAAJ&sortby=pubdate&authuser=1&citation_for_view=pj4OdpsAAAAJ:IRz6iEL74y4C'
   - area: MS Landscape architecture
     institution: Seoul National University
     date_start: 2013-08-01
