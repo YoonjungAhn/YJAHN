@@ -34,11 +34,15 @@ tags:
 links:
 - name: URL
   url: https://www.nature.com/articles/s41597-024-03081-x
- url_pdf: http://arxiv.org/pdf/1512.04133v1
- url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
- url_dataset: 'https://dataverse.harvard.edu/dataverse/hisdac-usv2'
+- name: PDF
+  url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: Code
+  url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+- name: Dataset
+  url_dataset: 'https://dataverse.harvard.edu/dataverse/hisdac-usv2'
+- name: Project
+  url_project: 'https://github.com/YoonjungAhn/HISTPLUS'
  #url_poster: '#'
- url_project: 'https://github.com/YoonjungAhn/HISTPLUS'
  #url_slides: ''
  #url_source: '#'
  #url_video: '#'
