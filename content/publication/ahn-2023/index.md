@@ -11,6 +11,5 @@ publishDate: '2024-06-05T21:18:22.022753Z'
 publication_types:
 - article-journal
 publication: '*Journal of Maps*'
-doi: https://doi.org/10.1080/17445647.2023.2253262 Spatial
-abstract: 
+doi: https://doi.org/10.1080/17445647.2023.2253262 
 ---
