@@ -5,8 +5,7 @@ authors:
 date: "2024-06-05T00:00:00Z"
 doi: " https://doi.org/10.7910/DVN/45B8IU"
 author_notes:
-- "Y.J., S.L. and J.U. framed the research. Y.J. and J.U. processed the data. Y.J., J.U., S.L. and C.M. designed the
-validation experiments. Y.J. and C.M. carried out the validation and visualized the results."
+- "Y.J., S.L. and J.U. framed the research. Y.J. and J.U. processed the data. Y.J., J.U., S.L. and C.M. designed the validation experiments. Y.J. and C.M. carried out the validation and visualized the results."
 date: "2024-03-01T00:00:00Z"
 doi: ""
 
