@@ -15,7 +15,7 @@ author_notes:
   - Drs. Cascade Tuholske and Robbie Parks compiled the data and reviewed the manuscript. Drs. Tuholske and Parks contributed equally.
 
 date: '2024-01-24 T00:00:00Z'
-doi: ''
+doi: '10.1029/2023GH000923'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-24 T00:00:00Z'
@@ -63,7 +63,11 @@ image:
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
+#Associated Projects (optional).
+  Assocaiate publication : 
+  - Ahn, Y., Uejio, C. K., Rennie, J., & Schmit, L. (2022). Verifying Experimental Wet Bulb Globe Temperature Hindcasts Across the United States. GeoHealth, 6(4). https://doi.org/10.1029/2021gh000527
+url_code: 'https://github.com/YoonjungAhn/WBGT-project'
+
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
