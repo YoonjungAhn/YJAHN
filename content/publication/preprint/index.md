@@ -14,8 +14,8 @@ publishDate: "2024-03-01T00:00:00Z"
 publication_types: ["Data descriptor"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: An Integrated Multi-Source Dataset for Measuring Settlement Evolution in the United States from 1810 to 2020
+#publication_short: ""
 
 abstract: Understanding changes in the built environment is vital for sustainable urban development and disaster preparedness. Recent years have seen the emergence of a variety of global, continent-level, and nation-wide datasets related to the current state and the evolution of the built environment, human settlements or building stocks.&nbsp;However, such datasets may&nbsp;face limitations like incomplete coverage, sparse building information, coarse resolution, and limited timeframes. This study addresses these challenges by integrating three spatial datasets to create an extensive, attribute-rich sequence of settlement layers spanning 200 years for the contiguous U.S. This integration process involves complex data processing, merging property-level real estate, parcel, and remote sensing-based building footprint data, and creating gridded multi-temporal settlement layers. This effort unveils the latest edition (Version 2)&nbsp;of the Historical Settlement Data Compilation for the U.S. (HISDAC-US), which includes the latest land use and structural information as of the year 2021. It enables detailed research on urban form and structure, helps assess and map the built environment’s risk to natural hazards, assists in population modeling, supports land use analysis, and aids health studies.
 
