@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://kansas-my.sharepoint.com/:b:/g/personal/y943a214_home_ku_edu/EammlJ8dyVtMuhaS6MpYCp4BzccuB-_1azz0hMNnHRIpfg?e=79Qdmb
     design:
       css_class: dark
       background:
