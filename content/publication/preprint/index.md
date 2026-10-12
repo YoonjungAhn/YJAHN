@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Illustrative graphic (not study data)'
+  caption: 'Figure from Ahn et al. (2024), Scientific Data'
   focal_point: ""
   preview_only: true
 

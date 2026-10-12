@@ -21,7 +21,7 @@ summary: Where do power outage hotspots overlap with older-adult vulnerability? 
 tags:
 - Power Outages
 - Disaster Resilience
-featured: true
+featured: false
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2214629626001179'
 url_code: 'https://github.com/YoonjungAhn/Poweroutage'
 image:
