@@ -25,7 +25,7 @@ summary: How much does the choice of population data change estimates of who liv
 tags:
 - Coastal Resilience
 - Population
-featured: true
+featured: false
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S119510362600011X'
 url_code: 'https://github.com/YoonjungAhn/LECZ'
 image:
