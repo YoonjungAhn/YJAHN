@@ -184,5 +184,5 @@ awards:
 
 ## About Me
 
-**Yoonjung Ahn** has an extensive experience in multi-disciplinary quantitative research, spanning both her educational journey and professional career. She currently holds the position of Assistant Professor in the **Department of Geography & Atmospheric Science at the University of Kansas**, where she adeptly utilizes spatial modeling, spatial analysis, spatial statistics, and big data methodologies to investigate the disproportional impact of environmental hazards. 
+**Yoonjung Ahn** has an extensive experience in multi-disciplinary quantitative research, spanning both her educational journey and professional career. She currently holds the position of Assistant Professor in the **Department of Earth, Energy & Environment at the University of Kansas**, where she adeptly utilizes spatial modeling, spatial analysis, spatial statistics, and big data methodologies to investigate the disproportional impact of environmental hazards. 
 Please reach out to collaborate 😃
