@@ -190,12 +190,6 @@ awards:
     awarder: National Academy of Sciences
     summary: |
       Understanding the Effects of Climate Change on Environmental Hazards in Overburdened Communities · Role: Co-PI · Funded $65,376
-  - title: 'Assessing Multi-Climate Hazard Risk in the United States: Implications for Healthcare Facility Resilience'
-    url: https://www.krms.org/index.ink
-    date: '2023-01-01'
-    awarder: Korea Risk Management Society
-    summary: |
-      Role: PI · Funded $5,000
 
 ---
 
