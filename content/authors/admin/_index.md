@@ -164,21 +164,37 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Understanding the Effects of Climate Change on Environmental Hazards in Overburdened Communities
-    url: https://www.nationalacademies.org/our-work/funding-opportunity-understanding-the-effects-of-climate-change-on-environmental-hazards-in-overburdened-communities/awards
-    date: '2023-06-25'
-    awarder: National Academy Of Sciences
-    icon: coursera
+  - title: Manufactured Housing Residents’ Air Quality and Perspectives
+    date: '2025-01-01'
+    awarder: Kansas EPSCoR, National Science Foundation – Research and Education Innovation (REI)
     summary: |
-      National Academy Of Sciences
+      Role: PI · Funded $71,406
+  - title: Evaluating Disparate Impacts from Multi Climate Risks for Manufactured Homes
+    date: '2025-01-01'
+    awarder: Kansas EPSCoR, National Science Foundation – First Awards
+    summary: |
+      Role: PI · Funded $50,000
+  - title: Research-Intensive Course Mini-Grant
+    date: '2024-06-05'
+    awarder: University of Kansas
+    summary: |
+      Transforming GEOG 316 into a research-intensive course
   - title: New Faculty Research Development
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-01-06'
     awarder: University of Kansas
-    icon: edx
     summary: |
-      Description:
-      -
+      Funded $20,000
+  - title: Neighborhood Level, Cumulative, Climate Change Attributable Health Burdens
+    url: https://www.nationalacademies.org/our-work/funding-opportunity-understanding-the-effects-of-climate-change-on-environmental-hazards-in-overburdened-communities/awards
+    date: '2023-06-25'
+    awarder: National Academy of Sciences
+    summary: |
+      Understanding the Effects of Climate Change on Environmental Hazards in Overburdened Communities · Role: Co-PI · Funded $65,376
+  - title: 'Assessing Multi-Climate Hazard Risk in the United States: Implications for Healthcare Facility Resilience'
+    date: '2023-01-01'
+    awarder: Kansas EPSCoR, National Science Foundation – First Awards
+    summary: |
+      Role: PI · Funded $5,000
 
 ---
 
