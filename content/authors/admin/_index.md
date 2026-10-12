@@ -26,6 +26,8 @@ role: Assistant Professor
 organizations: 
   - name: University of Kansas, Geography and Atmospheric Science
     url: https://geog.ku.edu/
+  - name: University of Kansas, Earth, Energy & Environment
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -86,6 +88,13 @@ education:
      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Assistant Professor
+    company_name: Department of Earth, Energy & Environment, University of Kansas
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-18
+    date_end: ''
+
   - position: Post Doctoral Associate
     company_name: Population Center, Institute of Behavioral Science University of Colorado Boulder 
     company_url: 'https://ibs.colorado.edu/'
