@@ -36,6 +36,8 @@ sections:
       subtitle: ''
       text: |-
         Yoonjung has been trained as a health and medical geographer and geospatial information scientist👩🏻‍💻. Her research focuses on the intersection of social determinants of health, health inequity, built environment, and extreme weather events engaging topics such as identifying spatial disparities of extreme heat, understanding spatial variability in gridded weather data, and generating trajectory of built environment data focusing on United States 🌏🏥🗺️🏙️
+
+        ![Yoonjung Ahn and an overview of her research on extreme heat, air conditioning, settlement history, coastal population, power outages, and care equity](uploads/research-overview.jpg)
     design:
       columns: '1'
   - block: collection
@@ -46,6 +48,7 @@ sections:
         folders:
           - publication
         featured_only: true
+      count: 6
     design:
       view: article-grid
       columns: 2
@@ -78,7 +81,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 10
       # Filter on criteria
       filters:
         author: ""
