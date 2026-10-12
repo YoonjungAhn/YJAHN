@@ -28,8 +28,11 @@ sections:
     content:
       title: Awards & Grants
       username: admin
-  - block: resume-languages
+  - block: markdown
     content:
       title: Languages
-      username: admin
+      text: |-
+        Korean · English
+    design:
+      columns: '1'
 ---
