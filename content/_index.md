@@ -43,6 +43,14 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: grants
+    id: grants
+    content:
+      title: Grants & Funding
+      username: admin
+      link:
+        text: All awards & grants
+        url: experience/
   - block: collection
     content:
       title: Recent Publications

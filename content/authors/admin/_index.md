@@ -167,11 +167,15 @@ awards:
   - title: Manufactured Housing Residents’ Air Quality and Perspectives
     date: '2025-01-01'
     awarder: Kansas EPSCoR, National Science Foundation – Research and Education Innovation (REI)
+    role: PI
+    amount: '$71,406'
     summary: |
       Role: PI · Funded $71,406
   - title: Evaluating Disparate Impacts from Multi Climate Risks for Manufactured Homes
     date: '2025-01-01'
     awarder: Kansas EPSCoR, National Science Foundation – First Awards
+    role: PI
+    amount: '$50,000'
     summary: |
       Role: PI · Funded $50,000
   - title: Research-Intensive Course Mini-Grant
@@ -182,12 +186,15 @@ awards:
   - title: New Faculty Research Development
     date: '2024-01-06'
     awarder: University of Kansas
+    amount: '$20,000'
     summary: |
       Funded $20,000
   - title: Neighborhood Level, Cumulative, Climate Change Attributable Health Burdens
     url: https://www.nationalacademies.org/our-work/funding-opportunity-understanding-the-effects-of-climate-change-on-environmental-hazards-in-overburdened-communities/awards
     date: '2023-06-25'
     awarder: National Academy of Sciences
+    role: Co-PI
+    amount: '$65,376'
     summary: |
       Understanding the Effects of Climate Change on Environmental Hazards in Overburdened Communities · Role: Co-PI · Funded $65,376
 

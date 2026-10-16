@@ -302,3 +302,80 @@ body img {
   font-size: .85rem;
   opacity: .8;
 }
+
+/* ---------- Grants & Funding (home) ---------- */
+.rian-grants {
+  max-width: 1120px;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+  text-align: center;
+}
+.rian-grants__intro {
+  color: var(--rian-text);
+  margin: -0.5rem auto 2rem;
+  max-width: 40rem;
+}
+.rian-grants__grid {
+  display: grid;
+  gap: 1.5rem;
+  text-align: left;
+}
+@media (min-width: 700px) {
+  .rian-grants__grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 1100px) {
+  .rian-grants__grid { grid-template-columns: repeat(3, 1fr); }
+}
+.rian-grant {
+  position: relative;
+  background: var(--rian-card);
+  padding: 1.5rem 1.5rem 1.75rem;
+  border-left: 4px solid var(--rian-ink);
+  transition: border-color .3s, transform .3s;
+}
+.rian-grant:hover {
+  border-left-color: var(--rian-accent);
+  transform: translateY(-2px);
+}
+.rian-grant__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: .75rem;
+}
+.rian-grant__year {
+  font-size: .85rem;
+  font-weight: 600;
+  color: var(--rian-text);
+  letter-spacing: .04em;
+}
+.rian-grant__amount {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--rian-title);
+  background: linear-gradient(transparent 55%, var(--rian-accent-soft) 55%);
+  padding-inline: .15rem;
+}
+.rian-grant__title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--rian-title);
+  margin-bottom: .6rem;
+}
+.rian-grant__title a { color: inherit; }
+.rian-grant__title a:hover { color: var(--rian-accent); }
+.rian-grant__funder {
+  font-size: .9rem;
+  color: var(--rian-text);
+}
+.rian-grant__role {
+  margin-top: .5rem;
+  display: inline-block;
+  font-size: .8rem;
+  font-weight: 600;
+  color: var(--rian-body);
+  background: var(--rian-ink);
+  padding: .15rem .5rem;
+}
+.rian-grants__more { margin-top: 2rem; }
