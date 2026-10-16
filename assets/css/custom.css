@@ -1,0 +1,304 @@
+/* Site styling inspired by bedimcode's "Rian" responsive portfolio:
+   Bai Jamjuree type, light-gray canvas, black + orange-red accents, square edges. */
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap");
+
+:root {
+  --rian-accent: hsl(14, 98%, 50%);
+  --rian-accent-soft: hsla(14, 98%, 50%, .2);
+  --rian-body: hsl(0, 0%, 87%);
+  --rian-container: hsl(0, 0%, 83%);
+  --rian-card: hsl(0, 0%, 93%);
+  --rian-title: hsl(0, 0%, 0%);
+  --rian-text: hsl(0, 0%, 30%);
+  --rian-ink: hsl(0, 0%, 0%);
+}
+
+html.dark {
+  --rian-body: hsl(0, 0%, 8%);
+  --rian-container: hsl(0, 0%, 14%);
+  --rian-card: hsl(0, 0%, 12%);
+  --rian-title: hsl(0, 0%, 95%);
+  --rian-text: hsl(0, 0%, 72%);
+  --rian-ink: hsl(0, 0%, 95%);
+}
+
+/* ---------- Base ---------- */
+body,
+body .prose,
+body h1, body h2, body h3, body h4, body h5,
+body button, body input {
+  font-family: "Bai Jamjuree", "Inter var", sans-serif !important;
+}
+
+body.page-wrapper,
+html.dark body.page-wrapper {
+  background-color: var(--rian-body) !important;
+  color: var(--rian-text);
+}
+
+/* Square everything that the default theme rounds */
+body [class*="rounded"],
+body .avatar,
+body img {
+  border-radius: 0 !important;
+}
+
+/* ---------- Header ---------- */
+#site-header .navbar,
+#site-header nav,
+#site-header {
+  background-color: var(--rian-body) !important;
+}
+#site-header a {
+  font-weight: 500;
+}
+#site-header .navbar a[href]:hover {
+  color: var(--rian-accent);
+}
+
+/* ---------- Section titles: highlight square behind the end of the title ---------- */
+.hbb-section .mb-6.text-3xl.font-bold,
+.blox-markdown h1,
+.blox-markdown .text-3xl,
+.blox-resume-awards .text-3xl,
+.blox-resume-experience .text-3xl {
+  position: relative;
+  display: inline-block;
+  color: var(--rian-title) !important;
+  z-index: 0;
+}
+.hbb-section .mb-6.text-3xl.font-bold::after,
+.blox-markdown .text-3xl::after,
+.blox-resume-awards .text-3xl::after,
+.blox-resume-experience .text-3xl::after {
+  content: "";
+  position: absolute;
+  width: 40px;
+  height: 28px;
+  right: -10px;
+  top: -4px;
+  background-color: var(--rian-accent-soft);
+  z-index: -1;
+}
+
+/* ---------- Cards ---------- */
+.hbb-section .border,
+.blox-resume-awards .bg-white {
+  background-color: var(--rian-card) !important;
+  border-color: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Buttons and pill links become black squares */
+.hbb-section a.inline-flex.items-center,
+.hbb-section .btn,
+.hbb-section a[class*="border"][class*="px-"] {
+  background-color: var(--rian-ink) !important;
+  color: var(--rian-body) !important;
+  border-color: var(--rian-ink) !important;
+}
+.hbb-section a.inline-flex.items-center:hover {
+  background-color: var(--rian-accent) !important;
+  border-color: var(--rian-accent) !important;
+}
+
+/* ---------- Home hero ---------- */
+.rian-hero {
+  max-width: 1120px;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+  display: grid;
+  gap: 3rem;
+  align-items: center;
+}
+@media (min-width: 900px) {
+  .rian-hero {
+    grid-template-columns: 1.1fr 1fr;
+  }
+}
+.rian-hero__name {
+  font-size: clamp(2.5rem, 7vw, 4.5rem);
+  font-weight: 700;
+  line-height: 1.05;
+  color: var(--rian-title);
+  margin-bottom: 1.5rem;
+}
+.rian-hero__role {
+  display: flex;
+  gap: .75rem;
+  font-size: 1.15rem;
+  line-height: 1.5;
+  color: var(--rian-title);
+  max-width: 28rem;
+}
+.rian-hero__role::before {
+  content: "";
+  flex: none;
+  width: 1.5rem;
+  height: 1px;
+  margin-top: .8rem;
+  background: var(--rian-title);
+}
+.rian-hero__role b {
+  font-weight: 600;
+  background: linear-gradient(90deg, var(--rian-accent-soft), transparent 90%);
+  padding-inline: .2rem;
+}
+.rian-hero__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin-top: 2rem;
+}
+.rian-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .85rem 1.4rem;
+  font-weight: 500;
+  background: var(--rian-ink);
+  color: var(--rian-body) !important;
+  transition: background-color .3s;
+}
+.rian-btn:hover {
+  background: var(--rian-accent);
+}
+.rian-btn--ghost {
+  background: transparent;
+  color: var(--rian-title) !important;
+  outline: 2px solid var(--rian-ink);
+  outline-offset: -2px;
+}
+.rian-btn--ghost:hover {
+  color: var(--rian-body) !important;
+}
+
+.rian-hero__visual {
+  position: relative;
+  justify-self: center;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.rian-hero__frame {
+  position: relative;
+  width: min(300px, 70vw);
+}
+.rian-hero__frame::before {
+  content: "";
+  position: absolute;
+  inset: 1rem -1rem -1rem 1rem;
+  border: 4px solid var(--rian-ink);
+}
+.rian-hero__frame img {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  background: var(--rian-container);
+}
+.rian-hero__box {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: -10px;
+  top: 55%;
+  background: var(--rian-accent);
+  outline: 4px solid var(--rian-ink);
+  rotate: -30deg;
+}
+.rian-hero__social {
+  display: grid;
+  gap: .75rem;
+}
+.rian-hero__social a {
+  display: grid;
+  place-items: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  background: hsl(0, 0%, 40%);
+  color: hsl(0, 0%, 95%);
+  transition: background-color .3s;
+}
+.rian-hero__social a:hover {
+  background: var(--rian-ink);
+}
+.rian-hero__social svg {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
+/* About + interests/education under the hero */
+.rian-about {
+  max-width: 1120px;
+  margin: 5rem auto 0;
+  padding-inline: 1.5rem;
+  display: grid;
+  gap: 2.5rem;
+}
+@media (min-width: 900px) {
+  .rian-about {
+    grid-template-columns: 1.2fr 1fr;
+  }
+}
+.rian-about h2 {
+  position: relative;
+  display: inline-block;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--rian-title);
+  margin-bottom: 1.25rem;
+  z-index: 0;
+}
+.rian-about h2::after {
+  content: "";
+  position: absolute;
+  width: 40px;
+  height: 28px;
+  right: -10px;
+  bottom: -4px;
+  background-color: var(--rian-accent-soft);
+  z-index: -1;
+}
+.rian-about__text {
+  color: var(--rian-text);
+  line-height: 1.75;
+}
+.rian-about__text strong {
+  color: var(--rian-title);
+}
+.rian-about__lists {
+  display: grid;
+  gap: 1.5rem;
+  align-content: start;
+}
+.rian-about__card {
+  background: var(--rian-card);
+  padding: 1.5rem;
+}
+.rian-about__card h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--rian-title);
+  margin-bottom: .75rem;
+}
+.rian-about__card li {
+  position: relative;
+  padding-left: 1.1rem;
+  margin-bottom: .45rem;
+  color: var(--rian-text);
+}
+.rian-about__card li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: .55rem;
+  width: 6px;
+  height: 6px;
+  background: var(--rian-accent);
+}
+.rian-about__card small {
+  display: block;
+  font-size: .85rem;
+  opacity: .8;
+}
