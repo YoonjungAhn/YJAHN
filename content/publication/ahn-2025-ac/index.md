@@ -27,7 +27,7 @@ url_pdf: 'https://www.nature.com/articles/s41597-025-06104-3'
 url_code: 'https://github.com/YoonjungAhn/NationwideAC'
 url_dataset: 'https://doi.org/10.7910/DVN/A0CGTX'
 image:
-  caption: 'Illustrative graphic (not study data)'
+  caption: 'Figure from Ahn & Uejio (2025), Scientific Data'
   focal_point: ''
   preview_only: true
 ---
