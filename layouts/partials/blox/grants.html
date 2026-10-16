@@ -1,0 +1,39 @@
+{{/* Grants & Funding: card grid built from the `awards` list on the author page. */}}
+{{ $block := .wcBlock }}
+{{ $author := $block.content.username | default "admin" }}
+{{ $person_page := site.GetPage (printf "/authors/%s" $author) }}
+{{ $grants := $person_page.Params.awards }}
+{{ $count := $block.content.count | default 0 }}
+
+<div class="rian-grants">
+  {{ with $block.content.title }}
+  <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">{{ . | markdownify | emojify }}</div>
+  {{ end }}
+  {{ with $block.content.text }}<p class="rian-grants__intro">{{ . | markdownify | emojify }}</p>{{ end }}
+
+  <div class="rian-grants__grid">
+    {{ $i := 0 }}
+    {{ range $grants }}
+      {{ if or (eq $count 0) (lt $i $count) }}
+      <article class="rian-grant">
+        <div class="rian-grant__top">
+          <span class="rian-grant__year">{{ (time .date).Year }}</span>
+          {{ with .amount }}<span class="rian-grant__amount">{{ . }}</span>{{ end }}
+        </div>
+        <h3 class="rian-grant__title">
+          {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ .title | markdownify | emojify }}{{ if .url }}</a>{{ end }}
+        </h3>
+        <p class="rian-grant__funder">{{ .awarder }}</p>
+        {{ with .role }}<p class="rian-grant__role">Role: {{ . }}</p>{{ end }}
+      </article>
+      {{ end }}
+      {{ $i = add $i 1 }}
+    {{ end }}
+  </div>
+
+  {{ with $block.content.link }}
+  <div class="rian-grants__more">
+    <a class="rian-btn rian-btn--ghost" href="{{ .url | relLangURL }}">{{ .text }}</a>
+  </div>
+  {{ end }}
+</div>
