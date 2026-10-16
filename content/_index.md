@@ -19,17 +19,8 @@ sections:
         text: Download CV
         url: https://kansas-my.sharepoint.com/:b:/g/personal/y943a214_home_ku_edu/EammlJ8dyVtMuhaS6MpYCp4BzccuB-_1azz0hMNnHRIpfg?e=79Qdmb
     design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      spacing:
+        padding: ['4rem', 0, '2rem', 0]
   - block: markdown
     content:
       title: '📚 My Research'
