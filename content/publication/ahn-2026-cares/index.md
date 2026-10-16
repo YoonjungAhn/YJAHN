@@ -26,7 +26,7 @@ featured: true
 url_pdf: 'https://www.nature.com/articles/s41599-026-07491-7'
 url_code: 'https://github.com/YoonjungAhn/Care-Resource-Equity-Score-CaRES'
 image:
-  caption: 'Illustrative graphic (not study data)'
+  caption: 'Figure from Ahn & Bommarito (2026), Humanities and Social Sciences Communications'
   focal_point: ''
   preview_only: true
 ---
