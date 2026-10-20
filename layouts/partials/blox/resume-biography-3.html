@@ -1,4 +1,5 @@
-{{/* Home hero + About, styled after bedimcode's "Rian" portfolio. Overrides Hugo Blox resume-biography-3. */}}
+{{/* Home hero + About, styled after the "Developer Portfolio" landing page
+     (split color panel, round portrait on the divide). Overrides Hugo Blox resume-biography-3. */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 
@@ -10,33 +11,9 @@
 {{ $person := $person_page.Params }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 
-<div class="rian-hero">
-  <div>
-    <h1 class="rian-hero__name">{{ $person_page.Title }}</h1>
-    <p class="rian-hero__role">
-      <span>
-        {{- with $person.role }}<b>{{ . | markdownify | emojify }}</b>{{ end -}}
-        {{- range $person.organizations }}<br>{{ .name }}{{ end -}}
-      </span>
-    </p>
-    <div class="rian-hero__buttons">
-      {{ with $block.content.button }}
-      <a class="rian-btn" href="{{ .url }}" target="_blank" rel="noopener">{{ .text }}</a>
-      {{ end }}
-      <a class="rian-btn rian-btn--ghost" href="#papers">Publications</a>
-    </div>
-  </div>
-
-  <div class="rian-hero__visual">
-    {{ if $avatar }}
-    {{ $img := $avatar.Fill "600x800 Center webp" }}
-    <div class="rian-hero__frame">
-      <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $person_page.Title }}">
-      <span class="rian-hero__box" aria-hidden="true"></span>
-    </div>
-    {{ end }}
-
-    <div class="rian-hero__social">
+<div class="pf-landing">
+  <div class="pf-landing__left">
+    <div class="pf-landing__social">
       {{ range $person.profiles }}
         {{ $link := .url | default .link }}
         {{ $scheme := (urls.Parse $link).Scheme }}
@@ -56,18 +33,39 @@
       {{ end }}
     </div>
   </div>
-</div>
 
-<div class="rian-about" id="about">
-  <div>
-    <div class="rian-about__text prose dark:prose-invert">
-      {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}{{ . }}{{ end }}
+  {{ if $avatar }}
+  {{ $img := $avatar.Fill "640x640 Center webp" }}
+  <img class="pf-landing__photo" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $person_page.Title }}">
+  {{ end }}
+
+  <div class="pf-landing__right">
+    <div class="pf-landing__content">
+      {{ with $person.role }}<p class="pf-landing__role">{{ . | markdownify | emojify }}</p>{{ end }}
+      <h1 class="pf-landing__name">{{ $person_page.Title }}</h1>
+      {{ with $person.organizations }}
+      <p class="pf-landing__orgs">
+        {{- range $i, $o := . }}{{ if $i }}<br>{{ end }}{{ $o.name }}{{ end -}}
+      </p>
+      {{ end }}
+      <div class="pf-landing__buttons">
+        {{ with $block.content.button }}
+        <a class="pf-btn pf-btn--outline" href="{{ .url }}" target="_blank" rel="noopener">{{ .text }}</a>
+        {{ end }}
+        <a class="pf-btn" href="#papers">Publications</a>
+      </div>
     </div>
   </div>
+</div>
 
-  <div class="rian-about__lists">
+<div class="pf-about" id="about">
+  <div class="pf-about__text prose dark:prose-invert">
+    {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}{{ . }}{{ end }}
+  </div>
+
+  <div class="pf-about__lists">
     {{ with $person.interests }}
-    <div class="rian-about__card">
+    <div class="pf-card">
       <h3>{{ i18n "interests" | default "Interests" }}</h3>
       <ul>
         {{ range . }}<li>{{ . | markdownify | emojify }}</li>{{ end }}
@@ -76,7 +74,7 @@
     {{ end }}
 
     {{ with $person.education }}
-    <div class="rian-about__card">
+    <div class="pf-card">
       <h3>{{ i18n "education" | default "Education" }}</h3>
       <ul>
         {{ range . }}

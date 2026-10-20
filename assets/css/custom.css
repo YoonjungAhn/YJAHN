@@ -1,25 +1,24 @@
-/* Site styling inspired by bedimcode's "Rian" responsive portfolio:
-   Bai Jamjuree type, light-gray canvas, black + orange-red accents, square edges. */
-@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap");
+/* Site styling after the "Developer Portfolio" template (hhhrrrttt222111/developer-portfolio, Apache-2.0)
+   in a light-purple palette: Poppins type, split landing panel, round portrait, pill buttons, soft cards. */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --rian-accent: hsl(14, 98%, 50%);
-  --rian-accent-soft: hsla(14, 98%, 50%, .2);
-  --rian-body: hsl(0, 0%, 87%);
-  --rian-container: hsl(0, 0%, 83%);
-  --rian-card: hsl(0, 0%, 93%);
-  --rian-title: hsl(0, 0%, 0%);
-  --rian-text: hsl(0, 0%, 30%);
-  --rian-ink: hsl(0, 0%, 0%);
+  --pf-primary: #a78bfa;        /* light purple: panels, buttons, highlights */
+  --pf-primary-soft: #a78bfa33;
+  --pf-primary-strong: #6d4bd8; /* deeper purple for text accents and links */
+  --pf-on-primary: #1e1238;     /* text and icons placed on light purple */
+  --pf-bg: #eaeaea;
+  --pf-card: #f6f5f9;
+  --pf-title: #212121;
+  --pf-text: #4a4a55;
 }
 
 html.dark {
-  --rian-body: hsl(0, 0%, 8%);
-  --rian-container: hsl(0, 0%, 14%);
-  --rian-card: hsl(0, 0%, 12%);
-  --rian-title: hsl(0, 0%, 95%);
-  --rian-text: hsl(0, 0%, 72%);
-  --rian-ink: hsl(0, 0%, 95%);
+  --pf-primary-strong: #c4b5fd;
+  --pf-bg: #212121;
+  --pf-card: #2b2a30;
+  --pf-title: #eaeaea;
+  --pf-text: #c9c7d1;
 }
 
 /* ---------- Base ---------- */
@@ -27,355 +26,319 @@ body,
 body .prose,
 body h1, body h2, body h3, body h4, body h5,
 body button, body input {
-  font-family: "Bai Jamjuree", "Inter var", sans-serif !important;
+  font-family: "Poppins", "Inter var", sans-serif !important;
 }
 
 body.page-wrapper,
 html.dark body.page-wrapper {
-  background-color: var(--rian-body) !important;
-  color: var(--rian-text);
+  background-color: var(--pf-bg) !important;
+  color: var(--pf-text);
 }
 
-/* Square everything that the default theme rounds */
-body [class*="rounded"],
-body .avatar,
-body img {
-  border-radius: 0 !important;
-}
-
-/* ---------- Header ---------- */
-#site-header .navbar,
+#site-header,
 #site-header nav,
-#site-header {
-  background-color: var(--rian-body) !important;
-}
-#site-header a {
-  font-weight: 500;
+#site-header .navbar {
+  background-color: var(--pf-bg) !important;
 }
 #site-header .navbar a[href]:hover {
-  color: var(--rian-accent);
+  color: var(--pf-primary-strong);
 }
 
-/* ---------- Section titles: highlight square behind the end of the title ---------- */
+/* Section titles in the theme's purple */
 .hbb-section .mb-6.text-3xl.font-bold,
-.blox-markdown h1,
 .blox-markdown .text-3xl,
 .blox-resume-awards .text-3xl,
-.blox-resume-experience .text-3xl {
-  position: relative;
-  display: inline-block;
-  color: var(--rian-title) !important;
-  z-index: 0;
-}
-.hbb-section .mb-6.text-3xl.font-bold::after,
-.blox-markdown .text-3xl::after,
-.blox-resume-awards .text-3xl::after,
-.blox-resume-experience .text-3xl::after {
-  content: "";
-  position: absolute;
-  width: 40px;
-  height: 28px;
-  right: -10px;
-  top: -4px;
-  background-color: var(--rian-accent-soft);
-  z-index: -1;
+.blox-resume-experience .text-3xl,
+.blox-resume-skills .text-3xl,
+.pf-about__text h2 {
+  color: var(--pf-primary-strong) !important;
+  font-weight: 600 !important;
 }
 
-/* ---------- Cards ---------- */
+/* Soft rounded cards */
 .hbb-section .border,
 .blox-resume-awards .bg-white {
-  background-color: var(--rian-card) !important;
+  background-color: var(--pf-card) !important;
   border-color: transparent !important;
-  box-shadow: none !important;
+  border-radius: 14px !important;
+  box-shadow: 0 6px 20px rgba(60, 40, 120, .06) !important;
+}
+.hbb-section img[class*="object"] {
+  border-radius: 10px;
 }
 
-/* Buttons and pill links become black squares */
-.hbb-section a.inline-flex.items-center,
-.hbb-section .btn,
-.hbb-section a[class*="border"][class*="px-"] {
-  background-color: var(--rian-ink) !important;
-  color: var(--rian-body) !important;
-  border-color: var(--rian-ink) !important;
-}
-.hbb-section a.inline-flex.items-center:hover {
-  background-color: var(--rian-accent) !important;
-  border-color: var(--rian-accent) !important;
-}
-
-/* ---------- Home hero ---------- */
-.rian-hero {
-  max-width: 1120px;
-  margin-inline: auto;
-  padding-inline: 1.5rem;
-  display: grid;
-  gap: 3rem;
-  align-items: center;
-}
-@media (min-width: 900px) {
-  .rian-hero {
-    grid-template-columns: 1.1fr 1fr;
-  }
-}
-.rian-hero__name {
-  font-size: clamp(2.5rem, 7vw, 4.5rem);
-  font-weight: 700;
-  line-height: 1.05;
-  color: var(--rian-title);
-  margin-bottom: 1.5rem;
-}
-.rian-hero__role {
-  display: flex;
-  gap: .75rem;
-  font-size: 1.15rem;
-  line-height: 1.5;
-  color: var(--rian-title);
-  max-width: 28rem;
-}
-.rian-hero__role::before {
-  content: "";
-  flex: none;
-  width: 1.5rem;
-  height: 1px;
-  margin-top: .8rem;
-  background: var(--rian-title);
-}
-.rian-hero__role b {
-  font-weight: 600;
-  background: linear-gradient(90deg, var(--rian-accent-soft), transparent 90%);
-  padding-inline: .2rem;
-}
-.rian-hero__buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .75rem;
-  margin-top: 2rem;
-}
-.rian-btn {
+/* Pill buttons */
+.pf-btn,
+.hbb-section a.inline-flex.items-center {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: .5rem;
-  padding: .85rem 1.4rem;
+  min-width: 150px;
+  padding: .7rem 1.6rem;
+  border-radius: 999px !important;
   font-weight: 500;
-  background: var(--rian-ink);
-  color: var(--rian-body) !important;
-  transition: background-color .3s;
+  border: 3px solid var(--pf-primary) !important;
+  background: var(--pf-primary) !important;
+  color: var(--pf-on-primary) !important;
+  transition: background-color .3s, color .3s, border-color .3s;
 }
-.rian-btn:hover {
-  background: var(--rian-accent);
+.pf-btn:hover,
+.hbb-section a.inline-flex.items-center:hover {
+  background: var(--pf-primary-strong) !important;
+  border-color: var(--pf-primary-strong) !important;
+  color: #fff !important;
 }
-.rian-btn--ghost {
-  background: transparent;
-  color: var(--rian-title) !important;
-  outline: 2px solid var(--rian-ink);
-  outline-offset: -2px;
-}
-.rian-btn--ghost:hover {
-  color: var(--rian-body) !important;
+.pf-btn--outline {
+  background: transparent !important;
+  color: var(--pf-primary-strong) !important;
 }
 
-.rian-hero__visual {
+/* ---------- Landing: purple panel | round photo | content ---------- */
+.pf-landing {
   position: relative;
-  justify-self: center;
+  display: grid;
+  min-height: 560px;
+}
+@media (min-width: 900px) {
+  .pf-landing {
+    grid-template-columns: 35% 65%;
+    min-height: calc(100vh - 70px);
+    max-height: 760px;
+  }
+}
+.pf-landing__left {
+  background: var(--pf-primary);
+  display: flex;
+  align-items: flex-end;
+  padding: 2rem;
+  min-height: 220px;
+}
+.pf-landing__social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.1rem;
+}
+.pf-landing__social a {
+  color: var(--pf-on-primary);
+  transition: transform .2s, color .2s;
+}
+.pf-landing__social a:hover {
+  color: #fff;
+  transform: translateY(-2px);
+}
+.pf-landing__social svg {
+  width: 1.75rem;
+  height: 1.75rem;
+}
+
+.pf-landing__photo {
+  position: absolute;
+  width: 220px;
+  height: 220px;
+  left: 50%;
+  top: 220px;
+  transform: translate(-50%, -50%);
+  border-radius: 50% !important;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(30, 18, 56, .25);
+}
+@media (min-width: 900px) {
+  .pf-landing__photo {
+    width: 320px;
+    height: 320px;
+    left: 35%;
+    top: 50%;
+  }
+}
+
+.pf-landing__right {
+  background: var(--pf-bg);
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  padding: 140px 1.5rem 3rem;
 }
-.rian-hero__frame {
-  position: relative;
-  width: min(300px, 70vw);
+@media (min-width: 900px) {
+  .pf-landing__right {
+    padding: 2rem 3rem 2rem calc(160px + 6rem);
+  }
 }
-.rian-hero__frame::before {
-  content: "";
-  position: absolute;
-  inset: 1rem -1rem -1rem 1rem;
-  border: 4px solid var(--rian-ink);
+.pf-landing__content {
+  max-width: 34rem;
 }
-.rian-hero__frame img {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 3 / 4;
-  object-fit: cover;
-  background: var(--rian-container);
+.pf-landing__role {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: var(--pf-title);
+  margin-bottom: .25rem;
 }
-.rian-hero__box {
-  position: absolute;
-  width: 20px;
-  height: 20px;
-  left: -10px;
-  top: 55%;
-  background: var(--rian-accent);
-  outline: 4px solid var(--rian-ink);
-  rotate: -30deg;
+.pf-landing__name {
+  font-size: clamp(2.5rem, 6vw, 3.75rem);
+  font-weight: 600;
+  line-height: 1.1;
+  color: var(--pf-title);
+  margin-bottom: 1.25rem;
 }
-.rian-hero__social {
-  display: grid;
-  gap: .75rem;
+.pf-landing__orgs {
+  color: var(--pf-text);
+  line-height: 1.7;
 }
-.rian-hero__social a {
-  display: grid;
-  place-items: center;
-  width: 2.25rem;
-  height: 2.25rem;
-  background: hsl(0, 0%, 40%);
-  color: hsl(0, 0%, 95%);
-  transition: background-color .3s;
-}
-.rian-hero__social a:hover {
-  background: var(--rian-ink);
-}
-.rian-hero__social svg {
-  width: 1.1rem;
-  height: 1.1rem;
+.pf-landing__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-top: 2rem;
 }
 
-/* About + interests/education under the hero */
-.rian-about {
+/* ---------- About ---------- */
+.pf-about {
   max-width: 1120px;
-  margin: 5rem auto 0;
+  margin: 4.5rem auto 0;
   padding-inline: 1.5rem;
   display: grid;
   gap: 2.5rem;
 }
 @media (min-width: 900px) {
-  .rian-about {
+  .pf-about {
     grid-template-columns: 1.2fr 1fr;
   }
 }
-.rian-about h2 {
-  position: relative;
-  display: inline-block;
-  font-size: 1.75rem;
-  font-weight: 700;
-  color: var(--rian-title);
-  margin-bottom: 1.25rem;
-  z-index: 0;
+.pf-about__text {
+  color: var(--pf-text);
+  line-height: 1.8;
 }
-.rian-about h2::after {
-  content: "";
-  position: absolute;
-  width: 40px;
-  height: 28px;
-  right: -10px;
-  bottom: -4px;
-  background-color: var(--rian-accent-soft);
-  z-index: -1;
+.pf-about__text h2 {
+  margin-top: 0;
+  font-size: 1.9rem;
 }
-.rian-about__text {
-  color: var(--rian-text);
-  line-height: 1.75;
+.pf-about__text strong {
+  color: var(--pf-title);
 }
-.rian-about__text strong {
-  color: var(--rian-title);
-}
-.rian-about__lists {
+.pf-about__lists {
   display: grid;
   gap: 1.5rem;
   align-content: start;
 }
-.rian-about__card {
-  background: var(--rian-card);
-  padding: 1.5rem;
+.pf-card {
+  background: var(--pf-card);
+  border-radius: 14px;
+  padding: 1.5rem 1.75rem;
+  box-shadow: 0 6px 20px rgba(60, 40, 120, .06);
 }
-.rian-about__card h3 {
+.pf-card h3 {
   font-size: 1.1rem;
   font-weight: 600;
-  color: var(--rian-title);
+  color: var(--pf-primary-strong);
   margin-bottom: .75rem;
 }
-.rian-about__card li {
+.pf-card li {
   position: relative;
-  padding-left: 1.1rem;
-  margin-bottom: .45rem;
-  color: var(--rian-text);
+  padding-left: 1.2rem;
+  margin-bottom: .5rem;
+  color: var(--pf-text);
 }
-.rian-about__card li::before {
+.pf-card li::before {
   content: "";
   position: absolute;
   left: 0;
-  top: .55rem;
-  width: 6px;
-  height: 6px;
-  background: var(--rian-accent);
+  top: .6rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--pf-primary);
 }
-.rian-about__card small {
+.pf-card small {
   display: block;
   font-size: .85rem;
   opacity: .8;
 }
 
 /* ---------- Grants & Funding (home) ---------- */
-.rian-grants {
+.pf-grants {
   max-width: 1120px;
   margin-inline: auto;
   padding-inline: 1.5rem;
   text-align: center;
 }
-.rian-grants__intro {
-  color: var(--rian-text);
+.pf-grants__intro {
+  color: var(--pf-text);
   margin: -0.5rem auto 2rem;
   max-width: 40rem;
 }
-.rian-grants__grid {
+.pf-grants__grid {
   display: grid;
   gap: 1.5rem;
   text-align: left;
 }
 @media (min-width: 700px) {
-  .rian-grants__grid { grid-template-columns: repeat(2, 1fr); }
+  .pf-grants__grid { grid-template-columns: repeat(2, 1fr); }
 }
 @media (min-width: 1100px) {
-  .rian-grants__grid { grid-template-columns: repeat(3, 1fr); }
+  .pf-grants__grid { grid-template-columns: repeat(3, 1fr); }
 }
-.rian-grant {
-  position: relative;
-  background: var(--rian-card);
+.pf-grant {
+  background: var(--pf-card);
+  border-radius: 14px;
   padding: 1.5rem 1.5rem 1.75rem;
-  border-left: 4px solid var(--rian-ink);
-  transition: border-color .3s, transform .3s;
+  border-top: 6px solid var(--pf-primary);
+  box-shadow: 0 6px 20px rgba(60, 40, 120, .06);
+  transition: transform .3s, box-shadow .3s;
 }
-.rian-grant:hover {
-  border-left-color: var(--rian-accent);
-  transform: translateY(-2px);
+.pf-grant:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(60, 40, 120, .12);
 }
-.rian-grant__top {
+.pf-grant__top {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   margin-bottom: .75rem;
 }
-.rian-grant__year {
+.pf-grant__year {
   font-size: .85rem;
-  font-weight: 600;
-  color: var(--rian-text);
-  letter-spacing: .04em;
+  font-weight: 500;
+  color: var(--pf-text);
 }
-.rian-grant__amount {
+.pf-grant__amount {
   font-size: 1.35rem;
-  font-weight: 700;
-  color: var(--rian-title);
-  background: linear-gradient(transparent 55%, var(--rian-accent-soft) 55%);
-  padding-inline: .15rem;
-}
-.rian-grant__title {
-  font-size: 1.1rem;
   font-weight: 600;
-  line-height: 1.35;
-  color: var(--rian-title);
+  color: var(--pf-primary-strong);
+}
+.pf-grant__title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--pf-title);
   margin-bottom: .6rem;
 }
-.rian-grant__title a { color: inherit; }
-.rian-grant__title a:hover { color: var(--rian-accent); }
-.rian-grant__funder {
+.pf-grant__title a { color: inherit; }
+.pf-grant__title a:hover { color: var(--pf-primary-strong); }
+.pf-grant__funder {
   font-size: .9rem;
-  color: var(--rian-text);
+  color: var(--pf-text);
 }
-.rian-grant__role {
-  margin-top: .5rem;
+.pf-grant__role {
+  margin-top: .6rem;
   display: inline-block;
   font-size: .8rem;
   font-weight: 600;
-  color: var(--rian-body);
-  background: var(--rian-ink);
-  padding: .15rem .5rem;
+  color: var(--pf-on-primary);
+  background: var(--pf-primary);
+  border-radius: 999px;
+  padding: .15rem .7rem;
 }
-.rian-grants__more { margin-top: 2rem; }
+.pf-grants__more { margin-top: 2rem; }
+
+/* Phones: social icons at the top of the purple band, photo on its lower edge */
+@media (max-width: 899px) {
+  .pf-landing__left {
+    min-height: 250px;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 1.5rem 1rem;
+  }
+  .pf-landing__social { justify-content: center; }
+  .pf-landing__social svg { width: 1.5rem; height: 1.5rem; }
+  .pf-landing__photo { top: 250px; }
+  .pf-landing__right { padding-top: 135px; }
+}

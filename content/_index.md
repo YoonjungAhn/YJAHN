@@ -20,7 +20,7 @@ sections:
         url: https://kansas-my.sharepoint.com/:b:/g/personal/y943a214_home_ku_edu/EammlJ8dyVtMuhaS6MpYCp4BzccuB-_1azz0hMNnHRIpfg?e=79Qdmb
     design:
       spacing:
-        padding: ['4rem', 0, '2rem', 0]
+        padding: [0, 0, '2rem', 0]
   - block: markdown
     content:
       title: '📚 My Research'
