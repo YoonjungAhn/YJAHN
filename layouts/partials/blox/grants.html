@@ -13,7 +13,7 @@
 
   <div class="pf-grants__grid">
     {{ $i := 0 }}
-    {{ range $grants }}
+    {{ range where $grants "kind" "!=" "award" }}
       {{ if or (eq $count 0) (lt $i $count) }}
       <article class="pf-grant">
         <div class="pf-grant__top">
