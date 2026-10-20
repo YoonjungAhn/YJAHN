@@ -24,8 +24,6 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
-  - name: University of Kansas, Geography and Atmospheric Science
-    url: https://geog.ku.edu/
   - name: University of Kansas, Earth, Energy & Environment
     url: ''
 
