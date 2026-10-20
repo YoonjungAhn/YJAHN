@@ -34,10 +34,11 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Publications & Media
       filters:
         folders:
           - publication
+          - post
         featured_only: true
       count: 6
     design:
