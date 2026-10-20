@@ -28,7 +28,7 @@ sections:
       text: |-
         Yoonjung has been trained as a health and medical geographer and geospatial information scientist👩🏻‍💻. Her research focuses on the intersection of social determinants of health, health inequity, built environment, and extreme weather events engaging topics such as identifying spatial disparities of extreme heat, understanding spatial variability in gridded weather data, and generating trajectory of built environment data focusing on United States 🌏🏥🗺️🏙️
 
-        ![Yoonjung Ahn and an overview of her research on extreme heat, air conditioning, settlement history, coastal population, power outages, and care equity](uploads/research-overview.jpg)
+        <figure style="max-width:380px;margin:2rem auto 0;text-align:center"><img src="uploads/banksy-nola.jpg" alt="Banksy, Nola: a girl holding an umbrella that rain pours out of" style="width:100%;border-radius:12px"><figcaption style="font-size:.85rem;opacity:.75;margin-top:.5rem">Banksy, <em>Nola</em></figcaption></figure>
     design:
       columns: '1'
   - block: collection
