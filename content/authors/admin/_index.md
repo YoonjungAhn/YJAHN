@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.co.kr/citations?user=pj4OdpsAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0001-6960-8637
+    url: https://orcid.org/0000-0001-6960-8637
 
 interests:
   - Health and Medical Geography
@@ -162,6 +162,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Top Cited Article in GeoHealth
+    url: https://doi.org/10.1029/2023GH000923
+    date: '2025-01-01'
+    awarder: Wiley
+    kind: award
+    summary: |
+      *Comparing Approximated Heat Stress Measures Across the United States* (GeoHealth, 2024), recognized among the top cited articles published in 2024
   - title: Manufactured Housing Residents’ Air Quality and Perspectives
     date: '2025-01-01'
     awarder: Kansas EPSCoR, National Science Foundation – Research and Education Innovation (REI)
