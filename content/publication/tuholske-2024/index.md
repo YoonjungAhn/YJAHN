@@ -24,4 +24,13 @@ abstract: Climate change is predicted to increase the frequency of potentially h
   holding 12% of all incarcerated people. This highlights the urgency for enhanced
   infrastructure, health system interventions and treatment of incarcerated people,
   especially under climate change.
+summary: Exposure to hazardous heat at more than 4,000 U.S. carceral facilities, 1982–2020; state-run facilities in Texas and Florida account for 52% of total exposure.
+tags:
+- Extreme Heat
+featured: true
+url_pdf: 'https://www.nature.com/articles/s41893-024-01293-y'
+image:
+  caption: 'Figure from Tuholske et al. (2024), Nature Sustainability'
+  focal_point: ''
+  preview_only: true
 ---
